@@ -10,7 +10,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub ~2k stars]
 * [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub ~300 stars]
 * [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
-* [[Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482)](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
+* [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 
 #### NLP Conference and Paper summaries:
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
