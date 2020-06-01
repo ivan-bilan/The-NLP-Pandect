@@ -1,4 +1,6 @@
-# The-NLP-Pandect
+# The NLP Pandect
+
+![The-NLP-Pandect](./Resources/Images/pandect.png)
 
 This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find almost anything related to Natural Language 
  Processing that is available online.
