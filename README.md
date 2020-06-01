@@ -77,6 +77,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [GitHub ~1k stars]
 * [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) [GitHub ~500 stars]
 * [StarSpace](https://github.com/facebookresearch/StarSpace) [GitHub ~3k stars]
+* [fastText](https://github.com/facebookresearch/fastText) [GitHub ~21k stars]
 
 #### Blogs
 * [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista [Blog, 2018]
@@ -156,12 +157,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ## Data Augmentation
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 
-## Influential NLP Frameworks
+## NLP Frameworks
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
 * [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub ~17k stars]
 * [flair](https://github.com/flairNLP/flair) by Zalando [Github ~9k stars]
 * [AllenNLP](https://github.com/allenai/allennlp) by AI2 [Github ~9k stars]
+* [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub ~9k stars]
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
 * [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
 * [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub ~400 stars]
@@ -171,6 +174,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
+* [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub ~200 stars]
 
 ## Other NLP Topics
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
@@ -179,6 +183,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
+
+## NLP Communities
+* [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
 
 ## License: [CC0](./LICENSE)
 
