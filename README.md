@@ -8,16 +8,20 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Compendiums and awesome lists on the topic of NLP:
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub ~10k stars]
 * [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub ~2k stars]
+* [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub ~1k stars]
 * [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub ~300 stars]
 * [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
 * [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 
-#### NLP Conference and Paper summaries:
+#### NLP Conferences, Paper Summaries and Paper Compendiums:
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
-* [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub ~900 stars]
+* [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub ~1k stars]
+* [Curated collection of papers for the NLP practitioner](https://github.com/mihail911/nlp-library) [GitHub ~1k stars]
+* [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub ~500 stars]
 * [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [The Most Influential NLP Research of 2019](https://opendatascience.com/best-nlp-research-of-2019/)
+* [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub ~300 stars]
 
 #### NLP Progress and NLP Tasks:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub ~16k stars]
@@ -66,7 +70,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
 
 ### Embeddings
-* [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista. [Keywords: research, word embeddings, 2018]
+#### Repositories
+* [Pre-trained ELMo Representations for Many Languages](https://github.com/HIT-SCIR/ELMoForManyLangs) [GitHub ~1k stars]
+* [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [GitHub ~1k stars]
+* [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) [GitHub ~500 stars]
+* [StarSpace](https://github.com/facebookresearch/StarSpace) [GitHub ~3k stars]
+
+#### Blogs
+* [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista [Blog, 2018]
 * [An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=22_may_new_article) by AnalyticsVidhya [Blog, 2020]
 * [Polyglot Word Embeddings Discover Language Clusters](http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/) [Blog, 2020]
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
@@ -110,6 +121,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/) by Amit Chaudhary [Blog, 2020]
 * [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
 * [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
+* [ELECTRA](https://github.com/google-research/electra) [GitHub ~1k stars]
 
 #### Distillation, Pruning and Quantization
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
@@ -127,16 +139,21 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
 * [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub ~2k stars]
 
+### NLP Applications in Bio, Finance, Legal and other industries
+* [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub ~300 stars]
+* [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub ~600 stars]
+* [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
+
 ## Speech Processing
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 
-## Learning NLP
-* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
-* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
-
-## Data Processing and Big Data NLP
-* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
+## Topic Modeling
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
+* [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
+
+## Data Augmentation
+* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
+* [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
 
 ## Influential NLP Frameworks
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
@@ -145,13 +162,21 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [AllenNLP](https://github.com/allenai/allennlp) by AI2 [Github ~9k stars]
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
 * [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
+* [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub ~400 stars]
 * [nltk](https://github.com/nltk/nltk) [GitHub ~9k stars]
 * [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [Github ~2k stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
+* [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
 
 ## Other NLP Topics
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
+
+## Learning NLP
+* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
+* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+* [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
 
 ## License: [CC0](./LICENSE)
 
