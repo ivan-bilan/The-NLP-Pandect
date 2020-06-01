@@ -25,10 +25,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis) by [declare-lab](https://github.com/declare-lab) [GitHub ~100 stars]
 * [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) by [xiamx](https://github.com/xiamx) [GitHub ~800 stars]
 
-#### NLP Recipes for Research and Industrial Applications:
-* [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub ~5k stars]
-* [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
-
 #### NLP Datasets:
 * [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub ~4k stars]
 * [Big Bad NLP Database](https://datasets.quantumstat.com)
@@ -65,7 +61,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 
-## Research Blogs, Papers and Repositories
+## Research Blogs, Papers, Talks and Repositories
 ### General
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
 
@@ -81,8 +77,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Keeping up with the BERTs: a review of the main NLP benchmarks](https://creatext.ai/blog-posts/nlp-benchmarking-superglue-xtreme) by Manuel Tonneau [Blog, 2020]
 * [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
+* [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
 
 #### Transformer
+* [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
+* [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar [Blog, 2018]
 * [Illustrated Guide to Transformers](https://towardsdatascience.com/illustrated-guide-to-transformer-cf6969ffa067) by Hong Jing [Blog, 2020]
 * [Sequential Transformer with Adaptive Attention Span](https://github.com/facebookresearch/adaptive-span) by Facebook. [Blog](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/) [Blog, 2019]
 * [Evolution of Representations in the Transformer](https://lena-voita.github.io/posts/emnlp19_evolution.html) by Lena Voita [Blog, 2019]
@@ -103,6 +102,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
 * [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
 * [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
+* [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
+* [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
@@ -114,11 +115,20 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
 
-## Industry Blogs and Repositories
+## Industry Blogs, Talks and and Repositories
 ### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
+* [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
+
+### NLP Recipes Industrial Applications:
+* [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub ~5k stars]
+* [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
+* [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub ~2k stars]
+
+## Speech Processing
+* [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 
 ## Learning NLP
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
@@ -128,6 +138,21 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 
-### License: [CC0](./LICENSE)
+## Influential NLP Frameworks
+* [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
+* [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub ~17k stars]
+* [flair](https://github.com/flairNLP/flair) by Zalando [Github ~9k stars]
+* [AllenNLP](https://github.com/allenai/allennlp) by AI2 [Github ~9k stars]
+* [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
+* [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
+* [nltk](https://github.com/nltk/nltk) [GitHub ~9k stars]
+* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
+* [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [Github ~2k stars]
+* [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
+
+## Other NLP Topics
+* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
+
+## License: [CC0](./LICENSE)
 
 
