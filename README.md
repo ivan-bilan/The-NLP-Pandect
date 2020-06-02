@@ -5,8 +5,8 @@
 This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find almost anything related to Natural Language 
  Processing that is available online.
 
-## NLP Resources:
-
+![The-NLP-Resources](./Resources/Images/pandect_laurel.png)
+-----
 #### Compendiums and awesome lists on the topic of NLP:
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub ~10k stars]
 * [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub ~2k stars]
@@ -43,14 +43,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) by [Separius](https://github.com/Separius) [GitHub ~1.5k stars]
 * [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub ~1.5k stars]
 
-## NLP and NLP-related Podcasts
+
+![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
+-----
 * [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
 * [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
 * [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
 * [AI Game Changers](https://www.buzzsprout.com/1064803) [Years: 2020 - now, Status: active]
 
-## NLP and NLP-related Newsletters
+![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
+-----
 * [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
 * [Papers with Code](https://paperswithcode.com)
 * [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
@@ -67,7 +70,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 
-## Research Blogs, Papers, Talks and Repositories
+![The-NLP-Research](./Resources/Images/pandect_quill.png)
+-----
 ### General
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
 
@@ -130,19 +134,20 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
 
-## Industry Blogs, Talks and and Repositories
-### Transformer-based Architectures
+![The-NLP-Industry](./Resources/Images/pandect_industry.png)
+-----
+#### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 
-### NLP Recipes Industrial Applications:
+#### NLP Recipes Industrial Applications:
 * [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub ~5k stars]
 * [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
 * [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub ~2k stars]
 
-### NLP Applications in Bio, Finance, Legal and other industries
+#### NLP Applications in Bio, Finance, Legal and other industries
 * [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub ~300 stars]
 * [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub ~600 stars]
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
@@ -151,30 +156,41 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 
 ## Topic Modeling
+
+### Blogs
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
+
+### Repositories
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
+* [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub ~200 stars] [Paper](https://arxiv.org/abs/1907.04907)
 
 ## Data Augmentation
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 
-## NLP Frameworks
+![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
+-----
+### General Purpose
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
 * [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub ~17k stars]
 * [flair](https://github.com/flairNLP/flair) by Zalando [Github ~9k stars]
 * [AllenNLP](https://github.com/allenai/allennlp) by AI2 [Github ~9k stars]
-* [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub ~9k stars]
-* [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
 * [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
 * [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub ~400 stars]
 * [nltk](https://github.com/nltk/nltk) [GitHub ~9k stars]
 * [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [Github ~2k stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
-* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
 * [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub ~200 stars]
+
+### Dialog Systems
+* [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
+* [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub ~9k stars]
+
+### Distributed NLP
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
 
 ## Other NLP Topics
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
@@ -187,6 +203,13 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ## NLP Communities
 * [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
 
-## License: [CC0](./LICENSE)
+## License [CC0](./LICENSE)
 
-
+## Attributions
+#### Icons
+* Harp by Vectors Point from the [Noun Project](https://thenounproject.com)
+* [Laurel Wreath](https://thenounproject.com/term/laurel-wreath/1463426/) by Berkah Icon from the [Noun Project](https://thenounproject.com)
+* [Book](https://thenounproject.com/icon/304884/) of Ester by Gilad Sotil from the [Noun Project](https://thenounproject.com)
+* [quill](https://thenounproject.com/term/quill/17013/) by Juan Pablo Bravo from the [Noun Project](https://thenounproject.com)
+* [temple](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156638) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [constellation](https://thenounproject.com/eucalyp/collection/ancient-greece-glyph/?i=3156142) by Eucalyp from the [Noun Project](https://thenounproject.com)
