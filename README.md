@@ -5,7 +5,7 @@
 This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find almost anything related to Natural Language 
  Processing that is available online.
 
-![The-NLP-Resources](./Resources/Images/pandect_laurel.png)
+![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 #### Compendiums and awesome lists on the topic of NLP:
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub ~10k stars]
@@ -43,6 +43,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) by [Separius](https://github.com/Separius) [GitHub ~1.5k stars]
 * [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub ~1.5k stars]
 
+#### Notebooks, Scripts and Repositories
+* [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
@@ -59,10 +61,12 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 * [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
 
-## NLP Meetups Available Online
+![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
+-----
 * [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/)
 
-## NLP YouTube channels to follow
+![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
+-----
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 * [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
 * [Kaggle Reading Group](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
@@ -95,6 +99,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Keeping up with the BERTs: a review of the main NLP benchmarks](https://creatext.ai/blog-posts/nlp-benchmarking-superglue-xtreme) by Manuel Tonneau [Blog, 2020]
 * [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
+* [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
+* [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
 * [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
 
 #### Transformer
@@ -206,10 +212,15 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ## License [CC0](./LICENSE)
 
 ## Attributions
+#### Resources
+* All linked resource belong to original authors
+
 #### Icons
-* Harp by Vectors Point from the [Noun Project](https://thenounproject.com)
-* [Laurel Wreath](https://thenounproject.com/term/laurel-wreath/1463426/) by Berkah Icon from the [Noun Project](https://thenounproject.com)
+* [Akropolis](https://thenounproject.com/search/?q=ancient%20greek&i=403786) by parkjisun from the [Noun Project](https://thenounproject.com)
 * [Book](https://thenounproject.com/icon/304884/) of Ester by Gilad Sotil from the [Noun Project](https://thenounproject.com)
 * [quill](https://thenounproject.com/term/quill/17013/) by Juan Pablo Bravo from the [Noun Project](https://thenounproject.com)
+* [acting](https://thenounproject.com/term/acting/2369397/) by Flatart from the [Noun Project](https://thenounproject.com)
+* [aristocracy](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156156) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [temple](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156638) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [constellation](https://thenounproject.com/eucalyp/collection/ancient-greece-glyph/?i=3156142) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* Harp by Vectors Point from the [Noun Project](https://thenounproject.com)
