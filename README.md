@@ -198,6 +198,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Dialog Systems
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
+* [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [Github ~6k stars]
 * [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub ~9k stars]
 
 ### Distributed NLP
