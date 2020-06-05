@@ -57,6 +57,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
 -----
 * [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
+* [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
 * [Papers with Code](https://paperswithcode.com)
 * [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 * [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
