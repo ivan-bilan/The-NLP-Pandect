@@ -148,6 +148,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 
+#### Embeddings as a Service
+* [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, ~100 stars]
+* [Bert-as-service](https://github.com/hanxiao/bert-as-service) [GitHub, ~8k stars]
+
+
 #### NLP Recipes Industrial Applications:
 * [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub ~5k stars]
 * [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
@@ -213,7 +218,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ## Attributions
 #### Resources
-* All linked resource belong to original authors
+* All linked resources belong to original authors
 
 #### Icons
 * [Akropolis](https://thenounproject.com/search/?q=ancient%20greek&i=403786) by parkjisun from the [Noun Project](https://thenounproject.com)
