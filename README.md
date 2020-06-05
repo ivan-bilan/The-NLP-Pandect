@@ -75,6 +75,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 
+![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
+* [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
+* [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
+* [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
+* [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
+* [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
+* [RACE](http://www.qizhexie.com/data/RACE_leaderboard.html) - ReAding Comprehension dataset collected from English Examinations
+
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
 ### General
@@ -164,10 +172,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub ~600 stars]
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
 
-## Speech Processing
+![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 
-## Topic Modeling
+![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 
 ### Blogs
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
@@ -208,12 +216,12 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ## Other NLP Topics
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
 
-## Learning NLP
+![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
 
-## NLP Communities
+![The-NLP-Communities](./Resources/Images/pandect_communities.png)
 * [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
 
 ## License [CC0](./LICENSE)
@@ -227,7 +235,15 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Book](https://thenounproject.com/icon/304884/) of Ester by Gilad Sotil from the [Noun Project](https://thenounproject.com)
 * [quill](https://thenounproject.com/term/quill/17013/) by Juan Pablo Bravo from the [Noun Project](https://thenounproject.com)
 * [acting](https://thenounproject.com/term/acting/2369397/) by Flatart from the [Noun Project](https://thenounproject.com)
+* [olympic](https://thenounproject.com/term/olympic/1870751/) by supalerk laipawat from the [Noun Project](https://thenounproject.com)
 * [aristocracy](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156156) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [Horn](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156640) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [temple](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3156638) by Eucalyp from the [Noun Project](https://thenounproject.com)
 * [constellation](https://thenounproject.com/eucalyp/collection/ancient-greece-glyph/?i=3156142) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [ancient greek round pattern](https://thenounproject.com/term/ancient-greek-round-pattern/2048889/) by Olena Panasovska from the [Noun Project](https://thenounproject.com)
 * Harp by Vectors Point from the [Noun Project](https://thenounproject.com)
+* [Atlas](https://thenounproject.com/naripuru/collection/ancient-gods/?i=2225785) by parkjisun from the [Noun Project](https://thenounproject.com)
+* [Parthenon](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3158942) by Eucalyp from the [Noun Project](https://thenounproject.com)
+
+#### Fonts
+* [Dalek Font](https://www.dafont.com/dalek.font) 
