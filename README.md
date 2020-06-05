@@ -189,6 +189,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 
+## Ethics, Bias, and Equality in NLP
+* [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
+* [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
+
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
 ### General Purpose
