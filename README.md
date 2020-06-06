@@ -74,6 +74,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Rasa Paper Reading](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ/playlists)
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
+* [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
@@ -129,6 +130,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/) by Anna Rogers [Blog, 2020]
 * [Understanding searches better than ever before](https://www.blog.google/products/search/search-language-understanding-bert/) [Blog, 2019]
 * [Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/) [Blog, 2019]
+* [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [Github ~100 stars]
 
 #### GPT-family
 * [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
@@ -173,7 +175,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
+* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub ~5k stars]
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub ~14k stars]
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
+* [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub ~9k stars]
+* [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub ~300 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 
@@ -203,22 +209,30 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
 * [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub ~400 stars]
 * [nltk](https://github.com/nltk/nltk) [GitHub ~9k stars]
+* [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub ~2.5k stars]
 * [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [Github ~2k stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
 * [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub ~200 stars]
+* [SyferText](https://github.com/OpenMined/SyferText) - A privacy preserving NLP framework [GitHub ~100 stars]
 
-### Dialog Systems
+### Dialog Systems and Speech
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
 * [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [Github ~6k stars]
 * [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub ~9k stars]
+* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub ~5k stars]
 
 ### Distributed NLP
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
 
 ## Other NLP Topics
-* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [Github ~2k stars]
+#### General
+* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub ~2k stars]
+
+#### Tokenization
+* [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub ~3k stars]
+* [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub ~4k stars]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
