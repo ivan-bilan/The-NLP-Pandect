@@ -61,6 +61,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Papers with Code](https://paperswithcode.com)
 * [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 * [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
+* [NLP Cypher](https://medium.com/@quantumstat) by [QuantumStat](https://quantumstat.com)
 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
@@ -75,6 +76,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 * [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)
+* [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
@@ -133,12 +135,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [Github ~100 stars]
 
 #### GPT-family
+##### General
 * [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
 * [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
 * [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
+##### GPT-3
 * [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
 * [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
+* [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
+* [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
+* [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
@@ -150,6 +157,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Distillation, Pruning and Quantization
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
+
+### Automated Summarization
+* [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
@@ -163,7 +173,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, ~100 stars]
 * [Bert-as-service](https://github.com/hanxiao/bert-as-service) [GitHub, ~8k stars]
 
-
 #### NLP Recipes Industrial Applications:
 * [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub ~5k stars]
 * [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub ~1.5k stars]
@@ -173,13 +182,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub ~300 stars]
 * [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub ~600 stars]
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
+* [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub ~400 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
+### General Speech Recognition
 * [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub ~5k stars]
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub ~14k stars]
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 * [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub ~9k stars]
 * [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub ~300 stars]
+### Text to Speech
+* [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub ~500 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 
@@ -235,8 +248,15 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub ~4k stars]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
+#### Books
+* [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
+* [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
+
+#### Courses
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+
+#### Tutorials
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
