@@ -140,7 +140,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub ~200 stars]
 
 #### T5
-* [https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e] - T5 Understanding Transformer-Based Self-Supervised Architectures [Blog, August 2020]
+* [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
 * [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
 
 #### GPT-family
