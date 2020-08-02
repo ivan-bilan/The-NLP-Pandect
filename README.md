@@ -127,7 +127,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Sequential Transformer with Adaptive Attention Span](https://github.com/facebookresearch/adaptive-span) by Facebook. [Blog](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/) [Blog, 2019]
 * [Evolution of Representations in the Transformer](https://lena-voita.github.io/posts/emnlp19_evolution.html) by Lena Voita [Blog, 2019]
 * [Reformer: The Efficient Transformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) [Blog, 2020]
-* [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
 * [Longformer — The Long-Document Transformer](https://medium.com/dair-ai/longformer-what-bert-should-have-been-78f4cd595be9) by Viktor Karlsson [Blog, 2020]
 * [TRANSFORMERS FROM SCRATCH](http://www.peterbloem.nl/blog/transformers) [Blog, 2019]
 * [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
@@ -140,6 +139,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [Github ~100 stars]
 * [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub ~200 stars]
 
+#### T5
+* [https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e] - T5 Understanding Transformer-Based Self-Supervised Architectures [Blog, August 2020]
+* [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
+
 #### GPT-family
 ##### General
 * [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
@@ -147,6 +150,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
 * [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
 ##### GPT-3
+* [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub ~1.5K stars]
 * [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
 * [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
 * [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
@@ -235,6 +239,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
 * [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub ~200 stars]
 * [SyferText](https://github.com/OpenMined/SyferText) - A privacy preserving NLP framework [GitHub ~100 stars]
+* [DeText](https://github.com/linkedin/detext) - Text Understanding Framework for Ranking and Classification Tasks [GitHub ~600 stars]
 
 ### Dialog Systems and Speech
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
