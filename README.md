@@ -130,6 +130,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Longformer — The Long-Document Transformer](https://medium.com/dair-ai/longformer-what-bert-should-have-been-78f4cd595be9) by Viktor Karlsson [Blog, 2020]
 * [TRANSFORMERS FROM SCRATCH](http://www.peterbloem.nl/blog/transformers) [Blog, 2019]
 * [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
+* [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/) by George Ho [Blog, May 2020]
+* [Lite Transformer](https://github.com/mit-han-lab/lite-transformer) - Lite Transformer with Long-Short Range Attention [GitHub ~300 stars]
 
 #### BERT
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) by Jay Alammar [Blog, 2019]
@@ -149,6 +151,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
 * [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
 * [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
+
 ##### GPT-3
 * [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub ~1.5K stars]
 * [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
@@ -156,6 +159,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
 * [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
+
+#### BigBird
+* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
@@ -212,20 +218,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Repositories
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
 * [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub ~200 stars] [Paper](https://arxiv.org/abs/1907.04907)
-
-## Data Augmentation
-* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
-* [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
-* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
-
-## Ethics, Bias, and Equality in NLP
-* [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
-* [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
+* [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub ~100 stars]
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
 ### General Purpose
-* [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
 * [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub ~17k stars]
 * [flair](https://github.com/flairNLP/flair) by Zalando [Github ~9k stars]
 * [AllenNLP](https://github.com/allenai/allennlp) by AI2 [Github ~9k stars]
@@ -240,6 +237,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub ~200 stars]
 * [SyferText](https://github.com/OpenMined/SyferText) - A privacy preserving NLP framework [GitHub ~100 stars]
 * [DeText](https://github.com/linkedin/detext) - Text Understanding Framework for Ranking and Classification Tasks [GitHub ~600 stars]
+* [TextHero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization [GitHub ~2k stars]
+* [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub ~7k stars]
+* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub ~100 stars]
+* [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub ~200 stars]
+
+### Transformer-oriented
+* [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
+* [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub ~150 stars]
 
 ### Dialog Systems and Speech
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
@@ -258,6 +263,15 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub ~3k stars]
 * [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub ~4k stars]
 * [SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts [GitHub ~100 stars]
+
+#### Data Augmentation
+* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
+* [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
+
+#### Ethics, Bias, and Equality in NLP
+* [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
+* [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 #### Books
