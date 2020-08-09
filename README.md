@@ -1,4 +1,3 @@
-# The NLP Pandect
 
 ![The-NLP-Pandect](./Resources/Images/pandect.png)
 
