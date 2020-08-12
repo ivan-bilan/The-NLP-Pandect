@@ -45,6 +45,13 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Notebooks, Scripts and Repositories
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
 
+#### Non-English resources and compendiums
+* [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub ~100 stars]
+* [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub ~200 stars]
+
+#### Pre-trained NLP models
+* [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub ~100 stars]
+
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
 * [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
@@ -214,6 +221,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Blogs
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 
+### Frameworks for Topic Modeling
+* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub ~11k stars]
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
+
 ### Repositories
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
 * [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub ~200 stars] [Paper](https://arxiv.org/abs/1907.04907)
@@ -228,8 +239,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub ~4k stars]
 * [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub ~400 stars]
 * [nltk](https://github.com/nltk/nltk) [GitHub ~9k stars]
+* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub ~11k stars]
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub ~2.5k stars]
-* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [Github ~2k stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub ~1k stars]
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub ~200 stars]
@@ -238,8 +249,13 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [DeText](https://github.com/linkedin/detext) - Text Understanding Framework for Ranking and Classification Tasks [GitHub ~600 stars]
 * [TextHero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization [GitHub ~2k stars]
 * [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub ~7k stars]
-* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub ~100 stars]
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub ~200 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub ~800 stars]
+
+### Non-English oriented
+* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub ~100 stars]
+* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub ~2k stars]
+* [Underthesea ](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub ~800 stars]
 
 ### Transformer-oriented
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
