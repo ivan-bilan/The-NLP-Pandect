@@ -13,6 +13,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub ~300 stars]
 * [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
 * [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
+* [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub ~600 stars]
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
@@ -64,6 +65,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 -----
 * [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
 * [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
+* [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
 * [Papers with Code](https://paperswithcode.com)
 * [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
 * [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
@@ -72,6 +74,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
 * [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/)
+* [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
+* [DC-NLP (Washington DC)](https://www.meetup.com/DC-NLP/)
+* [Philadelphia NLP](https://www.meetup.com/PHL-NLP/)
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -80,6 +85,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Kaggle Reading Group](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
 * [Rasa Paper Reading](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ/playlists)
 * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [NLPxing](https://www.youtube.com/channel/UCuGC1JusVvbOGa__qMtH3QA/videos)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
 * [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)
 * [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
