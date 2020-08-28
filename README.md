@@ -75,8 +75,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 -----
 * [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/)
 * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
-* [DC-NLP (Washington DC)](https://www.meetup.com/DC-NLP/)
-* [Philadelphia NLP](https://www.meetup.com/PHL-NLP/)
+* [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -232,6 +231,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
 
 ### Repositories
+* [Top2Vec](https://github.com/ddangelov/Top2Vec) [Github ~150 stars]
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
 * [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub ~200 stars] [Paper](https://arxiv.org/abs/1907.04907)
 * [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub ~100 stars]
@@ -257,6 +257,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub ~7k stars]
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub ~200 stars]
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub ~800 stars]
+* [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub ~1.5k stars]
 
 ### Non-English oriented
 * [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub ~100 stars]
@@ -291,8 +292,24 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
+#### Keyword Extraction
+##### Text Rank
+* [PyTextRank](https://github.com/DerwenAI/pytextrank) - PyTextRank is a Python implementation of TextRank as a spaCy pipeline extension [GitHub ~1.3k stars]
+* [textrank](https://github.com/summanlp/textrank) - TextRank implementation for Python 3 [GitHub ~1k stars]
+
+##### RAKE - Rapid Automatic Keyword Extraction
+* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub ~700 stars]
+* [yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction [GitHub ~400 stars]
+* [RAKE-tutorial](https://github.com/zelandiya/RAKE-tutorial) - A python implementation of the Rapid Automatic Keyword Extraction [GitHub ~700 stars]
+* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub ~700 stars]
+
+##### Other
+* [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub ~4.4k stars]
+* [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub ~100 stars]
+
 #### NLP Interpretability
 * [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub ~150 stars]
+* [Toolkit to help visualise - what lies in word embeddings](https://github.com/RasaHQ/whatlies) [GitHub ~150 stars]
 
 #### Ethics, Bias, and Equality in NLP
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
