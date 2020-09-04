@@ -49,6 +49,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Non-English resources and compendiums
 * [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub ~100 stars]
 * [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub ~200 stars]
+* [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub ~600 stars]
 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub ~100 stars]
@@ -115,6 +116,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=22_may_new_article) by AnalyticsVidhya [Blog, 2020]
 * [Polyglot Word Embeddings Discover Language Clusters](http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/) [Blog, 2020]
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
+
+#### Cross-lingual Word Embeddings
+* [vecmap](https://github.com/artetxem/vecmap) - VecMap (cross-lingual word embedding mappings) [GitHub ~500stars]
 
 #### Byte Pair Encoding
 * [bpemb](https://github.com/bheinzerling/bpemb) - Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding (BPE) [GitHub ~800 stars]
@@ -187,6 +191,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
+
+### Rule-based NLP
+* [LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection  
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
