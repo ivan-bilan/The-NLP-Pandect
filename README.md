@@ -62,10 +62,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
-* [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
 * [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
-* [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
+* [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
+* [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
+* [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
 * [AI Game Changers](https://www.buzzsprout.com/1064803) [Years: 2020 - now, Status: active]
 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
