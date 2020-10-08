@@ -16,14 +16,19 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub ~600 stars]
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
-* [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
+##### Papers and Paper Summaries
+* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) 100 Must-Read NLP Papers [GitHub ~3k stars]
 * [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub ~1k stars]
 * [Curated collection of papers for the NLP practitioner](https://github.com/mihail911/nlp-library) [GitHub ~1k stars]
 * [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub ~500 stars]
-* [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
-* [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [The Most Influential NLP Research of 2019](https://opendatascience.com/best-nlp-research-of-2019/)
 * [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub ~300 stars]
+
+##### Conferences
+* [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
+* [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
+* [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
+* [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
 
 #### NLP Progress and NLP Tasks:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub ~16k stars]
@@ -33,6 +38,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### NLP Datasets:
 * [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub ~4k stars]
+* [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub ~4k stars]
 * [Big Bad NLP Database](https://datasets.quantumstat.com)
 * [25 Best Parallel Text Datasets for Machine Translation Training](https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
 * [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
@@ -97,6 +103,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
 * [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
 * [RACE](http://www.qizhexie.com/data/RACE_leaderboard.html) - ReAding Comprehension dataset collected from English Examinations
+* [XQuad](https://github.com/deepmind/xquad) - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -274,6 +281,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Transformer-oriented
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub ~28k stars]
 * [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub ~150 stars]
+* [haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. [GitHub ~1k stars]
 
 ### Dialog Systems and Speech
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [Github ~4k stars]
@@ -283,6 +291,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Distributed NLP
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [Github ~1k stars]
+
+### Machine Translation
+* [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [Github ~50 stars]
 
 ## Other NLP Topics
 #### General
@@ -294,9 +305,12 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts [GitHub ~100 stars]
 
 #### Data Augmentation and Weak Supervision
-* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
-* [Data augmentation for NLP](https://github.com/makcedward/nlpaug) [GitHub ~1k stars]
+##### Libraries and Frameworks
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub ~100 stars]
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
+* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub ~1k stars]
+##### Blogs and Tutorials
+* [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
 #### Keyword Extraction
@@ -313,6 +327,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ##### Other
 * [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub ~4.4k stars]
 * [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub ~100 stars]
+* [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub ~100 stars]
 
 #### NLP Interpretability
 * [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub ~150 stars]
