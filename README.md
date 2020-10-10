@@ -101,10 +101,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
+* [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 * [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
 * [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
 * [RACE](http://www.qizhexie.com/data/RACE_leaderboard.html) - ReAding Comprehension dataset collected from English Examinations
 * [XQuad](https://github.com/deepmind/xquad) - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
+* [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
+* [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
+* [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -225,6 +229,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub ~600 stars]
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub ~100 stars]
 * [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub ~400 stars]
+* [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 ### General Speech Recognition
