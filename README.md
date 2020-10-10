@@ -232,6 +232,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
+-----
 ### General Speech Recognition
 * [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub ~5k stars]
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub ~14k stars]
@@ -243,6 +244,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub ~500 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
+-----
 ### Blogs
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 
@@ -301,7 +303,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Machine Translation
 * [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [Github ~50 stars]
 
-## Other NLP Topics
+![Other-NLP-Topics](./Resources/Images/pandect_papyrus.png)
+-----
 #### General
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub ~2k stars]
 
@@ -344,6 +347,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
+-----
 #### Books
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
 * [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
@@ -357,6 +361,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
+-----
 * [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
 
 ## License [CC0](./LICENSE)
@@ -379,6 +384,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * Harp by Vectors Point from the [Noun Project](https://thenounproject.com)
 * [Atlas](https://thenounproject.com/naripuru/collection/ancient-gods/?i=2225785) by parkjisun from the [Noun Project](https://thenounproject.com)
 * [Parthenon](https://thenounproject.com/eucalyp/collection/ancient-greece-line/?i=3158942) by Eucalyp from the [Noun Project](https://thenounproject.com)
+* [papyrus](https://thenounproject.com/iconmark/collection/greek-mythology/?i=3515982) by IconMark from the [Noun Project](https://thenounproject.com)
 
 #### Fonts
 * [Dalek Font](https://www.dafont.com/dalek.font) 
