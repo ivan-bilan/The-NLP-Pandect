@@ -303,7 +303,25 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Machine Translation
 * [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [Github ~50 stars]
 
-![Other-NLP-Topics](./Resources/Images/pandect_papyrus.png)
+![The-NLP-Learning](./Resources/Images/pandect_learning.png)
+-----
+#### Books
+* [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
+* [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
+
+#### Courses
+* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
+* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+
+#### Tutorials
+* [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub ~1000 stars]
+* [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
+
+![The-NLP-Communities](./Resources/Images/pandect_communities.png)
+-----
+* [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
+
+![Other-NLP-Topics](Resources/Images/pandect_papyrus_other.png)
 -----
 #### General
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub ~2k stars]
@@ -345,24 +363,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Ethics, Bias, and Equality in NLP
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
-
-![The-NLP-Learning](./Resources/Images/pandect_learning.png)
------
-#### Books
-* [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
-* [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
-
-#### Courses
-* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
-* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
-
-#### Tutorials
-* [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub ~1000 stars]
-* [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
-
-![The-NLP-Communities](./Resources/Images/pandect_communities.png)
------
-* [r/LanguageTechnology](https://www.reddit.com/r/LanguageTechnology/) - NLP Reddit forum
 
 ## License [CC0](./LICENSE)
 
