@@ -58,7 +58,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub ~200 stars]
 * [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub ~600 stars]
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) [GitHub ~300 stars]
-* [AI4Bharat-Indic NLP Library](https://indicnlp.ai4bharat.org)
+* [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
 
 
 #### Pre-trained NLP models
