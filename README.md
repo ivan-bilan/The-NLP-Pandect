@@ -23,6 +23,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub ~500 stars]
 * [The Most Influential NLP Research of 2019](https://opendatascience.com/best-nlp-research-of-2019/)
 * [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub ~300 stars]
+* [Some Notable Recent ML Papers and Future Trends](https://arankomatsuzaki.wordpress.com/2020/10/15/some-notable-recent-ml-papers-and-future-trends/) by Aran Komatsuzaki [Blog, Oct. 2020]
 
 ##### Conferences
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub ~300 stars]
@@ -59,6 +60,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub ~600 stars]
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) [GitHub ~300 stars]
 * [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
+* [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub ~150 stars]
+* [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub ~1k stars]
 
 
 #### Pre-trained NLP models
@@ -102,17 +105,30 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
-* [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
+### General NLU
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
-* [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
-* [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
 * [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
 * [RACE](http://www.qizhexie.com/data/RACE_leaderboard.html) - ReAding Comprehension dataset collected from English Examinations
+* [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue
+* [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
+
+### Question Answering
+* [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
 * [XQuad](https://github.com/deepmind/xquad) - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
-* [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
+
+### Multilingual and Non-English Benchmarks
+* [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
+* [GLUECoS](https://github.com/microsoft/GLUECoS) - A benchmark for code-switched NLP
+* [IndoNLU Benchmark](https://www.indobenchmark.com) - collection of resources for training, evaluating, and analyzing NLP for Bahasa Indonesia
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
+
+### Bio, Law, and other scientific domains
+* [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
 * [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
+
+### Other
+* [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -175,6 +191,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### T5
 * [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
 * [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
+* [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub ~200 stars]
+
+#### Performer
+* [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub ~100 stars]
 
 #### GPT-family
 ##### General
@@ -190,6 +210,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
 * [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
+* [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 
 #### BigBird
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
@@ -314,11 +335,13 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
 
 #### Courses
+* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 
 #### Tutorials
 * [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub ~1000 stars]
+* [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers [GitHub ~8k stars]
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
@@ -367,6 +390,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Ethics, Bias, and Equality in NLP
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
+
+#### Low Resource NLP
+* [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub ~400 stars]
 
 ## License [CC0](./LICENSE)
 
