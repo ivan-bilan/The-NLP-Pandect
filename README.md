@@ -187,6 +187,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/) [Blog, 2019]
 * [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [Github ~100 stars]
 * [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub ~200 stars]
+* [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub ~300 stars]
+* [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub ~50 stars]
 
 #### T5
 * [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
@@ -221,6 +223,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
 * [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
 * [ELECTRA](https://github.com/google-research/electra) [GitHub ~1k stars]
+* [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub ~300 stars]
 
 #### Distillation, Pruning and Quantization
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
@@ -257,6 +260,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub ~400 stars]
 * [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
 
+#### Model and Data testing
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub ~100 stars]
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub ~3k stars]
+
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
 ### General Speech Recognition
@@ -283,6 +290,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub ~300 stars]
 * [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub ~200 stars] [Paper](https://arxiv.org/abs/1907.04907)
 * [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub ~100 stars]
+* [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub ~400 stars]
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
@@ -334,6 +342,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Books
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
 * [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
+* [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
 
 #### Courses
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
@@ -344,6 +353,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub ~1000 stars]
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers [GitHub ~8k stars]
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub ~300 stars]
+* [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) [GitHub ~300 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
 -----
@@ -364,6 +374,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub ~100 stars]
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub ~1k stars]
+* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub ~300 stars]
+
 ##### Blogs and Tutorials
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
@@ -384,8 +396,20 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub ~100 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub ~100 stars]
 
+#### Named Entity Recognition (NER)
+* [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub ~400 stars]
+* [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets [GitHub ~200 stars]
+
+#### Relation Extraction
+* [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub ~300 stars]
+* [tacrev](https://github.com/DFKI-NLP/tacrev) TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [GitHub ~50 stars]
+* [tac-self-attention](https://github.com/ivan-bilan/tac-self-attention) Relation extraction with position-aware self-attention [GitHub ~50 stars]
+
+#### Domain Adaptation
+* [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub ~100 stars]
+
 #### NLP Interpretability
-* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub ~150 stars]
+* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub ~800 stars]
 * [Toolkit to help visualise - what lies in word embeddings](https://github.com/RasaHQ/whatlies) [GitHub ~150 stars]
 
 #### Ethics, Bias, and Equality in NLP
