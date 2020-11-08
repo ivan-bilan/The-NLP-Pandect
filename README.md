@@ -105,6 +105,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
+-----
 ### General NLU
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
@@ -398,7 +399,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Named Entity Recognition (NER)
 * [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub ~400 stars]
-* [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets [GitHub ~200 stars]
+* [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets) [GitHub ~200 stars]
 
 #### Relation Extraction
 * [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub ~300 stars]
