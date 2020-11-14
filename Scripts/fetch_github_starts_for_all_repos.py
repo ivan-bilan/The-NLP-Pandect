@@ -1,5 +1,5 @@
 """
-This script will parse all GitHub repositories present in the README.md, update the number of starts for each, and
+This script will parse all GitHub repositories present in the README.md, update the number of stars for each, and
 regenerate the README.md with the updated star count. All you need is a GitHub API token that you can generate in your
 GitHub profile settings.
 """

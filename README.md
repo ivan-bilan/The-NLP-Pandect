@@ -434,7 +434,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 430 stars]
 
 #### Spell Correction
-* [NeuSpell](https://slator.com/ma-and-funding/lionbridge-sells-ai-division-to-telus-for-usd-935-million/) - A Neural Spelling Correction Toolkit [GitHub ~50 stars]
+* [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 35 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 389 stars]
 
 ## License [CC0](./LICENSE)
