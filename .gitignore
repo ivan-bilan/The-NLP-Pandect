@@ -139,3 +139,4 @@ cython_debug/
 
 # don't commit github access token file
 ./Scripts/github_access_token.py
+./Scripts/README.md
