@@ -136,3 +136,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# don't commit github access token file
+./Scripts/github_access_token.py
