@@ -1,8 +1,7 @@
 
 ![The-NLP-Pandect](./Resources/Images/pandect.png)
 
-This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find almost anything related to Natural Language 
- Processing that is available online.
+This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was created to help you find almost anything related to Natural Language Processing that is available online.
 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
@@ -30,6 +29,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
+* [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
 
 #### NLP Progress and NLP Tasks:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub ~16k stars]
@@ -127,6 +127,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Bio, Law, and other scientific domains
 * [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
 * [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
+
+### Transformer Efficiency
+* [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub ~100 stars]
 
 ### Other
 * [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
@@ -313,8 +316,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [TextHero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization [GitHub ~2k stars]
 * [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub ~7k stars]
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub ~200 stars]
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub ~800 stars]
 * [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub ~1.5k stars]
+
+### Data Augmentation
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub ~100 stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
+* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub ~1k stars]
+* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub ~300 stars]
+
+### Adversarial NLP Attacks
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub ~800 stars]
+* [CleverHans](https://github.com/tensorflow/cleverhans) - adversarial example library for constructing NLP attacks and building defenses [GitHub ~5k stars]
 
 ### Non-English oriented
 * [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub ~100 stars]
@@ -376,6 +388,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub ~4k stars]
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub ~1k stars]
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub ~300 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub ~800 stars]
 
 ##### Blogs and Tutorials
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
@@ -419,6 +432,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Low Resource NLP
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub ~400 stars]
+
+#### Spell Correction
+* [NeuSpell](https://slator.com/ma-and-funding/lionbridge-sells-ai-division-to-telus-for-usd-935-million/) - A Neural Spelling Correction Toolkit [GitHub ~50 stars]
+* [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub ~400 stars]
 
 ## License [CC0](./LICENSE)
 
