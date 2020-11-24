@@ -114,9 +114,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue
 * [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
 
+### Summarization
+* [WikiAsp](https://github.com/neulab/wikiasp) - WikiAsp: Multi-document aspect-based summarization Dataset
+
 ### Question Answering
 * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
 * [XQuad](https://github.com/deepmind/xquad) - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
+* [GrailQA](https://dki-lab.github.io/GrailQA/) - Strongly Generalizable Question Answering (GrailQA)
+* [CSQA](https://amritasaha1812.github.io/CSQA/) - Complex Sequential Question Answering
 
 ### Multilingual and Non-English Benchmarks
 * [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
@@ -241,6 +246,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
+#### Best Practices for NLP
+* [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
+
 #### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
@@ -409,10 +417,12 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 4546 stars]
 * [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 137 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 159 stars]
+* [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 192 stars]
 
 #### Named Entity Recognition (NER)
 * [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub, 792 stars]
 * [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets) [GitHub, 212 stars]
+* [Bootleg](https://github.com/HazyResearch/bootleg) - Self-Supervision for Named Entity Disambiguation at the Tail [GitHub, 49 stars]
 
 #### Relation Extraction
 * [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub, 261 stars]
@@ -436,6 +446,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Spell Correction
 * [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 35 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 389 stars]
+
+#### Reinforcement Learning for NLP
+* [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 45 stars]
 
 ## License [CC0](./LICENSE)
 
