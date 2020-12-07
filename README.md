@@ -69,10 +69,17 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
-* [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
-* [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
+
+#### NLP-only podcasts
 * [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
+
+#### Many NLP episodes
+* [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
 * [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
+* [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
+
+#### Some NLP episodes
+* [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
 * [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
 * [AI Game Changers](https://www.buzzsprout.com/1064803) [Years: 2020 - now, Status: active]
 
@@ -88,9 +95,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
-* [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/)
+* [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
-* [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)
+* [Online NLP Meetup](https://www.meetup.com/nlp-meetup-series)
+* [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -275,6 +283,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Model and Data testing
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 63 stars]
 * [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 3103 stars]
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1100 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1065 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
@@ -432,13 +442,15 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Domain Adaptation
 * [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub, 102 stars]
 
-#### NLP Interpretability
+#### NLP and ML Interpretability
 * [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2192 stars]
-* [Toolkit to help visualise - what lies in word embeddings](https://github.com/RasaHQ/whatlies) [GitHub, 184 stars]
+* [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 184 stars]
+* [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3300 stars]
 
 #### Ethics, Bias, and Equality in NLP
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
+* [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 
 #### Low Resource NLP
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 436 stars]
@@ -449,6 +461,12 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Reinforcement Learning for NLP
 * [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 45 stars]
+
+#### AutoML
+* [TPOT](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool [GitHub, 7700 stars]
+* [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1100 stars]
+* [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 605 stars]
+* [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
 
 ## License [CC0](./LICENSE)
 
