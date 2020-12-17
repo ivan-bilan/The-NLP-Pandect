@@ -63,9 +63,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 154 stars]
 * [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 871 stars]
 
-
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 114 stars]
+
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
@@ -77,6 +77,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
 * [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
 * [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
+* [Gradient Dissent](https://www.wandb.com/podcast) [Years: 2020 - now, Status: active]
 
 #### Some NLP episodes
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
@@ -136,6 +137,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [GLUECoS](https://github.com/microsoft/GLUECoS) - A benchmark for code-switched NLP
 * [IndoNLU Benchmark](https://www.indobenchmark.com) - collection of resources for training, evaluating, and analyzing NLP for Bahasa Indonesia
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
+* [LinCE](https://ritual.uh.edu/lince/) - Linguistic Code-Switching Evaluation Benchmark
 
 ### Bio, Law, and other scientific domains
 * [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
@@ -146,6 +148,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Other
 * [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
+* [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -248,6 +251,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
+* [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 12 stars]
 
 ### Rule-based NLP
 * [LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection  
@@ -256,6 +260,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 -----
 #### Best Practices for NLP
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
+* [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 
 #### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
@@ -279,6 +284,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub, 128 stars]
 * [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub, 411 stars]
 * [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
+* [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) - A list of selected resources dedicated to Legal Text Analytics [GitHub, 127 stars]
 
 #### Model and Data testing
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 63 stars]
@@ -341,6 +347,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4327 stars]
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 1446 stars]
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 246 stars]
+* [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 11700 stars]
 
 ### Adversarial NLP Attacks
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1108 stars]
@@ -367,6 +374,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Machine Translation
 * [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [GitHub, 45 stars]
+
+### Entity and String Matching
+* [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 250 stars]
+
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
@@ -467,6 +478,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1064 stars]
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 605 stars]
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
+
+#### Adversarial Attacks for NLP
+* [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
+* [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 45 stars]
 
 ## License [CC0](./LICENSE)
 
