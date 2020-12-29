@@ -78,6 +78,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
 * [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
 * [Gradient Dissent](https://www.wandb.com/podcast) [Years: 2020 - now, Status: active]
+* [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) [Years: 2020 - now, Status: active]
 
 #### Some NLP episodes
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
@@ -149,6 +150,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Other
 * [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 * [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
+* [MultiNLI](cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -259,6 +261,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
 #### Best Practices for NLP
+* [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 
@@ -456,9 +459,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### NLP and ML Interpretability
 * [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2280 stars]
 * [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 196 stars]
+* [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 191 stars]
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3329 stars]
 
 #### Ethics, Bias, and Equality in NLP
+* [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
 * [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
