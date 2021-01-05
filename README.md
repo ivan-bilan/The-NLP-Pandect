@@ -348,6 +348,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 208 stars]
 * [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 191 stars]
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3348 stars]
+* [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 77 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
@@ -417,6 +418,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Entity and String Matching
 * [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 264 stars]
 
+### Discourse Analysis
+* [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 229 stars]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
