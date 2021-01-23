@@ -66,6 +66,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 114 stars]
 
+#### NLP Year in Review
+##### 2020
+* [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
+* [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/) [Blog, January 2021]
+
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
@@ -212,13 +217,22 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 396 stars]
 * [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 66 stars]
 
-#### T5
+#### Other Transformer Variants
+##### T5
 * [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
 * [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
 * [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub, 526 stars]
-
-#### Performer
+##### BigBird
+* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
+##### Reformer / Linformer / Longformer / Performers
+* [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) - [Paper, February 2020] [[Video](https://www.youtube.com/watch?v=xJrKIPwVwGM), October 2020]
+* [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - [Paper, April 2020] [[Video](https://www.youtube.com/watch?v=_8KNb5iqblE), April 2020]
+* [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) - [Paper, June 2020] [[Video](https://www.youtube.com/watch?v=-_2AF9Lhweo), June 2020]
+* [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) - [Paper, September 2020] [[Video](https://www.youtube.com/watch?v=0eTULzrOztQ), September 2020]
 * [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 425 stars]
+
+##### Switch Transformer
+* [Switch Transformers: Scaling to Trillion Parameter Models](https://arxiv.org/abs/2101.03961) original paper by Google Research [Paper, January 2021]
 
 #### GPT-family
 ##### General
@@ -228,16 +242,18 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
 
 ##### GPT-3
-* [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 2723 stars]
+###### Learning Resources
 * [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
 * [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
 * [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
 * [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
-* [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
 * [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
-
-#### BigBird
-* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
+###### Applications
+* [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 2723 stars]
+* [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
+* [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
+###### Open-source Efforts
+* [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
