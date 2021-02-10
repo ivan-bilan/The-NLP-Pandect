@@ -386,6 +386,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub, 484 stars]
 * [nltk](https://github.com/nltk/nltk) [GitHub, 9512 stars]
 * [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 11534 stars]
+* [pororo](https://github.com/kakaobrain/pororo) - Platform of neural models for natural language processing [GitHub, 647 stars]
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub, 2563 stars]
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1737 stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub, 1057 stars]
@@ -425,11 +426,18 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 10419 stars]
 * [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5577 stars]
 
+### Word-embeddings oriented
+* [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 2700 stars]
+* [vecmap](https://github.com/artetxem/vecmap) A framework to learn cross-lingual word embedding mappings [GitHub, 525 stars]
+
 ### Distributed NLP
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 1776 stars]
 
 ### Machine Translation
 * [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [GitHub, 49 stars]
+* [marian-nmt](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++ [GitHub, 761 stars]
+* [argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python [GitHub, 423 stars]
+* [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services [GitHub, 101 stars]
 
 ### Entity and String Matching
 * [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 264 stars]
