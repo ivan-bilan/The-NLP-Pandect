@@ -354,8 +354,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Other
 * [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 4650 stars]
 * [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 160 stars]
-* [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 177 stars]
 * [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 331 stars]
+* [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
@@ -365,12 +365,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 208 stars]
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3459 stars]
 * [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 677 stars]
+* [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 177 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
 * [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
+* [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
 
 ### Adversarial Attacks for NLP
 * [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
@@ -511,6 +513,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Spell Correction
 * [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 74 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 407 stars]
+* [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021] 
+
+#### Obscene words detection
+[LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1300 stars]
 
 #### Reinforcement Learning for NLP
 * [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 77 stars]
