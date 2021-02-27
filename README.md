@@ -400,6 +400,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub, 7553 stars]
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub, 269 stars]
 * [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub, 1609 stars]
+* [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow [GitHub, 2113 stars]
 
 ### Data Augmentation
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 64 stars]
@@ -443,6 +444,11 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Entity and String Matching
 * [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 285 stars]
+* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 585 stars]
+* [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python [GitHub, 7900 stars]
+* [jellyfish](https://github.com/jamesturk/jellyfish) - approximate and phonetic matching of strings [GitHub, 1400 stars]
+* [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences [GitHub, 1900 stars]
+* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Compute distance between sequences [GitHub, 276 stars]
 
 ### Discourse Analysis
 * [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 244 stars]
@@ -514,6 +520,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 76 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 412 stars]
 * [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021] 
+
+#### Automata Theory for NLP
+* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 585 stars]
 
 #### Obscene words detection
 [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1275 stars]
