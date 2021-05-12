@@ -6,6 +6,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 #### Compendiums and awesome lists on the topic of NLP:
+* [The NLP Index](https://index.quantumstat.com) by Quantum Stat / NLP Cypher
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 11582 stars]
 * [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2003 stars]
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 899 stars]
@@ -13,6 +14,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
 * [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 * [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 823 stars]
+* [Resources on various machine learning topics](https://www.backprop.org) by Backprop
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 ##### Papers and Paper Summaries
@@ -24,6 +26,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub, 286 stars]
 * [Some Notable Recent ML Papers and Future Trends](https://arankomatsuzaki.wordpress.com/2020/10/15/some-notable-recent-ml-papers-and-future-trends/) by Aran Komatsuzaki [Blog, Oct. 2020]
 * [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) [GitHub, 1199 stars]
+* [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1100 stars]
+* [Video recordings index for papers](https://papertalk.org/index)
 
 ##### Conferences
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 347 stars]
@@ -31,6 +35,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
 * [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
+* [Video Recordings from Conferences](https://crossminds.ai/explore/)
 
 #### NLP Progress and NLP Tasks:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub, 17841 stars]
@@ -177,8 +182,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Polyglot Word Embeddings Discover Language Clusters](http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/) [Blog, 2020]
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
 
-#### Cross-lingual Word Embeddings
+#### Cross-lingual Word and Sentence Embeddings
 * [vecmap](https://github.com/artetxem/vecmap) - VecMap (cross-lingual word embedding mappings) [GitHub, 527 stars]
+* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 5000 stars]
 
 #### Byte Pair Encoding
 * [bpemb](https://github.com/bheinzerling/bpemb) - Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding (BPE) [GitHub, 893 stars]
@@ -321,9 +327,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub, 10155 stars]
 * [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub, 381 stars]
 * [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 3540 stars]
-* 
+
 ### Text to Speech
 * [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 587 stars]
+* [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech [GitHub, 1400 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 -----
@@ -340,6 +347,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub, 294 stars] [Paper](https://arxiv.org/abs/1907.04907)
 * [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub, 105 stars]
 * [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub, 689 stars]
+* [OCTIS](https://github.com/MIND-Lab/OCTIS) - A python package to optimize and evaluate topic models [GitHub, 157 stars]
 
 ![Keyword-Extraction](./Resources/Images/pandect_papyrus2.png)
 -----
@@ -368,6 +376,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3491 stars]
 * [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 693 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 179 stars]
+* [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 271 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
@@ -392,7 +401,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 11751 stars]
 * [pororo](https://github.com/kakaobrain/pororo) - Platform of neural models for natural language processing [GitHub, 780 stars]
 * [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub, 2601 stars]
-* [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1773 stars]
 * [FARM](https://github.com/deepset-ai/FARM) [GitHub, 1108 stars]
 * [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub, 251 stars]
 * [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub, 221 stars]
@@ -403,6 +411,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub, 269 stars]
 * [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub, 1609 stars]
 * [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow [GitHub, 2113 stars]
+* [jiant](https://github.com/nyu-mll/jiant) - jiant is an NLP toolkit [GitHub, 1200 stars]
 
 ### Data Augmentation
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 64 stars]
@@ -410,6 +419,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 1638 stars]
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 268 stars]
 * [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 12133 stars]
+* [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for NLP [GitHub, 431 stars]
 
 ### Adversarial NLP Attacks
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1263 stars]
@@ -432,9 +442,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5655 stars]
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chat bots [GitHub, 10900 stars]
 
-### Word-embeddings oriented
+### Word/Sentence-embeddings oriented
 * [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 2690 stars]
 * [vecmap](https://github.com/artetxem/vecmap) A framework to learn cross-lingual word embedding mappings [GitHub, 527 stars]
+* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 5000 stars]
+
+### Multi-lingual tools
+* [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1773 stars]
+* [trankit](https://github.com/nlp-uoregon/trankit) - Light-Weight Transformer-based Python Toolkit for Multilingual NLP [GitHub, 447 stars]
 
 ### Distributed NLP
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 1963 stars]
@@ -444,6 +459,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [marian-nmt](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++ [GitHub, 764 stars]
 * [argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python [GitHub, 453 stars]
 * [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services [GitHub, 104 stars]
+* [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers [GitHub, 136 stars]
 
 ### Entity and String Matching
 * [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 285 stars]
@@ -455,6 +471,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ### Discourse Analysis
 * [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 244 stars]
+
+### PII scrubbing
+* [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 235 stars]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
@@ -468,6 +487,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Courses
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
+* [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 
@@ -538,6 +558,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1154 stars]
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 610 stars]
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
+
+#### Text Generation
+* [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 94 stars]
 
 ## License [CC0](./LICENSE)
 
