@@ -225,6 +225,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub, 323 stars]
 * [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 431 stars]
 * [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 111 stars]
+* [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) [Blog, Dec 2020]
 
 #### Other Transformer Variants
 ##### T5
@@ -275,6 +276,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 #### Distillation, Pruning and Quantization
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
+* [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) ([+Overview of Approaches](https://www.humanizing-ai.com/model-compression.html)) [Paper, April 2021]
 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
@@ -289,6 +291,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
+* [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
+
 
 #### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
@@ -381,6 +385,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 357 stars]
 
 ### Ethics, Bias, and Equality in NLP
+* [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
 * [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
@@ -486,6 +491,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 -----
 #### General
 * [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
+* [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
 
 #### Books
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
@@ -570,6 +576,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 #### Text Generation
 * [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 135 stars]
+* [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
 
 ## License [CC0](./LICENSE)
 
