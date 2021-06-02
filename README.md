@@ -516,9 +516,6 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 
 ![Other-NLP-Topics](Resources/Images/pandect_papyrus_other.png)
 -----
-#### General
-* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2289 stars]
-
 #### Tokenization
 * [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub, 4548 stars]
 * [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub, 5069 stars]
@@ -547,6 +544,10 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [tacrev](https://github.com/DFKI-NLP/tacrev) TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [GitHub, 40 stars]
 * [tac-self-attention](https://github.com/ivan-bilan/tac-self-attention) Relation extraction with position-aware self-attention [GitHub, 58 stars]
 
+#### Coreference Resolution
+* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2289 stars]
+* [coref](https://github.com/mandarjoshi90/coref) - BERT and SpanBERT for Coreference Resolution [GitHub, 300 stars]
+
 #### Domain Adaptation
 * [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub, 153 stars]
 
@@ -562,7 +563,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 610 stars]
 
 #### Obscene words detection
-[LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1391 stars]
+* [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1391 stars]
 
 #### Reinforcement Learning for NLP
 * [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 89 stars]
