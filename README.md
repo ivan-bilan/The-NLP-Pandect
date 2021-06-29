@@ -159,6 +159,9 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 ### Transformer Efficiency
 * [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 268 stars]
 
+### Speech Processing
+* [SUPERB](http://superbbenchmark.org/) - Speech processing Universal PERformance Benchmark
+
 ### Other
 * [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 * [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
@@ -202,6 +205,8 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
 * [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
 * [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640) [Paper, April 2021]
+* [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139) [Paper, June 2021]
+* [A Survey of Transformers](https://arxiv.org/abs/2106.04554) [Paper, June 2021]
 
 #### Transformer
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
@@ -292,7 +297,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
-
+* [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 
 #### Transformer-based Architectures
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
@@ -317,6 +322,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub, 452 stars]
 * [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
 * [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) - A list of selected resources dedicated to Legal Text Analytics [GitHub, 289 stars]
+* [BioIE](https://github.com/caufieldjh/awesome-bioie) - A curated list of resources relevant to doing Biomedical Information Extraction [GitHub, 148 stars]
 
 #### Model and Data testing
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 64 stars]
@@ -333,6 +339,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub, 10469 stars]
 * [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub, 421 stars]
 * [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 3796 stars]
+* [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression) - Self-supervised representation learning for speech recognition, generation, and compression [Blog, June 2021]
 
 ### Text to Speech
 * [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 621 stars]
@@ -354,6 +361,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub, 107 stars]
 * [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub, 997 stars]
 * [OCTIS](https://github.com/MIND-Lab/OCTIS) - A python package to optimize and evaluate topic models [GitHub, 169 stars]
+* [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) [GitHub, 459 stars]
 
 ![Keyword-Extraction](./Resources/Images/pandect_papyrus2.png)
 -----
@@ -367,11 +375,14 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [RAKE-tutorial](https://github.com/zelandiya/RAKE-tutorial) - A python implementation of the Rapid Automatic Keyword Extraction [GitHub, 351 stars]
 * [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub, 818 stars]
 
-### Other
+### Other Approaches
 * [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 4765 stars]
 * [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 186 stars]
 * [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 573 stars]
+
+### Further Reading
 * [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
+* [How to Extract Relevant Keywords with KeyBERT](https://towardsdatascience.com/how-to-extract-relevant-keywords-with-keybert-6e7b3cf889ae) [Blog, June 2021]
 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
@@ -555,9 +566,13 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 480 stars]
 
 #### Spell Correction
+* [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 570 stars]
 * [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 167 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 439 stars]
 * [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021] 
+
+#### Style Transfer for NLP
+* [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 178 stars]
 
 #### Automata Theory for NLP
 * [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 610 stars]
