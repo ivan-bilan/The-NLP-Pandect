@@ -96,6 +96,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
 * [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
 * [AI Game Changers](https://www.buzzsprout.com/1064803) [Years: 2020 - now, Status: active]
+* [The Analytics Show](https://anchor.fm/analyticsshow) [Years: 2019 - now, Status: active]
 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
 -----
@@ -151,6 +152,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [IndoNLU Benchmark](https://www.indobenchmark.com) - collection of resources for training, evaluating, and analyzing NLP for Bahasa Indonesia
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
 * [LinCE](https://ritual.uh.edu/lince/) - Linguistic Code-Switching Evaluation Benchmark
+* [Russian SuperGlue](https://russiansuperglue.com) - Russian SuperGlue Benchmark
 
 ### Bio, Law, and other scientific domains
 * [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
@@ -269,6 +271,7 @@ This _pandect_ (_πανδέκτης is Ancient Greek for encyclopedia_) was crea
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
 ###### Open-source Efforts
 * [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication
+* [GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b) - A 6 billion parameter, autoregressive text generation model trained on The Pile
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
