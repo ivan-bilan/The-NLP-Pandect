@@ -631,10 +631,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 <p align="middle">
 <a href="https://github.com/ivan-bilan/The-Microservices-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Microservices-Pandect/main/Resources/Images/pandect.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/microservices_pandect_promo.png" width="390" />
 </a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/ivan-bilan/The-Engineering-Manager-Pandect">
-  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/pandect.png" width="370" />
+  <img src="https://raw.githubusercontent.com/ivan-bilan/The-Engineering-Manager-Pandect/main/Resources/Images/em_pandect_promo.png" width="370" />
 </a>
 </p>
