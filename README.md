@@ -627,7 +627,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 -----
 
-<h3 style="font-size:20px;text-align:center;">The Pandect Series also includes:</h3>
+<h3 align="center">The Pandect Series also includes</h3>
 
 <p align="middle">
 <a href="https://github.com/ivan-bilan/The-Microservices-Pandect">
