@@ -74,8 +74,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 133 stars]
 
-#### NLP Year in Review
-##### 2020
+#### NLP History
+##### General
+* [History of Natural Language Processing](https://www.nlphistory.com/)
+* [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
+##### 2020 Year in Review
 * [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/) [Blog, January 2021]
 
@@ -290,6 +293,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
 * [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 62 stars]
+* [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 92 stars]
 
 ### Rule-based NLP
 * [LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection  
@@ -304,11 +308,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 
 #### Transformer-based Architectures
+##### General
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 97 stars]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
+##### Multi-GPU Transfomers
+* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 208 stars]
 
 #### Embeddings as a Service
 * [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, 156 stars]
@@ -333,6 +340,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4653 stars]
 * [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
+
+#### Deployability
+* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
@@ -398,6 +408,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 815 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 196 stars]
 * [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 405 stars]
+* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - collection of research materials on explainable AI/ML [GitHub, 316 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
@@ -444,6 +455,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 12753 stars]
 * [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for NLP [GitHub, 470 stars]
 * [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - Practical and feature-rich paraphrasing framework [GitHub, 244 stars]
+* [AugLy ](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3600 stars]
 
 #### Papers & Blogs
 * [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021]
@@ -474,12 +486,19 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [vecmap](https://github.com/artetxem/vecmap) A framework to learn cross-lingual word embedding mappings [GitHub, 553 stars]
 * [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 5498 stars]
 
+### Social Media Oriented
+* [Ekphrasis](https://github.com/cbaziotis/ekphrasis) - text processing tool, geared towards text from social networks [GitHub, 479 stars]
+
+### Phonetics
+* [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) - grapheme to phoneme conversion with deep learning [GitHub, 51 stars]
+
 ### Multi-lingual tools
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1864 stars]
 * [trankit](https://github.com/nlp-uoregon/trankit) - Light-Weight Transformer-based Python Toolkit for Multilingual NLP [GitHub, 488 stars]
 
-### Distributed NLP
+### Distributed NLP / Multi-GPU NLP
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 2234 stars]
+* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 208 stars]
 
 ### Machine Translation
 * [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [GitHub, 65 stars]
@@ -543,6 +562,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2193 stars]
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 323 stars]
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
+* [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 310 stars]
 
 ##### Blogs and Tutorials
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
