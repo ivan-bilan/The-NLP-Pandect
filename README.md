@@ -272,10 +272,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ###### Applications
 * [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3219 stars]
 * [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
+* [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
 ###### Open-source Efforts
-* [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication
+* [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication [HuggingFace Hub](https://huggingface.co/EleutherAI)
 * [GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b) - A 6 billion parameter, autoregressive text generation model trained on The Pile
+* [Effectively using GPT-J with few-shot learning](https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html) [Blog, July 2021]
 
 #### Other
 * [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
