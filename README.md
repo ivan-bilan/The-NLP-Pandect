@@ -343,6 +343,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Deployability
 * [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
+* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
