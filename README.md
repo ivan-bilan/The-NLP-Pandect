@@ -88,6 +88,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### NLP-only podcasts
 * [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
+* [The NLP Zone](https://de.player.fm/series/the-nlp-zone) [Years: 2021 - now, Status: active]
 
 #### Many NLP episodes
 * [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
