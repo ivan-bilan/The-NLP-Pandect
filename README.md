@@ -451,7 +451,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [jiant](https://github.com/nyu-mll/jiant) - jiant is an NLP toolkit [GitHub, 1282 stars]
 
 ### Data Augmentation
-#### Tools
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 65 stars]
 * [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4692 stars]
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2193 stars]
@@ -461,12 +460,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - Practical and feature-rich paraphrasing framework [GitHub, 244 stars]
 * [AugLy ](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3600 stars]
 
-#### Papers & Blogs
-* [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021]
-
-### Adversarial NLP Attacks
+### Adversarial NLP Attacks & Behavioral Testing
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
 * [CleverHans](https://github.com/tensorflow/cleverhans) - adversarial example library for constructing NLP attacks and building defenses [GitHub, 5184 stars]
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
 
 ### Non-English oriented
 * [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 86 stars]
@@ -530,17 +527,20 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### General
 * [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
 * [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
+* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
+* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+
+#### Courses
+* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
+* [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
+* [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
+* [Transformer models for NLP](https://huggingface.co/course/chapter1) by HuggingFace
+* [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
 
 #### Books
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
 * [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
 * [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
-
-#### Courses
-* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
-* [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
-* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
-* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 
 #### Tutorials
 * [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub, 1233 stars]
@@ -568,7 +568,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
 * [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 310 stars]
 
-##### Blogs and Tutorials
+##### Reading Material and Tutorials
+* [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021]
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
