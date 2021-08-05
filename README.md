@@ -303,15 +303,15 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
-#### Best Practices for NLP
+### Best Practices for NLP
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 
-#### Transformer-based Architectures
-##### General
+### Transformer-based Architectures
+#### General
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 97 stars]
@@ -320,16 +320,59 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ##### Multi-GPU Transfomers
 * [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 208 stars]
 
-#### Embeddings as a Service
+
+### MLOps for NLP
+MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when buulding and deploying NLP pipelines.
+
+In general, MLOps for NLP includes having the following processes in place:
+- Data Versioning (make sure your training, annotation and other types of data are versioned and tracked)
+- Experiment Tracking (make sure that all of your experiments are automatically tracked and saved where they can be easily replicated or retraced)
+- Model Registry (make sure any neural models you train are versioned and tracked and it is easy to roll back to any of them)
+- Automated Testing and Behavioral Testing (besides regular unit and integration tests, you want to have behavioral tests that check for bias or potential advesarial attacks)
+- Model Deployment (automate model deployment, ideally also with zero-downtime deploys like Blue/Green, Canary deploys etc.)
+- Data and Model Observability (track data drift, model accuracy drift etc.)
+
+#### Reading Material
+* [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
+* [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
+* [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
+
+#### Data Versioning
+* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
+* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+
+#### Experiment Tracking
+* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+
+##### Model Registry
+* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
+* [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1300 stars]
+
+#### Automated Testing and Behavioral Testing
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 65 stars]
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4653 stars]
+
+#### Deployability
+* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
+* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
+
+#### Data and Model Observability
+* [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
+* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
+
+
+### Embeddings as a Service
 * [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, 156 stars]
 * [Bert-as-service](https://github.com/hanxiao/bert-as-service) [GitHub, 9384 stars]
 
-#### NLP Recipes Industrial Applications:
+### NLP Recipes Industrial Applications:
 * [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub, 5590 stars]
 * [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub, 2064 stars]
 * [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub, 1929 stars]
 
-#### NLP Applications in Bio, Finance, Legal and other industries
+### NLP Applications in Bio, Finance, Legal and other industries
 * [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub, 492 stars]
 * [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub, 954 stars]
 * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub, 147 stars]
@@ -338,15 +381,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) - A list of selected resources dedicated to Legal Text Analytics [GitHub, 294 stars]
 * [BioIE](https://github.com/caufieldjh/awesome-bioie) - A curated list of resources relevant to doing Biomedical Information Extraction [GitHub, 155 stars]
 
-#### Model and Data testing
-* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 65 stars]
-* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4653 stars]
-* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
 
-#### Deployability
-* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
-* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
@@ -567,6 +602,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 323 stars]
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
 * [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 310 stars]
+* [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations [GitHub, 219 stars]
 
 ##### Reading Material and Tutorials
 * [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021]
