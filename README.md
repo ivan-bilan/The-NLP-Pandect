@@ -330,6 +330,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
 * [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
 * [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
+* [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) [Blog, July 2021]
+* [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
 
 #### Data Versioning
 * [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
@@ -343,6 +345,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 * [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
 * [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4900 stars]
+* [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place [Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/)
 
 ##### Model Registry
 * [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
@@ -379,12 +382,14 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/#features) - end-to-end machine learning lifecycle [Paid Service]
 * [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
 * [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
+* [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
 
 #### Data and Model Observability
 * [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
 * [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
 * [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
 * [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+* [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
@@ -537,7 +542,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 12753 stars]
 * [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for NLP [GitHub, 470 stars]
 * [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - Practical and feature-rich paraphrasing framework [GitHub, 244 stars]
-* [AugLy ](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3600 stars]
+* [AugLy](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3600 stars]
+* [TextAugment](https://github.com/dsfsi/textaugment) - Python 3 library for augmenting text for natural language processing applications [GitHub, 160 stars]
 
 ### Adversarial NLP Attacks & Behavioral Testing
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
