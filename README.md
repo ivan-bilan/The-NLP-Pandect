@@ -581,6 +581,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### Morphology
 * [LemmInflect](https://github.com/bjascob/LemmInflect) - python module for English lemmatization and inflection [GitHub, 131 stars]
 * [Inflect](https://github.com/jaraco/inflect) - generate plurals, ordinals, indefinite articles [GitHub, 552 stars]
+* [simplemma](https://github.com/jaraco/inflect) - simple multilingual lemmatizer for Python [GitHub, 2 stars]
 
 ### Multi-lingual tools
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1878 stars]
@@ -688,7 +689,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 707 stars]
 * [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 226 stars]
 * [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 458 stars]
-* [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021] 
+* [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
+* [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 405 stars]
 
 #### Style Transfer for NLP
 * [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 216 stars]
