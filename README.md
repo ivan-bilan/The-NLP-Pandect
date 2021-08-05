@@ -298,8 +298,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 62 stars]
 * [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 92 stars]
 
-### Rule-based NLP
-* [LemmInflect](https://github.com/bjascob/LemmInflect) - A python module for English lemmatization and inflection  
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
@@ -310,6 +308,94 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 
+
+### MLOps for NLP
+MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when buulding and deploying NLP pipelines.
+
+In general, MLOps for NLP includes having the following processes in place:
+- **Data Versioning** - make sure your training, annotation and other types of data are versioned and tracked
+- **Experiment Tracking** - make sure that all of your experiments are automatically tracked and saved where they can be easily replicated or retraced
+- **Model Registry** - make sure any neural models you train are versioned and tracked and it is easy to roll back to any of them
+- **Automated Testing and Behavioral Testing** - besides regular unit and integration tests, you want to have behavioral tests that check for bias or potential advesarial attacks
+- **Model Deployment and Serving** - automate model deployment, ideally also with zero-downtime deploys like Blue/Green, Canary deploys etc.
+- **Data and Model Observability** - track data drift, model accuracy drift etc.
+
+Additionally, there are two more components that are not as prevalent for NLP and are mostly used for Computer Vision and other sub-fields of AI:
+- **Feature Store** - centrarilized storage of all features developed for ML models than can be easily reused by any other ML project
+- **Metadata Management** - storage for all information related to the usage of ML models, mainly for reproducing behavior of deployed ML models, artifact tracking etc.
+
+#### Reading Material
+* [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) [Blog, July 2021]
+* [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools) [Blog, July 2021]
+* [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
+* [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
+* [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
+
+#### Data Versioning
+* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
+* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+
+#### Experiment Tracking
+* [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
+* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+* [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
+* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4900 stars]
+
+##### Model Registry
+* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
+* [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
+* [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1300 stars]
+* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+* [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
+* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+* [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
+* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+
+#### Automated Testing and Behavioral Testing
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 65 stars]
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4653 stars]
+
+#### Model Deployability and Serving
+* [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
+* [Amazon SageMaker](https://aws.amazon.com/de/sagemaker/) [Paid Service]
+* [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
+* [NLP Cloud](https://nlpcloud.io/) - Production-ready NLP API [Paid Service]
+* [Saturn Cloud](https://saturncloud.io/) [Paid Service]
+* [SELDON](https://www.seldon.io/tech/) - machine learning deployment for enterprise [Paid Service]
+* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+* [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
+* [TorchServe](https://github.com/pytorch/serve) - flexible and easy to use tool for serving PyTorch models [GitHub, 2000 stars]
+* [Kubeflow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes [GitHub, 10600 stars]
+* [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes [GitHub, 1000 stars]
+* [TFX](https://www.tensorflow.org/tfx) - 
+TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines [Paid Service]
+* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+* [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/#features) - end-to-end machine learning lifecycle [Paid Service]
+* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
+* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
+
+#### Data and Model Observability
+* [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
+* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
+* [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
+* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+
+#### Feature Stores
+* [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
+* [FEAST](https://github.com/feast-dev/feast) - open source feature store for machine learning [Website](https://feast.dev/) [GitHub, 2100 stars]
+* [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features [Paid Service]
+
+#### Metadata Management
+* [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows [GitHub, 358 stars]
+* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+
+
 ### Transformer-based Architectures
 #### General
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
@@ -319,48 +405,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 ##### Multi-GPU Transfomers
 * [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 208 stars]
-
-
-### MLOps for NLP
-MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when buulding and deploying NLP pipelines.
-
-In general, MLOps for NLP includes having the following processes in place:
-- Data Versioning (make sure your training, annotation and other types of data are versioned and tracked)
-- Experiment Tracking (make sure that all of your experiments are automatically tracked and saved where they can be easily replicated or retraced)
-- Model Registry (make sure any neural models you train are versioned and tracked and it is easy to roll back to any of them)
-- Automated Testing and Behavioral Testing (besides regular unit and integration tests, you want to have behavioral tests that check for bias or potential advesarial attacks)
-- Model Deployment (automate model deployment, ideally also with zero-downtime deploys like Blue/Green, Canary deploys etc.)
-- Data and Model Observability (track data drift, model accuracy drift etc.)
-
-#### Reading Material
-* [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
-* [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
-* [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
-
-#### Data Versioning
-* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
-* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
-
-#### Experiment Tracking
-* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
-
-##### Model Registry
-* [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
-* [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1300 stars]
-
-#### Automated Testing and Behavioral Testing
-* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1414 stars]
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1538 stars]
-* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 65 stars]
-* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4653 stars]
-
-#### Deployability
-* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 60 stars]
-* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 10 stars]
-
-#### Data and Model Observability
-* [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
-* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
 
 
 ### Embeddings as a Service
@@ -528,6 +572,10 @@ In general, MLOps for NLP includes having the following processes in place:
 ### Phonetics
 * [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) - grapheme to phoneme conversion with deep learning [GitHub, 51 stars]
 
+### Morphology
+* [LemmInflect](https://github.com/bjascob/LemmInflect) - python module for English lemmatization and inflection [GitHub, 131 stars]
+* [Inflect](https://github.com/jaraco/inflect) - generate plurals, ordinals, indefinite articles [GitHub, 552 stars]
+
 ### Multi-lingual tools
 * [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1864 stars]
 * [trankit](https://github.com/nlp-uoregon/trankit) - Light-Weight Transformer-based Python Toolkit for Multilingual NLP [GitHub, 488 stars]
@@ -654,6 +702,7 @@ In general, MLOps for NLP includes having the following processes in place:
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1263 stars]
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 625 stars]
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
+* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4900 stars]
 
 #### Text Generation
 * [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 160 stars]
