@@ -14,18 +14,21 @@ with open("../README.md", encoding="utf8") as f:
 
 for i, line in enumerate(lines):
     if "github.com" in line:
-        username, project_name = re.search(r".*?github.com/(.*?)/(.*?)\).*?", line).groups()
-        project_name = project_name.split("/")[0]
+        try:
+            username, project_name = re.search(r".*?github.com/(.*?)/(.*?)\).*?", line).groups()
+            project_name = project_name.split("/")[0]
 
-        query_url = "https://api.github.com/repos/{}/{}/".format(username, project_name).strip("/")
-        params = {
-            "state": "open",
-        }
-        headers = {'Authorization': 'token {}'.format(github_access_token)}
-        r = requests.get(query_url, headers=headers, params=params)
-        number_of_stars = r.json()["stargazers_count"]
-        line = re.sub(r"(?is)GitHub,? .*? ?stars", "GitHub, {} stars".format(number_of_stars), line)
-        lines[i] = line
+            query_url = "https://api.github.com/repos/{}/{}/".format(username, project_name).strip("/")
+            params = {
+                "state": "open",
+            }
+            headers = {'Authorization': 'token {}'.format(github_access_token)}
+            r = requests.get(query_url, headers=headers, params=params)
+            number_of_stars = r.json()["stargazers_count"]
+            line = re.sub(r"(?is)GitHub,? .*? ?stars", "GitHub, {} stars".format(number_of_stars), line)
+            lines[i] = line
+        except AttributeError:
+            pass
 
 with open('README.md', 'a', encoding="utf8") as f:
     for item in lines:
