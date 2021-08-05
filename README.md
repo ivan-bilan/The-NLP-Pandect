@@ -325,12 +325,12 @@ Additionally, there are two more components that are not as prevalent for NLP an
 - **Metadata Management** - storage for all information related to the usage of ML models, mainly for reproducing behavior of deployed ML models, artifact tracking etc.
 
 #### Reading Material
-* [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) [Blog, July 2021]
-* [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools) [Blog, July 2021]
+* [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
+* [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools)  by Neptune AI [Blog, July 2021]
 * [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
 * [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
 * [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
-* [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) [Blog, July 2021]
+* [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) by Megagon AI [Blog, July 2021]
 * [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
 
 #### Data Versioning
@@ -383,6 +383,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 73 stars]
 * [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 11 stars]
 * [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
+* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
 
 #### Data and Model Observability
 * [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
@@ -390,6 +391,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
 * [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
 * [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
+* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+* [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 515 stars]
+* [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 154 stars]
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
@@ -446,6 +450,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### Text to Speech
 * [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 637 stars]
 * [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech [GitHub, 1954 stars]
+
+### Datasets
+* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) - large-scale multilingual speech corpus for representation learning [GitHub, 199 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 -----
@@ -509,6 +516,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### Adversarial Attacks for NLP
 * [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
 * [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 48 stars]
+* [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) - Combating Adversarial Misspellings with Robust Word Recognition [GitHub, 46 stars]
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
@@ -566,6 +574,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 11836 stars]
 * [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5811 stars]
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chat bots [GitHub, 11381 stars]
+* [SpeechBrain](https://github.com/speechbrain/speechbrain) - open-source and all-in-one speech toolkit based on PyTorch [GitHub, 2800 stars]
 
 ### Word/Sentence-embeddings oriented
 * [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 2830 stars]
@@ -612,6 +621,11 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### PII scrubbing
 * [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 241 stars]
 
+### Text Data Labelling
+* [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 73 stars]
+* [Doccano](https://github.com/doccano/doccano) - open source annotation tool for machine learning practitioners [GitHub, 5100 stars]
+* [Prodigy](https://prodi.gy/) - annotation tool powered by active learning [Paid Service]
+
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
 #### General
@@ -652,15 +666,16 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Data Augmentation and Weak Supervision
 ##### Libraries and Frameworks
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 66 stars]
-* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4724 stars]
 * [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2296 stars]
 * [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 328 stars]
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1568 stars]
 * [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 323 stars]
 * [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations [GitHub, 219 stars]
+* [EDA](https://github.com/jasonwei20/eda_nlp) - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [GitHub, 1000 stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4724 stars]
 
 ##### Reading Material and Tutorials
-* [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021]
+* [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021] [GitHub Link](https://github.com/styfeng/DataAug4NLP)
 * [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
@@ -711,6 +726,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 625 stars]
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
 * [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4894 stars]
+* [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 603 stars]
 
 #### Text Generation
 * [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 171 stars]
