@@ -335,6 +335,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
 * [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
 
+### MLOps Communities
+* [The MLOps Community](https://mlops.community/) - blogs, slack group, newsletter and more all about MLOps
+
 #### Data Versioning
 * [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
 * [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
