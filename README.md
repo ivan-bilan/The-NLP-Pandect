@@ -351,6 +351,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
 * [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4894 stars]
 * [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place [Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/)
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
 
 ##### Model Registry
 * [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
@@ -389,6 +390,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 11 stars]
 * [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
 * [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
+* [flyte](https://github.com/flyteorg/flyte) - workflow automation platform for complex, mission-critical data and ML processes at scale [GitHub, 1600 stars]
+* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
 
 #### Data and Model Observability
 * [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
@@ -399,6 +403,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
 * [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 515 stars]
 * [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 154 stars]
+* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
@@ -408,6 +413,12 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Metadata Management
 * [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows [GitHub, 358 stars]
 * [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+
+#### MLOps Frameworks
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
+* [kedro](https://github.com/quantumblacklabs/kedro) - Python framework for creating reproducible, maintainable and modular data science code [GitHub, 4200 stars]
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 2500 stars]
+* [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 1200 stars]
 
 
 ### Transformer-based Architectures
