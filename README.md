@@ -581,11 +581,6 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [CleverHans](https://github.com/tensorflow/cleverhans) - adversarial example library for constructing NLP attacks and building defenses [GitHub, 5213 stars]
 * [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1452 stars]
 
-### Non-English oriented
-* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 86 stars]
-* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2152 stars]
-* [Underthesea ](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 873 stars]
-
 ### Transformer-oriented
 * [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub, 49306 stars]
 * [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub, 493 stars]
@@ -643,6 +638,25 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ### PII scrubbing
 * [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 241 stars]
+
+### Non-English oriented
+#### Japanese
+* [fugashi](https://github.com/polm/fugashi) - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis [GitHub, 150 stars]
+* [SudachiPy](https://github.com/WorksApplications/SudachiPy) - SudachiPy is a Python version of Sudachi, a Japanese morphological analyzer [GitHub, 230 stars]
+* [Konoha](https://github.com/himkt/konoha) - easy-to-use Japanese Text Processing tool, which makes it possible to switch tokenizers with small changes of code [GitHub, 230 stars]
+* [jProcessing](https://github.com/kevincobain2000/jProcessing) - Japanese Natural Langauge Processing Libraries [GitHub, 138 stars]
+* [Ginza](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies [GitHub, 489 stars]
+* [kuromoji](https://github.com/atilika/kuromoji) - self-contained and very easy to use Japanese morphological analyzer designed for search [GitHub, 776 stars]
+* [nagisa](https://github.com/taishi-i/nagisa) - Japanese tokenizer based on recurrent neural networks [GitHub, 276 stars]
+* [KyTea](https://github.com/neubig/kytea) - Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation [GitHub, 180 stars]
+* [Jigg](https://github.com/mynlp/jigg) - Pipeline framework for easy natural language processing [GitHub, 68 stars]
+* [Juman++](https://github.com/ku-nlp/jumanpp) - Juman++ (a Morphological Analyzer Toolkit) [GitHub, 265 stars]
+* [RakutenMA](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript [GitHub, 438 stars]
+
+#### Other
+* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 86 stars]
+* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2152 stars]
+* [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 873 stars]
 
 ### Text Data Labelling
 * [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 73 stars]
