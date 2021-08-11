@@ -334,9 +334,11 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
 * [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
 * [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
+* [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
 
 #### Learning Material
 * [MLOps cource](https://madewithml.com/#mlops) by Made With ML
+* [GitHub MLOps](https://mlops.githubapp.com) - collection of resources on how to facilitate Machine Learning Ops with GitHub
 
 #### MLOps Communities
 * [The MLOps Community](https://mlops.community/) - blogs, slack group, newsletter and more all about MLOps
@@ -396,6 +398,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
 * [flyte](https://github.com/flyteorg/flyte) - workflow automation platform for complex, mission-critical data and ML processes at scale [GitHub, 1600 stars]
 * [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
+* [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
 #### Data and Model Observability
 * [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
@@ -407,6 +410,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 515 stars]
 * [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 154 stars]
 * [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
+* [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
