@@ -316,12 +316,12 @@ In general, MLOps for NLP includes having the following processes in place:
 - **Data Versioning** - make sure your training, annotation and other types of data are versioned and tracked
 - **Experiment Tracking** - make sure that all of your experiments are automatically tracked and saved where they can be easily replicated or retraced
 - **Model Registry** - make sure any neural models you train are versioned and tracked and it is easy to roll back to any of them
-- **Automated Testing and Behavioral Testing** - besides regular unit and integration tests, you want to have behavioral tests that check for bias or potential advesarial attacks
+- **Automated Testing and Behavioral Testing** - besides regular unit and integration tests, you want to have behavioral tests that check for bias or potential adversarial attacks
 - **Model Deployment and Serving** - automate model deployment, ideally also with zero-downtime deploys like Blue/Green, Canary deploys etc.
 - **Data and Model Observability** - track data drift, model accuracy drift etc.
 
 Additionally, there are two more components that are not as prevalent for NLP and are mostly used for Computer Vision and other sub-fields of AI:
-- **Feature Store** - centrarilized storage of all features developed for ML models than can be easily reused by any other ML project
+- **Feature Store** - centralized storage of all features developed for ML models than can be easily reused by any other ML project
 - **Metadata Management** - storage for all information related to the usage of ML models, mainly for reproducing behavior of deployed ML models, artifact tracking etc.
 
 #### Reading Material
@@ -335,6 +335,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
 * [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
 * [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
+* [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
 
 #### Learning Material
 * [MLOps cource](https://madewithml.com/#mlops) by Made With ML
@@ -401,16 +402,32 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
 #### Data and Model Observability
-* [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
-* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
-* [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
-* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
-* [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
-* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+
+##### General
 * [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 515 stars]
 * [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 154 stars]
 * [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
 * [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
+* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+
+##### Model Centric
+* [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure [Paid Service]
+* [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale [Paid Service]
+* [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
+* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
+* [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
+* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+* [Domino Model Ops](https://www.dominodatalab.com/product/model-ops/) - Deploy and Manage Models to Drive Business Impact [Paid Service]
+* [iguazio](https://www.iguazio.com/) - deployment and management of your AI applications with MLOps and end-to-end automation of machine learning pipelines [Paid Service]
+
+##### Data Centric
+* [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
+* [acceldata](https://www.acceldata.io/) - improve reliability, accelerate scale, and reduce costs across all data pipelines [Paid Service]
+* [Bigeye](https://www.bigeye.com/) - monitoring and alerting to your datasets in minutes [Paid Service]
+* [datakin](https://datakin.com/product/) - end-to-end, real-time data lineage solution [Paid Service]
+* [Monte Carlo](https://www.montecarlodata.com/) - data integrity, drifts, schema, lineage [Paid Service]
+* [SODA](https://www.soda.io/) - data monitoring, testing and validation [Paid Service]
+* [whatify](https://whatify.ai/) - data quality and action recommendation on it [Paid Service]
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
@@ -426,7 +443,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [kedro](https://github.com/quantumblacklabs/kedro) - Python framework for creating reproducible, maintainable and modular data science code [GitHub, 4200 stars]
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 2500 stars]
 * [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 1200 stars]
-
+* [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
 
 ### Transformer-based Architectures
 #### General
