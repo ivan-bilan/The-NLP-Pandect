@@ -96,6 +96,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
 * [Gradient Dissent](https://www.wandb.com/podcast) [Years: 2020 - now, Status: active]
 * [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) [Years: 2020 - now, Status: active]
+* [DataFramed](https://www.datacamp.com/community/podcast) -  latest trends and insights on how to scale the impact of data science in organizations [Years: 2019 - now, Status: active]
 
 #### Some NLP episodes
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
@@ -536,14 +537,18 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
 ### NLP and ML Interpretability
-* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2610 stars]
-* [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 288 stars]
-* [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 261 stars]
-* [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3987 stars]
+#### NLP-centric
+* [Explainability for Natural Language Processing - KDD'2021 Tutorial](https://www.youtube.com/watch?v=PvKOSYGclPk&t=2s) [Slides](https://www.slideshare.net/YunyaoLi/explainability-for-natural-language-processing-249992241) [Presentation, August 2021]
 * [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 854 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 199 stars]
 * [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 424 stars]
 * [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - collection of research materials on explainable AI/ML [GitHub, 333 stars]
+#### General
+* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2610 stars]
+* [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 288 stars]
+* [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 261 stars]
+* [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3987 stars]
+
 
 ### Ethics, Bias, and Equality in NLP
 * [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
@@ -669,6 +674,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Jigg](https://github.com/mynlp/jigg) - Pipeline framework for easy natural language processing [GitHub, 68 stars]
 * [Juman++](https://github.com/ku-nlp/jumanpp) - Juman++ (a Morphological Analyzer Toolkit) [GitHub, 265 stars]
 * [RakutenMA](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript [GitHub, 438 stars]
+* [toiro](https://github.com/taishi-i/toiro) - a comparison tool of Japanese tokenizers [GitHub, 100 stars]
 
 #### Other
 * [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 86 stars]
