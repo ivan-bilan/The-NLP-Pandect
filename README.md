@@ -272,7 +272,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
 * [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 ###### Applications
-* [Aweseome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3256 stars]
+* [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3256 stars]
 * [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
 * [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
@@ -711,6 +711,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers [GitHub, 9158 stars]
 * [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub, 441 stars]
 * [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) [GitHub, 257 stars]
+* [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - demos with the Transformers library by HuggingFace [GitHub, 781 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
 -----
