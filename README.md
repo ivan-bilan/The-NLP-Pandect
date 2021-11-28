@@ -228,6 +228,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
 * [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/) by George Ho [Blog, May 2020]
 * [Lite Transformer](https://github.com/mit-han-lab/lite-transformer) - Lite Transformer with Long-Short Range Attention [GitHub, 494 stars]
+* [Transformers from Scratch](https://e2eml.school/transformers.html) [Blog, Oct 2021]
 
 #### BERT
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) by Jay Alammar [Blog, 2019]
@@ -298,6 +299,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
 * [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 78 stars]
 * [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 125 stars]
+* [SummerTime](https://github.com/Yale-LILY/SummerTime) - an open-source text summarization toolkit for non-experts [GitHub, 142 stars]
+
+### Knowledge Graphs and NLP
+* [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation ,Oct 2021]
 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
@@ -499,6 +504,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 -----
 ### Blogs
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
+* [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
 
 ### Frameworks for Topic Modeling
 * [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 12684 stars]
@@ -512,6 +518,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub, 1615 stars]
 * [OCTIS](https://github.com/MIND-Lab/OCTIS) - A python package to optimize and evaluate topic models [GitHub, 261 stars]
 * [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) [GitHub, 723 stars]
+* [GSDMM](https://github.com/rwalk/gsdmm) - GSDMM: Short text clustering [GitHub, 233 stars]
 
 ![Keyword-Extraction](./Resources/Images/pandect_papyrus2.png)
 -----
@@ -548,7 +555,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 315 stars]
 * [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 284 stars]
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 4306 stars]
-
+* [thermostat](https://github.com/DFKI-NLP/thermostat) - Collection of NLP model explanations and accompanying analysis tools [GitHub, 56 stars]
+* [Dodrio](https://github.com/poloclub/dodrio) - Exploring attention weights in transformer-based models with linguistic knowledge [GitHub, 193 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
@@ -654,6 +662,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [jellyfish](https://github.com/jamesturk/jellyfish) - approximate and phonetic matching of strings [GitHub, 1557 stars]
 * [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences [GitHub, 2559 stars]
 * [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Compute distance between sequences [GitHub, 382 stars]
+* [RE2](https://github.com/alibaba-edu/simple-effective-text-matching) - Simple and Effective Text Matching with Richer Alignment Features [GitHub, 307 stars]
+* [Machamp](https://github.com/megagonlabs/machamp) - Machamp: A Generalized Entity Matching Benchmark [GitHub, 1 stars]
 
 ### Discourse Analysis
 * [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 312 stars]
@@ -700,6 +710,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
 * [Transformer models for NLP](https://huggingface.co/course/chapter1) by HuggingFace
 * [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
+* [Applied Language Technology](https://applied-language-technology.readthedocs.io/en/latest/index.html) - Natural Language Processing for Linguists
 
 #### Books
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
