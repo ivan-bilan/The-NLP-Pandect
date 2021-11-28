@@ -8,30 +8,30 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 #### Compendiums and awesome lists on the topic of NLP:
 * [The NLP Index](https://index.quantumstat.com) by Quantum Stat / NLP Cypher
-* [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 12197 stars]
-* [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2028 stars]
-* [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 945 stars]
-* [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub, 415 stars]
+* [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 12566 stars]
+* [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2053 stars]
+* [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 976 stars]
+* [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub, 442 stars]
 * [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
 * [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
-* [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 928 stars]
+* [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 970 stars]
 * [Resources on various machine learning topics](https://www.backprop.org) by Backprop
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 ##### Papers and Paper Summaries
-* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) 100 Must-Read NLP Papers [GitHub, 3155 stars]
-* [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub, 1359 stars]
-* [Curated collection of papers for the NLP practitioner](https://github.com/mihail911/nlp-library) [GitHub, 1051 stars]
-* [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub, 894 stars]
+* [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) 100 Must-Read NLP Papers [GitHub, 3222 stars]
+* [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub, 1373 stars]
+* [Curated collection of papers for the NLP practitioner](https://github.com/mihail911/nlp-library) [GitHub, 1056 stars]
+* [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub, 979 stars]
 * [The Most Influential NLP Research of 2019](https://opendatascience.com/best-nlp-research-of-2019/)
-* [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub, 287 stars]
+* [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub, 289 stars]
 * [Some Notable Recent ML Papers and Future Trends](https://arankomatsuzaki.wordpress.com/2020/10/15/some-notable-recent-ml-papers-and-future-trends/) by Aran Komatsuzaki [Blog, Oct. 2020]
-* [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) [GitHub, 1317 stars]
-* [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1177 stars]
+* [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) [GitHub, 1406 stars]
+* [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1237 stars]
 * [Video recordings index for papers](https://papertalk.org/index)
 
 ##### Conferences
-* [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 375 stars]
+* [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 388 stars]
 * [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
@@ -39,40 +39,40 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Video Recordings from Conferences](https://crossminds.ai/explore/)
 
 #### NLP Progress and NLP Tasks:
-* [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub, 18873 stars]
-* [NLP Tasks](https://github.com/Kyubyong/nlp_tasks) by [Kyubyong](https://github.com/Kyubyong) [GitHub, 2923 stars]
-* [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis) by [declare-lab](https://github.com/declare-lab) [GitHub, 369 stars]
-* [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) by [xiamx](https://github.com/xiamx) [GitHub, 842 stars]
+* [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub, 19425 stars]
+* [NLP Tasks](https://github.com/Kyubyong/nlp_tasks) by [Kyubyong](https://github.com/Kyubyong) [GitHub, 2964 stars]
+* [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis) by [declare-lab](https://github.com/declare-lab) [GitHub, 397 stars]
+* [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) by [xiamx](https://github.com/xiamx) [GitHub, 855 stars]
 
 #### NLP Datasets:
-* [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 4744 stars]
-* [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 8713 stars]
+* [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 4892 stars]
+* [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 11402 stars]
 * [Big Bad NLP Database](https://datasets.quantumstat.com)
 * [25 Best Parallel Text Datasets for Machine Translation Training](https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
 * [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
 * [20 Best German Language Datasets for Machine Learning](https://lionbridge.ai/datasets/20-best-german-language-datasets-for-machine-learning/)
 
 #### Word and Sentence embeddings:
-* [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) by [Hironsan](https://github.com/Hironsan) [GitHub, 1458 stars]
-* [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) by [Separius](https://github.com/Separius) [GitHub, 1909 stars]
-* [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub, 1692 stars]
+* [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) by [Hironsan](https://github.com/Hironsan) [GitHub, 1481 stars]
+* [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) by [Separius](https://github.com/Separius) [GitHub, 1964 stars]
+* [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub, 1724 stars]
 
 #### Notebooks, Scripts and Repositories
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
 
 #### Non-English resources and compendiums
-* [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub, 195 stars]
-* [Indic NLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) [GitHub, 274 stars]
-* [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub, 385 stars]
-* [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub, 724 stars]
-* [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) [GitHub, 373 stars]
+* [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub, 220 stars]
+* [Indic NLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) [GitHub, 311 stars]
+* [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub, 410 stars]
+* [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub, 739 stars]
+* [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) [GitHub, 396 stars]
 * [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
-* [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 182 stars]
-* [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 941 stars]
-* [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 330 stars]
+* [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 205 stars]
+* [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 957 stars]
+* [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 385 stars]
 
 #### Pre-trained NLP models
-* [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 134 stars]
+* [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 141 stars]
 
 #### NLP History
 ##### General
@@ -165,7 +165,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
 
 ### Transformer Efficiency
-* [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 315 stars]
+* [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 369 stars]
 
 ### Speech Processing
 * [SUPERB](http://superbbenchmark.org/) - Speech processing Universal PERformance Benchmark
@@ -182,11 +182,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Embeddings
 #### Repositories
-* [Pre-trained ELMo Representations for Many Languages](https://github.com/HIT-SCIR/ELMoForManyLangs) [GitHub, 1342 stars]
-* [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [GitHub, 1274 stars]
-* [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) [GitHub, 712 stars]
-* [StarSpace](https://github.com/facebookresearch/StarSpace) [GitHub, 3645 stars]
-* [fastText](https://github.com/facebookresearch/fastText) [GitHub, 22815 stars]
+* [Pre-trained ELMo Representations for Many Languages](https://github.com/HIT-SCIR/ELMoForManyLangs) [GitHub, 1370 stars]
+* [sense2vec](https://github.com/explosion/sense2vec) - Contextually-keyed word vectors [GitHub, 1317 stars]
+* [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) [GitHub, 743 stars]
+* [StarSpace](https://github.com/facebookresearch/StarSpace) [GitHub, 3700 stars]
+* [fastText](https://github.com/facebookresearch/fastText) [GitHub, 23157 stars]
 
 #### Blogs
 * [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista [Blog, 2018]
@@ -195,13 +195,13 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
 
 #### Cross-lingual Word and Sentence Embeddings
-* [vecmap](https://github.com/artetxem/vecmap) - VecMap (cross-lingual word embedding mappings) [GitHub, 559 stars]
-* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 5733 stars]
+* [vecmap](https://github.com/artetxem/vecmap) - VecMap (cross-lingual word embedding mappings) [GitHub, 567 stars]
+* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 6521 stars]
 
 #### Byte Pair Encoding
-* [bpemb](https://github.com/bheinzerling/bpemb) - Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding (BPE) [GitHub, 982 stars]
-* [subword-nmt](https://github.com/rsennrich/subword-nmt) - Unsupervised Word Segmentation for Neural Machine Translation and Text Generation [GitHub, 1750 stars]
-* [python-bpe](https://github.com/soaxelbrooke/python-bpe) - Byte Pair Encoding for Python [GitHub, 147 stars]
+* [bpemb](https://github.com/bheinzerling/bpemb) - Pre-trained subword embeddings in 275 languages, based on Byte-Pair Encoding (BPE) [GitHub, 1016 stars]
+* [subword-nmt](https://github.com/rsennrich/subword-nmt) - Unsupervised Word Segmentation for Neural Machine Translation and Text Generation [GitHub, 1805 stars]
+* [python-bpe](https://github.com/soaxelbrooke/python-bpe) - Byte Pair Encoding for Python [GitHub, 150 stars]
 
 ### Transformer-based Architectures
 #### General
@@ -227,24 +227,24 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [TRANSFORMERS FROM SCRATCH](http://www.peterbloem.nl/blog/transformers) [Blog, 2019]
 * [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
 * [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/) by George Ho [Blog, May 2020]
-* [Lite Transformer](https://github.com/mit-han-lab/lite-transformer) - Lite Transformer with Long-Short Range Attention [GitHub, 457 stars]
+* [Lite Transformer](https://github.com/mit-han-lab/lite-transformer) - Lite Transformer with Long-Short Range Attention [GitHub, 494 stars]
 
 #### BERT
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) by Jay Alammar [Blog, 2019]
 * [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/) by Anna Rogers [Blog, 2020]
 * [Understanding searches better than ever before](https://www.blog.google/products/search/search-language-understanding-bert/) [Blog, 2019]
 * [Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/) [Blog, 2019]
-* [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [GitHub, 227 stars]
-* [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub, 343 stars]
-* [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 435 stars]
-* [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 114 stars]
+* [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [GitHub, 238 stars]
+* [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub, 389 stars]
+* [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 442 stars]
+* [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 130 stars]
 * [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) [Blog, Dec 2020]
 
 #### Other Transformer Variants
 ##### T5
 * [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
 * [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
-* [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub, 697 stars]
+* [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub, 769 stars]
 ##### BigBird
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
 ##### Reformer / Linformer / Longformer / Performers
@@ -252,7 +252,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - [Paper, April 2020] [[Video](https://www.youtube.com/watch?v=_8KNb5iqblE), April 2020]
 * [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) - [Paper, June 2020] [[Video](https://www.youtube.com/watch?v=-_2AF9Lhweo), June 2020]
 * [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) - [Paper, September 2020] [[Video](https://www.youtube.com/watch?v=0eTULzrOztQ), September 2020]
-* [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 674 stars]
+* [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 748 stars]
 
 ##### Switch Transformer
 * [Switch Transformers: Scaling to Trillion Parameter Models](https://arxiv.org/abs/2101.03961) original paper by Google Research [Paper, January 2021]
@@ -272,7 +272,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
 * [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 ###### Applications
-* [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3256 stars]
+* [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3367 stars]
 * [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
 * [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
 * [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
@@ -286,8 +286,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/) by Amit Chaudhary [Blog, 2020]
 * [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
 * [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
-* [ELECTRA](https://github.com/google-research/electra) [GitHub, 1842 stars]
-* [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 674 stars]
+* [ELECTRA](https://github.com/google-research/electra) [GitHub, 1930 stars]
+* [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 748 stars]
 
 #### Distillation, Pruning and Quantization
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
@@ -296,8 +296,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
-* [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 67 stars]
-* [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 97 stars]
+* [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 78 stars]
+* [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 125 stars]
 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
@@ -356,14 +356,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
 * [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 * [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
-* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4894 stars]
+* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 5572 stars]
 * [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place [Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/)
-* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4997 stars]
 
 ##### Model Registry
 * [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
 * [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
-* [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1301 stars]
+* [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1361 stars]
 * [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
 * [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
 * [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
@@ -371,10 +371,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 
 #### Automated Testing and Behavioral Testing
-* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1452 stars]
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1568 stars]
-* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 66 stars]
-* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 4768 stars]
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1528 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1748 stars]
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 70 stars]
+* [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 5717 stars]
 
 #### Model Deployability and Serving
 * [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
@@ -385,29 +385,29 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [SELDON](https://www.seldon.io/tech/) - machine learning deployment for enterprise [Paid Service]
 * [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 * [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
-* [TorchServe](https://github.com/pytorch/serve) - flexible and easy to use tool for serving PyTorch models [GitHub, 1999 stars]
+* [TorchServe](https://github.com/pytorch/serve) - flexible and easy to use tool for serving PyTorch models [GitHub, 2255 stars]
 * [Kubeflow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes [GitHub, 10600 stars]
-* [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes [GitHub, 1013 stars]
+* [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes [GitHub, 1222 stars]
 * [TFX](https://www.tensorflow.org/tfx) - 
 TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines [Paid Service]
 * [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
 * [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
 * [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/#features) - end-to-end machine learning lifecycle [Paid Service]
-* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 73 stars]
-* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 11 stars]
+* [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 90 stars]
+* [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 13 stars]
 * [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
 * [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
-* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
-* [flyte](https://github.com/flyteorg/flyte) - workflow automation platform for complex, mission-critical data and ML processes at scale [GitHub, 1600 stars]
-* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4997 stars]
+* [flyte](https://github.com/flyteorg/flyte) - workflow automation platform for complex, mission-critical data and ML processes at scale [GitHub, 1794 stars]
+* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 510 stars]
 * [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
 #### Data and Model Observability
 
 ##### General
-* [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 515 stars]
-* [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 154 stars]
-* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 420 stars]
+* [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 631 stars]
+* [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 617 stars]
+* [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 510 stars]
 * [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 * [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
 
@@ -432,68 +432,68 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 #### Feature Stores
 * [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
-* [FEAST](https://github.com/feast-dev/feast) - open source feature store for machine learning [Website](https://feast.dev/) [GitHub, 2084 stars]
+* [FEAST](https://github.com/feast-dev/feast) - open source feature store for machine learning [Website](https://feast.dev/) [GitHub, 2505 stars]
 * [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features [Paid Service]
 
 #### Metadata Management
-* [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows [GitHub, 358 stars]
+* [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows [GitHub, 405 stars]
 * [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
 
 #### MLOps Frameworks
-* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4500 stars]
-* [kedro](https://github.com/quantumblacklabs/kedro) - Python framework for creating reproducible, maintainable and modular data science code [GitHub, 4200 stars]
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 2500 stars]
-* [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 1200 stars]
+* [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 4997 stars]
+* [kedro](https://github.com/quantumblacklabs/kedro) - Python framework for creating reproducible, maintainable and modular data science code [GitHub, 4697 stars]
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 2767 stars]
+* [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 1388 stars]
 * [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
 
 ### Transformer-based Architectures
 #### General
 * [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
-* [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 106 stars]
+* [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 134 stars]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 ##### Multi-GPU Transfomers
-* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 333 stars]
+* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 394 stars]
 
 
 ### Embeddings as a Service
-* [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, 157 stars]
-* [Bert-as-service](https://github.com/hanxiao/bert-as-service) [GitHub, 9449 stars]
+* [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, 164 stars]
+* [Bert-as-service](https://github.com/hanxiao/bert-as-service) [GitHub, 9749 stars]
 
 ### NLP Recipes Industrial Applications:
-* [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub, 5618 stars]
-* [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub, 2079 stars]
-* [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub, 1943 stars]
+* [NLP Recipes](https://github.com/microsoft/nlp-recipes) by [microsoft](https://github.com/microsoft) [GitHub, 5761 stars]
+* [NLP with Python](https://github.com/susanli2016/NLP-with-Python) by [susanli2016](https://github.com/susanli2016) [GitHub, 2172 stars]
+* [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) by [PetrochukM](https://github.com/PetrochukM) [GitHub, 1995 stars]
 
 ### NLP Applications in Bio, Finance, Legal and other industries
-* [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub, 496 stars]
-* [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub, 975 stars]
-* [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub, 147 stars]
-* [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub, 464 stars]
+* [Blackstone](https://github.com/ICLRandD/Blackstone) - A spaCy pipeline and model for NLP on unstructured legal text [GitHub, 520 stars]
+* [Sci spaCy](https://github.com/allenai/scispacy) - spaCy pipeline and models for scientific/biomedical documents [GitHub, 1052 stars]
+* [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) [GitHub, 155 stars]
+* [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) - Information retrieval and extraction for real, unstructured legal text [GitHub, 486 stars]
 * [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
-* [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) - A list of selected resources dedicated to Legal Text Analytics [GitHub, 296 stars]
-* [BioIE](https://github.com/caufieldjh/awesome-bioie) - A curated list of resources relevant to doing Biomedical Information Extraction [GitHub, 159 stars]
+* [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) - A list of selected resources dedicated to Legal Text Analytics [GitHub, 338 stars]
+* [BioIE](https://github.com/caufieldjh/awesome-bioie) - A curated list of resources relevant to doing Biomedical Information Extraction [GitHub, 172 stars]
 
 
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
 ### General Speech Recognition
-* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5811 stars]
-* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub, 17826 stars]
+* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5901 stars]
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub, 18550 stars]
 * [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
-* [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub, 10711 stars]
-* [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub, 434 stars]
-* [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 4015 stars]
+* [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub, 11092 stars]
+* [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub, 469 stars]
+* [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 4453 stars]
 * [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression) - Self-supervised representation learning for speech recognition, generation, and compression [Blog, June 2021]
 
 ### Text to Speech
-* [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 637 stars]
-* [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech [GitHub, 1954 stars]
+* [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 660 stars]
+* [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech [GitHub, 2832 stars]
 
 ### Datasets
-* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) - large-scale multilingual speech corpus for representation learning [GitHub, 199 stars]
+* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) - large-scale multilingual speech corpus for representation learning [GitHub, 290 stars]
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 -----
@@ -501,34 +501,34 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 
 ### Frameworks for Topic Modeling
-* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 12305 stars]
-* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 2258 stars]
+* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 12684 stars]
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 2489 stars]
 
 ### Repositories
-* [Top2Vec](https://github.com/ddangelov/Top2Vec) [GitHub, 1217 stars]
+* [Top2Vec](https://github.com/ddangelov/Top2Vec) [GitHub, 1412 stars]
 * [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) [GitHub, 273 stars]
-* [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub, 359 stars] [Paper](https://arxiv.org/abs/1907.04907)
-* [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub, 108 stars]
-* [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub, 1294 stars]
-* [OCTIS](https://github.com/MIND-Lab/OCTIS) - A python package to optimize and evaluate topic models [GitHub, 206 stars]
-* [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) [GitHub, 578 stars]
+* [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) [GitHub, 392 stars] [Paper](https://arxiv.org/abs/1907.04907)
+* [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - A high-level interface for BigARTM library [GitHub, 113 stars]
+* [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics [GitHub, 1615 stars]
+* [OCTIS](https://github.com/MIND-Lab/OCTIS) - A python package to optimize and evaluate topic models [GitHub, 261 stars]
+* [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) [GitHub, 723 stars]
 
 ![Keyword-Extraction](./Resources/Images/pandect_papyrus2.png)
 -----
 ### Text Rank
-* [PyTextRank](https://github.com/DerwenAI/pytextrank) - PyTextRank is a Python implementation of TextRank as a spaCy pipeline extension [GitHub, 1584 stars]
-* [textrank](https://github.com/summanlp/textrank) - TextRank implementation for Python 3 [GitHub, 1045 stars]
+* [PyTextRank](https://github.com/DerwenAI/pytextrank) - PyTextRank is a Python implementation of TextRank as a spaCy pipeline extension [GitHub, 1664 stars]
+* [textrank](https://github.com/summanlp/textrank) - TextRank implementation for Python 3 [GitHub, 1064 stars]
 
 ### RAKE - Rapid Automatic Keyword Extraction
-* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub, 835 stars]
-* [yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction [GitHub, 735 stars]
-* [RAKE-tutorial](https://github.com/zelandiya/RAKE-tutorial) - A python implementation of the Rapid Automatic Keyword Extraction [GitHub, 352 stars]
-* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub, 835 stars]
+* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub, 862 stars]
+* [yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction [GitHub, 852 stars]
+* [RAKE-tutorial](https://github.com/zelandiya/RAKE-tutorial) - A python implementation of the Rapid Automatic Keyword Extraction [GitHub, 361 stars]
+* [rake-nltk](https://github.com/csurfer/rake-nltk) - Rapid Automatic Keyword Extraction algorithm using NLTK [GitHub, 862 stars]
 
 ### Other Approaches
-* [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 4891 stars]
-* [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 191 stars]
-* [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 754 stars]
+* [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 4998 stars]
+* [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 196 stars]
+* [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 990 stars]
 
 ### Further Reading
 * [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
@@ -539,15 +539,15 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### NLP and ML Interpretability
 #### NLP-centric
 * [Explainability for Natural Language Processing - KDD'2021 Tutorial](https://www.youtube.com/watch?v=PvKOSYGclPk&t=2s) [Slides](https://www.slideshare.net/YunyaoLi/explainability-for-natural-language-processing-249992241) [Presentation, August 2021]
-* [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 854 stars]
-* [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 199 stars]
-* [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 424 stars]
-* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - collection of research materials on explainable AI/ML [GitHub, 333 stars]
+* [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 925 stars]
+* [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 211 stars]
+* [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 502 stars]
+* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - collection of research materials on explainable AI/ML [GitHub, 453 stars]
 #### General
-* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2610 stars]
-* [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 288 stars]
-* [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 261 stars]
-* [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 3987 stars]
+* [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2713 stars]
+* [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 315 stars]
+* [Interpret-Text](https://github.com/interpretml/interpret-text) - Interpretability techniques and visualization dashboards for NLP models [GitHub, 284 stars]
+* [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 4306 stars]
 
 
 ### Ethics, Bias, and Equality in NLP
@@ -560,130 +560,130 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ### Adversarial Attacks for NLP
 * [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
-* [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 48 stars]
-* [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) - Combating Adversarial Misspellings with Robust Word Recognition [GitHub, 46 stars]
+* [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 51 stars]
+* [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) - Combating Adversarial Misspellings with Robust Word Recognition [GitHub, 47 stars]
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
 ### General Purpose
-* [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub, 21027 stars]
-* [flair](https://github.com/flairNLP/flair) by Zalando [GitHub, 10638 stars]
-* [AllenNLP](https://github.com/allenai/allennlp) by AI2 [GitHub, 10371 stars]
-* [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub, 5596 stars]
-* [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub, 552 stars]
-* [nltk](https://github.com/nltk/nltk) [GitHub, 10030 stars]
-* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 12305 stars]
-* [pororo](https://github.com/kakaobrain/pororo) - Platform of neural models for natural language processing [GitHub, 960 stars]
-* [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub, 2705 stars]
-* [FARM](https://github.com/deepset-ai/FARM) [GitHub, 1270 stars]
-* [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub, 260 stars]
-* [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub, 230 stars]
-* [SyferText](https://github.com/OpenMined/SyferText) - A privacy preserving NLP framework [GitHub, 178 stars]
-* [DeText](https://github.com/linkedin/detext) - Text Understanding Framework for Ranking and Classification Tasks [GitHub, 1142 stars]
-* [TextHero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization [GitHub, 2302 stars]
-* [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub, 7778 stars]
-* [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub, 342 stars]
-* [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub, 1715 stars]
-* [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow [GitHub, 2188 stars]
-* [jiant](https://github.com/nyu-mll/jiant) - jiant is an NLP toolkit [GitHub, 1310 stars]
+* [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub, 21831 stars]
+* [flair](https://github.com/flairNLP/flair) by Zalando [GitHub, 11002 stars]
+* [AllenNLP](https://github.com/allenai/allennlp) by AI2 [GitHub, 10646 stars]
+* [stanza](https://github.com/stanfordnlp/stanza) (former Stanford NLP) [GitHub, 5841 stars]
+* [spaCy stanza](https://github.com/explosion/spacy-stanza) [GitHub, 577 stars]
+* [nltk](https://github.com/nltk/nltk) [GitHub, 10271 stars]
+* [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 12684 stars]
+* [pororo](https://github.com/kakaobrain/pororo) - Platform of neural models for natural language processing [GitHub, 1038 stars]
+* [NLP Architect](https://github.com/NervanaSystems/nlp-architect) - A Deep Learning NLP/NLU library by Intel® AI Lab [GitHub, 2762 stars]
+* [FARM](https://github.com/deepset-ai/FARM) [GitHub, 1416 stars]
+* [gobbli](https://github.com/RTIInternational/gobbli) by RTI International [GitHub, 261 stars]
+* [headliner](https://github.com/as-ideas/headliner) - training and deployment of seq2seq models [GitHub, 229 stars]
+* [SyferText](https://github.com/OpenMined/SyferText) - A privacy preserving NLP framework [GitHub, 181 stars]
+* [DeText](https://github.com/linkedin/detext) - Text Understanding Framework for Ranking and Classification Tasks [GitHub, 1177 stars]
+* [TextHero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization [GitHub, 2395 stars]
+* [textblob](https://github.com/sloria/textblob) - TextBlob: Simplified Text Processing [GitHub, 7962 stars]
+* [AdaptNLP](https://github.com/Novetta/adaptnlp) - A high level framework and library for NLP [GitHub, 371 stars]
+* [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy [GitHub, 1817 stars]
+* [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow [GitHub, 2227 stars]
+* [jiant](https://github.com/nyu-mll/jiant) - jiant is an NLP toolkit [GitHub, 1351 stars]
 
 ### Data Augmentation
-* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 66 stars]
-* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4724 stars]
-* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2296 stars]
-* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 328 stars]
-* [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 12849 stars]
-* [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for NLP [GitHub, 490 stars]
-* [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - Practical and feature-rich paraphrasing framework [GitHub, 258 stars]
-* [AugLy](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3721 stars]
-* [TextAugment](https://github.com/dsfsi/textaugment) - Python 3 library for augmenting text for natural language processing applications [GitHub, 160 stars]
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 70 stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4927 stars]
+* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2689 stars]
+* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 345 stars]
+* [faker](https://github.com/joke2k/faker) - Python package that generates fake data for you [GitHub, 13314 stars]
+* [textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for NLP [GitHub, 522 stars]
+* [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) - Practical and feature-rich paraphrasing framework [GitHub, 331 stars]
+* [AugLy](https://github.com/facebookresearch/AugLy) - data augmentations library for audio, image, text, and video [GitHub, 3993 stars]
+* [TextAugment](https://github.com/dsfsi/textaugment) - Python 3 library for augmenting text for natural language processing applications [GitHub, 185 stars]
 
 ### Adversarial NLP Attacks & Behavioral Testing
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1568 stars]
-* [CleverHans](https://github.com/tensorflow/cleverhans) - adversarial example library for constructing NLP attacks and building defenses [GitHub, 5213 stars]
-* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1452 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1748 stars]
+* [CleverHans](https://github.com/tensorflow/cleverhans) - adversarial example library for constructing NLP attacks and building defenses [GitHub, 5318 stars]
+* [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1528 stars]
 
 ### Transformer-oriented
-* [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub, 49306 stars]
-* [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub, 493 stars]
-* [haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. [GitHub, 2174 stars]
+* [transformers](https://github.com/huggingface/transformers) by HuggingFace [GitHub, 54739 stars]
+* [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub, 611 stars]
+* [haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. [GitHub, 2743 stars]
 
 ### Dialog Systems and Speech
-* [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [GitHub, 5333 stars]
-* [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [GitHub, 8105 stars]
-* [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 11836 stars]
-* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5811 stars]
-* [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chat bots [GitHub, 11381 stars]
-* [SpeechBrain](https://github.com/speechbrain/speechbrain) - open-source and all-in-one speech toolkit based on PyTorch [GitHub, 2800 stars]
+* [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [GitHub, 5498 stars]
+* [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [GitHub, 8454 stars]
+* [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 13089 stars]
+* [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 5901 stars]
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chat bots [GitHub, 11742 stars]
+* [SpeechBrain](https://github.com/speechbrain/speechbrain) - open-source and all-in-one speech toolkit based on PyTorch [GitHub, 3342 stars]
 
 ### Word/Sentence-embeddings oriented
-* [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 2830 stars]
-* [vecmap](https://github.com/artetxem/vecmap) A framework to learn cross-lingual word embedding mappings [GitHub, 559 stars]
-* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 5733 stars]
+* [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 2886 stars]
+* [vecmap](https://github.com/artetxem/vecmap) A framework to learn cross-lingual word embedding mappings [GitHub, 567 stars]
+* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT [GitHub, 6521 stars]
 
 ### Social Media Oriented
-* [Ekphrasis](https://github.com/cbaziotis/ekphrasis) - text processing tool, geared towards text from social networks [GitHub, 482 stars]
+* [Ekphrasis](https://github.com/cbaziotis/ekphrasis) - text processing tool, geared towards text from social networks [GitHub, 515 stars]
 
 ### Phonetics
-* [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) - grapheme to phoneme conversion with deep learning [GitHub, 57 stars]
+* [DeepPhonemizer](https://github.com/as-ideas/DeepPhonemizer) - grapheme to phoneme conversion with deep learning [GitHub, 111 stars]
 
 ### Morphology
-* [LemmInflect](https://github.com/bjascob/LemmInflect) - python module for English lemmatization and inflection [GitHub, 131 stars]
-* [Inflect](https://github.com/jaraco/inflect) - generate plurals, ordinals, indefinite articles [GitHub, 552 stars]
-* [simplemma](https://github.com/jaraco/inflect) - simple multilingual lemmatizer for Python [GitHub, 2 stars]
+* [LemmInflect](https://github.com/bjascob/LemmInflect) - python module for English lemmatization and inflection [GitHub, 140 stars]
+* [Inflect](https://github.com/jaraco/inflect) - generate plurals, ordinals, indefinite articles [GitHub, 589 stars]
+* [simplemma](https://github.com/jaraco/inflect) - simple multilingual lemmatizer for Python [GitHub, 589 stars]
 
 ### Multi-lingual tools
-* [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1878 stars]
-* [trankit](https://github.com/nlp-uoregon/trankit) - Light-Weight Transformer-based Python Toolkit for Multilingual NLP [GitHub, 507 stars]
+* [polyglot](https://github.com/aboSamoor/polyglot) - Multi-lingual NLP Framework [GitHub, 1925 stars]
+* [trankit](https://github.com/nlp-uoregon/trankit) - Light-Weight Transformer-based Python Toolkit for Multilingual NLP [GitHub, 543 stars]
 
 ### Distributed NLP / Multi-GPU NLP
-* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 2258 stars]
-* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 333 stars]
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) [GitHub, 2489 stars]
+* [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 394 stars]
 
 ### Machine Translation
-* [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [GitHub, 70 stars]
-* [marian-nmt](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++ [GitHub, 818 stars]
-* [argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python [GitHub, 668 stars]
-* [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services [GitHub, 141 stars]
-* [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers [GitHub, 156 stars]
+* [COMET](https://github.com/Unbabel/COMET) -A Neural Framework for MT Evaluation [GitHub, 102 stars]
+* [marian-nmt](https://github.com/marian-nmt/marian) - Fast Neural Machine Translation in C++ [GitHub, 841 stars]
+* [argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python [GitHub, 819 stars]
+* [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services [GitHub, 166 stars]
+* [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers [GitHub, 174 stars]
 
 ### Entity and String Matching
-* [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 366 stars]
-* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 627 stars]
-* [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python [GitHub, 8388 stars]
-* [jellyfish](https://github.com/jamesturk/jellyfish) - approximate and phonetic matching of strings [GitHub, 1495 stars]
-* [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences [GitHub, 2013 stars]
-* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Compute distance between sequences [GitHub, 358 stars]
+* [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 409 stars]
+* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 663 stars]
+* [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python [GitHub, 8558 stars]
+* [jellyfish](https://github.com/jamesturk/jellyfish) - approximate and phonetic matching of strings [GitHub, 1557 stars]
+* [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences [GitHub, 2559 stars]
+* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Compute distance between sequences [GitHub, 382 stars]
 
 ### Discourse Analysis
-* [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 283 stars]
+* [ConvoKit](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Cornell Conversational Analysis Toolkit [GitHub, 312 stars]
 
 ### PII scrubbing
-* [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 241 stars]
+* [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 253 stars]
 
 ### Non-English oriented
 #### Japanese
-* [fugashi](https://github.com/polm/fugashi) - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis [GitHub, 150 stars]
-* [SudachiPy](https://github.com/WorksApplications/SudachiPy) - SudachiPy is a Python version of Sudachi, a Japanese morphological analyzer [GitHub, 230 stars]
-* [Konoha](https://github.com/himkt/konoha) - easy-to-use Japanese Text Processing tool, which makes it possible to switch tokenizers with small changes of code [GitHub, 230 stars]
-* [jProcessing](https://github.com/kevincobain2000/jProcessing) - Japanese Natural Langauge Processing Libraries [GitHub, 138 stars]
-* [Ginza](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies [GitHub, 489 stars]
-* [kuromoji](https://github.com/atilika/kuromoji) - self-contained and very easy to use Japanese morphological analyzer designed for search [GitHub, 776 stars]
-* [nagisa](https://github.com/taishi-i/nagisa) - Japanese tokenizer based on recurrent neural networks [GitHub, 276 stars]
+* [fugashi](https://github.com/polm/fugashi) - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis [GitHub, 175 stars]
+* [SudachiPy](https://github.com/WorksApplications/SudachiPy) - SudachiPy is a Python version of Sudachi, a Japanese morphological analyzer [GitHub, 260 stars]
+* [Konoha](https://github.com/himkt/konoha) - easy-to-use Japanese Text Processing tool, which makes it possible to switch tokenizers with small changes of code [GitHub, 164 stars]
+* [jProcessing](https://github.com/kevincobain2000/jProcessing) - Japanese Natural Langauge Processing Libraries [GitHub, 139 stars]
+* [Ginza](https://github.com/megagonlabs/ginza) - Japanese NLP Library using spaCy as framework based on Universal Dependencies [GitHub, 523 stars]
+* [kuromoji](https://github.com/atilika/kuromoji) - self-contained and very easy to use Japanese morphological analyzer designed for search [GitHub, 782 stars]
+* [nagisa](https://github.com/taishi-i/nagisa) - Japanese tokenizer based on recurrent neural networks [GitHub, 283 stars]
 * [KyTea](https://github.com/neubig/kytea) - Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation [GitHub, 180 stars]
 * [Jigg](https://github.com/mynlp/jigg) - Pipeline framework for easy natural language processing [GitHub, 68 stars]
-* [Juman++](https://github.com/ku-nlp/jumanpp) - Juman++ (a Morphological Analyzer Toolkit) [GitHub, 265 stars]
-* [RakutenMA](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript [GitHub, 438 stars]
+* [Juman++](https://github.com/ku-nlp/jumanpp) - Juman++ (a Morphological Analyzer Toolkit) [GitHub, 270 stars]
+* [RakutenMA](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript [GitHub, 442 stars]
 * [toiro](https://github.com/taishi-i/toiro) - a comparison tool of Japanese tokenizers [GitHub, 100 stars]
 
 #### Other
-* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 86 stars]
-* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2152 stars]
-* [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 873 stars]
+* [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 88 stars]
+* [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2230 stars]
+* [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 903 stars]
 
 ### Text Data Labelling
-* [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 73 stars]
-* [Doccano](https://github.com/doccano/doccano) - open source annotation tool for machine learning practitioners [GitHub, 5100 stars]
+* [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 134 stars]
+* [Doccano](https://github.com/doccano/doccano) - open source annotation tool for machine learning practitioners [GitHub, 5509 stars]
 * [Prodigy](https://prodi.gy/) - annotation tool powered by active learning [Paid Service]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
@@ -707,11 +707,11 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
 
 #### Tutorials
-* [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub, 1242 stars]
-* [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers [GitHub, 9158 stars]
-* [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub, 441 stars]
-* [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) [GitHub, 257 stars]
-* [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - demos with the Transformers library by HuggingFace [GitHub, 781 stars]
+* [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub, 1274 stars]
+* [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers [GitHub, 9784 stars]
+* [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub, 459 stars]
+* [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) [GitHub, 259 stars]
+* [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - demos with the Transformers library by HuggingFace [GitHub, 815 stars]
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
 -----
@@ -720,20 +720,20 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ![Other-NLP-Topics](Resources/Images/pandect_papyrus_other.png)
 -----
 #### Tokenization
-* [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub, 4721 stars]
-* [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub, 5262 stars]
-* [SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts [GitHub, 91 stars]
+* [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub, 5029 stars]
+* [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub, 5484 stars]
+* [SoMaJo](https://github.com/tsproisl/SoMaJo) - A tokenizer and sentence splitter for German and English web and social media texts [GitHub, 100 stars]
 
 #### Data Augmentation and Weak Supervision
 ##### Libraries and Frameworks
-* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 66 stars]
-* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2296 stars]
-* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 328 stars]
-* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1568 stars]
-* [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 323 stars]
-* [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations [GitHub, 219 stars]
-* [EDA](https://github.com/jasonwei20/eda_nlp) - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [GitHub, 1000 stars]
-* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4724 stars]
+* [WildNLP](https://github.com/MI2DataLab/WildNLP) Text manipulation library to test NLP models [GitHub, 70 stars]
+* [NLPAug](https://github.com/makcedward/nlpaug) Data augmentation for NLP [GitHub, 2689 stars]
+* [SentAugment](https://github.com/facebookresearch/SentAugment) Data augmentation by retrieving similar sentences from larger datasets [GitHub, 345 stars]
+* [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1748 stars]
+* [skweak](https://github.com/NorskRegnesentral/skweak) - software toolkit for weak supervision applied to NLP tasks [GitHub, 444 stars]
+* [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations [GitHub, 272 stars]
+* [EDA](https://github.com/jasonwei20/eda_nlp) - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [GitHub, 1121 stars]
+* [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 4927 stars]
 
 ##### Reading Material and Tutorials
 * [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021] [GitHub Link](https://github.com/styfeng/DataAug4NLP)
@@ -741,56 +741,56 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
 #### Named Entity Recognition (NER)
-* [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub, 987 stars]
-* [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets) [GitHub, 237 stars]
-* [Bootleg](https://github.com/HazyResearch/bootleg) - Self-Supervision for Named Entity Disambiguation at the Tail [GitHub, 108 stars]
-* [Few-NERD](https://github.com/thunlp/Few-NERD) - Large-scale, fine-grained manually annotated named entity recognition dataset [GitHub, 145 stars]
+* [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub, 1050 stars]
+* [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets) [GitHub, 257 stars]
+* [Bootleg](https://github.com/HazyResearch/bootleg) - Self-Supervision for Named Entity Disambiguation at the Tail [GitHub, 135 stars]
+* [Few-NERD](https://github.com/thunlp/Few-NERD) - Large-scale, fine-grained manually annotated named entity recognition dataset [GitHub, 194 stars]
 
 #### Relation Extraction
-* [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub, 290 stars]
-* [tacrev](https://github.com/DFKI-NLP/tacrev) TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [GitHub, 43 stars]
+* [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub, 304 stars]
+* [tacrev](https://github.com/DFKI-NLP/tacrev) TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [GitHub, 45 stars]
 * [tac-self-attention](https://github.com/ivan-bilan/tac-self-attention) Relation extraction with position-aware self-attention [GitHub, 60 stars]
 
 #### Coreference Resolution
-* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2352 stars]
-* [coref](https://github.com/mandarjoshi90/coref) - BERT and SpanBERT for Coreference Resolution [GitHub, 318 stars]
+* [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2433 stars]
+* [coref](https://github.com/mandarjoshi90/coref) - BERT and SpanBERT for Coreference Resolution [GitHub, 352 stars]
 
 #### Domain Adaptation
-* [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub, 166 stars]
+* [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub, 187 stars]
 
 #### Low Resource NLP
-* [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 496 stars]
+* [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 518 stars]
 
 #### Spell Correction
-* [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 707 stars]
-* [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 226 stars]
-* [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 458 stars]
+* [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 863 stars]
+* [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 301 stars]
+* [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 488 stars]
 * [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
-* [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 405 stars]
+* [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 448 stars]
 
 #### Style Transfer for NLP
-* [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 216 stars]
+* [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 292 stars]
 
 #### Automata Theory for NLP
-* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 627 stars]
+* [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 663 stars]
 
 #### Obscene words detection
-* [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1467 stars]
+* [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1605 stars]
 
 #### Reinforcement Learning for NLP
-* [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 95 stars]
+* [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 104 stars]
 
 #### AutoML / AutoNLP
-* [AutoNLP](https://github.com/huggingface/autonlp) - Faster and easier training and deployments of SOTA NLP models [GitHub, 623 stars]
-* [TPOT](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool [GitHub, 8158 stars]
-* [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1287 stars]
-* [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 625 stars]
+* [AutoNLP](https://github.com/huggingface/autonlp) - Faster and easier training and deployments of SOTA NLP models [GitHub, 668 stars]
+* [TPOT](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool [GitHub, 8356 stars]
+* [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1442 stars]
+* [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 632 stars]
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
-* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 4894 stars]
-* [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 603 stars]
+* [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 5572 stars]
+* [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 1599 stars]
 
 #### Text Generation
-* [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 171 stars]
+* [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 208 stars]
 * [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
 
 ## License [CC0](./LICENSE)
