@@ -749,6 +749,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Applied Language Technology](https://applied-language-technology.readthedocs.io/en/latest/index.html) - Natural Language Processing for Linguists
 
 #### Books
+* [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) - [Book, February 2022]
+* [Applied Natural Language Processing in the Enterprise](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/) - [Book, May 2021]
+* [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) - [Book, June 2020]
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
 * [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
 * [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
