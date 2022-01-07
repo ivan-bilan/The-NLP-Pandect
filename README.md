@@ -73,6 +73,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 141 stars]
+* [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) [GitHub, 423 stars]
 
 #### NLP History
 ##### General
@@ -174,6 +175,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 * [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
 * [MultiNLI](cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
+* [iSarcasm: A Dataset of Intended Sarcasm](https://github.com/silviu-oprea/iSarcasm) - iSarcasm is a dataset of tweets, each labelled as either sarcastic or non_sarcastic
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
@@ -380,6 +382,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * [TextAttack](https://github.com/QData/TextAttack) - framework for adversarial attacks, data augmentation, and model training in NLP [GitHub, 1748 stars]
 * [WildNLP](https://github.com/MI2DataLab/WildNLP) - Corrupt an input text to test NLP models' robustness [GitHub, 70 stars]
 * [Great Expectations](https://github.com/great-expectations/great_expectations) - Write tests for your data [GitHub, 5717 stars]
+* [Deepchecks](https://github.com/deepchecks/deepchecks) - Python package for comprehensively validating your machine learning models and data [GitHub, 433 stars]
 
 #### Model Deployability and Serving
 * [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
@@ -565,6 +568,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
 * [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 * [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
+* [Fairness-in-AI](https://github.com/dreji18/Fairness-in-AI) - this package is used to detect and mitigate biases in NLP tasks [GitHub, 8 stars]
 
 ### Adversarial Attacks for NLP
 * [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
@@ -703,6 +707,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+* [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 237 stars]
 
 #### Courses
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
@@ -781,6 +786,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 #### Style Transfer for NLP
 * [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 292 stars]
+* [StylePTB](https://github.com/lvyiwei1/StylePTB) - A Compositional Benchmark for Fine-grained Controllable Text Style Transfer [GitHub, 31 stars]
 
 #### Automata Theory for NLP
 * [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module implementing Aho-Corasick algorithm for string matching [GitHub, 663 stars]
@@ -803,6 +809,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Text Generation
 * [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 208 stars]
 * [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
+* [BARTScore](https://github.com/neulab/BARTScore) Evaluating Generated Text as Text Generation [GitHub, 85 stars]
 
 ## License [CC0](./LICENSE)
 
