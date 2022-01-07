@@ -70,6 +70,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 205 stars]
 * [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 957 stars]
 * [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 385 stars]
+* [Persian NLP Benchmark](https://github.com/Mofid-AI/persian-nlp-benchmark) - benchmark for evaluation and comparison of various NLP tasks in Persian language [GitHub, 61 stars]
 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 141 stars]
@@ -146,6 +147,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Summarization
 * [WikiAsp](https://github.com/neulab/wikiasp) - WikiAsp: Multi-document aspect-based summarization Dataset
+* [WikiLingua](https://github.com/esdurmus/Wikilingua) - A Multilingual Abstractive Summarization Dataset
 
 ### Question Answering
 * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
@@ -242,6 +244,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 442 stars]
 * [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 130 stars]
 * [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) [Blog, Dec 2020]
+* [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers) a list of BERT-related papers [GitHub, 259 stars]
 
 #### Other Transformer Variants
 ##### T5
@@ -293,9 +296,13 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 748 stars]
 
 #### Distillation, Pruning and Quantization
+##### Reading Material
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
 * [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) ([+Overview of Approaches](https://www.humanizing-ai.com/model-compression.html)) [Paper, April 2021]
+##### Tools
+* [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - code to reduce the size of Transformer-based models or decrease their latency at inference time [GitHub, 53 stars]
+* [XtremeDistil ](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistilTransformers for Distilling Massive Multilingual Neural Networks [GitHub, 80 stars]
 
 ### Automated Summarization
 * [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
@@ -315,7 +322,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
-
+* [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
 
 ### MLOps for NLP
 MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when building and deploying NLP pipelines.
@@ -410,6 +417,10 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 510 stars]
 * [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
+#### Model Debugging
+* [imodels](https://github.com/csinva/imodels) - package for concise, transparent, and accurate predictive modeling [GitHub, 419 stars]
+* [Cockpit](https://github.com/f-dangel/cockpit) - A Practical Debugging Tool for Training Deep Neural Networks [GitHub, 362 stars]
+
 #### Data and Model Observability
 
 ##### General
@@ -453,6 +464,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 2767 stars]
 * [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 1388 stars]
 * [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
+* [Diffgram](https://github.com/diffgram/diffgram) - Complete training data platform for machine learning delivered as a single application [GitHub, 664 stars]
 
 ### Transformer-based Architectures
 #### General
@@ -461,9 +473,12 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 134 stars]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
+
 ##### Multi-GPU Transfomers
 * [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 394 stars]
 
+##### Training Transformers Effectively
+* [Training BERT with Compute/Time (Academic) Budget](https://github.com/IntelLabs/academic-budget-bert) [GitHub, 151 stars]
 
 ### Embeddings as a Service
 * [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) [GitHub, 164 stars]
@@ -547,12 +562,15 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
 ### NLP and ML Interpretability
+
 #### NLP-centric
 * [Explainability for Natural Language Processing - KDD'2021 Tutorial](https://www.youtube.com/watch?v=PvKOSYGclPk&t=2s) [Slides](https://www.slideshare.net/YunyaoLi/explainability-for-natural-language-processing-249992241) [Presentation, August 2021]
 * [ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models [GitHub, 925 stars]
 * [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with text columns [GitHub, 211 stars]
 * [transformers-interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability that works seamlessly with transformers [GitHub, 502 stars]
 * [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - collection of research materials on explainable AI/ML [GitHub, 453 stars]
+* [LAMA](https://github.com/facebookresearch/LAMA) - LAMA is a probe for analyzing the factual and commonsense knowledge contained in pretrained language models [GitHub, 864 stars]
+
 #### General
 * [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) [GitHub, 2713 stars]
 * [WhatLies](https://github.com/RasaHQ/whatlies) - Toolkit to help visualise - what lies in word embeddings [GitHub, 315 stars]
@@ -560,6 +578,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning [GitHub, 4306 stars]
 * [thermostat](https://github.com/DFKI-NLP/thermostat) - Collection of NLP model explanations and accompanying analysis tools [GitHub, 56 stars]
 * [Dodrio](https://github.com/poloclub/dodrio) - Exploring attention weights in transformer-based models with linguistic knowledge [GitHub, 193 stars]
+* [imodels](https://github.com/csinva/imodels) - package for concise, transparent, and accurate predictive modeling [GitHub, 419 stars]
 
 ### Ethics, Bias, and Equality in NLP
 * [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
@@ -569,11 +588,15 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
 * [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
 * [Fairness-in-AI](https://github.com/dreji18/Fairness-in-AI) - this package is used to detect and mitigate biases in NLP tasks [GitHub, 8 stars]
+* [nlg-bias](https://github.com/ewsheng/nlg-bias) - dataset + classifier tools to study social perception biases in natural language generation [GitHub, 34 stars]
 
 ### Adversarial Attacks for NLP
 * [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
 * [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 51 stars]
 * [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) - Combating Adversarial Misspellings with Robust Word Recognition [GitHub, 47 stars]
+
+### Hate Speech Analysis
+* [HateXplain](https://github.com/hate-alert/HateXplain) - BERT for detecting abusive language [GitHub, 86 stars]
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
@@ -675,6 +698,13 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### PII scrubbing
 * [scrubadub](https://github.com/LeapBeyond/scrubadub) - Clean personally identifiable information from dirty dirty text [GitHub, 253 stars]
 
+### Hastag Segmentation
+* [hashformers](https://github.com/ruanchaves/hashformers) - automatically inserting the missing spaces between the words in a hashtag [GitHub, 14 stars]
+
+### Books Analysis / Literary Analysis
+* [booknlp](https://github.com/booknlp/booknlp) - a natural language processing pipeline that scales to books and other long documents (in English) [GitHub, 447 stars]
+* [bookworm](https://github.com/harrisonpim/bookworm) - ingests novels, builds an implicit character network and a deeply analysable graph [GitHub, 70 stars]
+
 ### Non-English oriented
 #### Japanese
 * [fugashi](https://github.com/polm/fugashi) - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis [GitHub, 175 stars]
@@ -694,6 +724,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 88 stars]
 * [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2230 stars]
 * [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 903 stars]
+* [PTT5](https://github.com/unicamp-dl/PTT5) - Pretraining and validating the T5 model on Brazilian Portuguese data [GitHub, 52 stars]
 
 ### Text Data Labelling
 * [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 134 stars]
@@ -766,6 +797,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [tacred-relation](https://github.com/yuhaozhang/tacred-relation) TACRED: position-aware attention model for relation extraction [GitHub, 304 stars]
 * [tacrev](https://github.com/DFKI-NLP/tacrev) TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [GitHub, 45 stars]
 * [tac-self-attention](https://github.com/ivan-bilan/tac-self-attention) Relation extraction with position-aware self-attention [GitHub, 60 stars]
+* [Re-TACRED](https://github.com/gstoica27/Re-TACRED) Re-TACRED: Addressing Shortcomings of the TACRED Dataset [GitHub, 30 stars]
 
 #### Coreference Resolution
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2433 stars]
@@ -794,6 +826,12 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Obscene words detection
 * [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words [GitHub, 1605 stars]
 
+#### Reddit Analysis
+* [Subreddit Analyzer](https://github.com/PhantomInsights/subreddit-analyzer) - comprehensive Data and Text Mining workflow for submissions and comments from any given public subreddit [GitHub, 474 stars]
+
+#### Skill Detection
+* [SkillNER](https://github.com/AnasAito/SkillNER) - rule based NLP module to extract job skills from text [GitHub, 27 stars]
+
 #### Reinforcement Learning for NLP
 * [nlp-gym](https://github.com/rajcscw/nlp-gym) - NLPGym - A toolkit to develop RL agents to solve NLP tasks [GitHub, 104 stars]
 
@@ -805,11 +843,15 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
 * [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 5572 stars]
 * [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 1599 stars]
+* [Gradsflow](https://github.com/gradsflow/gradsflow) - open-source AutoML & PyTorch Model Training Library [GitHub, 253 stars]
 
 #### Text Generation
 * [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 208 stars]
 * [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
 * [BARTScore](https://github.com/neulab/BARTScore) Evaluating Generated Text as Text Generation [GitHub, 85 stars]
+
+#### Title / Headlines Generation
+* [TitleStylist](https://github.com/jind11/TitleStylist) Learning to Generate Headlines with Controlled Styles [GitHub, 55 stars]
 
 ## License [CC0](./LICENSE)
 
