@@ -75,6 +75,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 141 stars]
 * [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) [GitHub, 423 stars]
+* [Spanish Language Models and resources](https://github.com/PlanTL-GOB-ES/lm-spanish) [GitHub, 180 stars]
 
 #### NLP History
 ##### General
@@ -166,6 +167,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Bio, Law, and other scientific domains
 * [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
 * [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
+* [LexGLUE](https://github.com/coastalcph/lex-glue) - A Benchmark Dataset for Legal Language Understanding in English
 
 ### Transformer Efficiency
 * [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 369 stars]
@@ -309,6 +311,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 78 stars]
 * [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 125 stars]
 * [SummerTime](https://github.com/Yale-LILY/SummerTime) - an open-source text summarization toolkit for non-experts [GitHub, 142 stars]
+* [PRIMER](https://github.com/allenai/PRIMER) - PRIMER: Pyramid-based Masked Sentence Pre-training for Multi-document Summarization [GitHub, 42 stars]
+* [summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization [GitHub, 133 stars]
 
 ### Knowledge Graphs and NLP
 * [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation ,Oct 2021]
@@ -420,6 +424,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Model Debugging
 * [imodels](https://github.com/csinva/imodels) - package for concise, transparent, and accurate predictive modeling [GitHub, 419 stars]
 * [Cockpit](https://github.com/f-dangel/cockpit) - A Practical Debugging Tool for Training Deep Neural Networks [GitHub, 362 stars]
+
+#### Model Accuracy Prediction
+* [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - WeightWatcher tool for predicting the accuracy of Deep Neural Networks [GitHub, 633 stars]
 
 #### Data and Model Observability
 
