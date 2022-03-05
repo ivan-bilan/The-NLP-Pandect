@@ -4,6 +4,8 @@
 This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Natural Language Processing that is available online.
 </p>
 
+<p align="center"> <a href="https://how-to-help-ukraine-now.super.site" target="_blank"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/> </a>
+
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 #### Compendiums and awesome lists on the topic of NLP:
