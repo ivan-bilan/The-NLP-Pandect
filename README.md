@@ -18,6 +18,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 * [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 1040 stars]
 * [Resources on various machine learning topics](https://www.backprop.org) by Backprop
+* [NLP articles](https://devopedia.org/site-map/browse-articles/natural+language+processing) by [Devopedia](https://devopedia.org)
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 ##### Papers and Paper Summaries
