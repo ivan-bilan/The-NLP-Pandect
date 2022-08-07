@@ -15,10 +15,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🗂️ - a collection of additional resources
 > 
+> 🔱 - non-open source tool, framework or paid service
+> 
 > 🎥️ - a resource you can watch
 > 
 > 🎙️ - a resource you can listen to
-
 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
@@ -132,9 +133,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
-* [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
+* 🎥 [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
-* [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
+* 🎥 [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -197,7 +198,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
 ### General
-* [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
+* 📙 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
 
 ### Embeddings
 #### Repositories
@@ -268,10 +269,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ##### BigBird
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
 ##### Reformer / Linformer / Longformer / Performers
-* [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) - [Paper, February 2020] [[Video](https://www.youtube.com/watch?v=xJrKIPwVwGM), October 2020]
-* [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - [Paper, April 2020] [[Video](https://www.youtube.com/watch?v=_8KNb5iqblE), April 2020]
-* [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) - [Paper, June 2020] [[Video](https://www.youtube.com/watch?v=-_2AF9Lhweo), June 2020]
-* [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) - [Paper, September 2020] [[Video](https://www.youtube.com/watch?v=0eTULzrOztQ), September 2020]
+* 🎥️ [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) - [Paper, February 2020] [[Video](https://www.youtube.com/watch?v=xJrKIPwVwGM), October 2020]
+* 🎥️ [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - [Paper, April 2020] [[Video](https://www.youtube.com/watch?v=_8KNb5iqblE), April 2020]
+* 🎥️ [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/abs/2006.04768) - [Paper, June 2020] [[Video](https://www.youtube.com/watch?v=-_2AF9Lhweo), June 2020]
+* 🎥️ [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794) - [Paper, September 2020] [[Video](https://www.youtube.com/watch?v=0eTULzrOztQ), September 2020]
 * ⭐ [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 849 stars]
 
 ##### Switch Transformer
@@ -280,7 +281,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### GPT-family
 ##### General
 * 📙 [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
-* [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
+* 📙 [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
 * 📙 [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
 * 📙 [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
 
@@ -290,7 +291,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
 * 📙 [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
 * 📙 [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
-* [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
+* 📙 [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 ###### Applications
 * ⭐ [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3591 stars]
 * [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
@@ -326,7 +327,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization [GitHub, 143 stars]
 
 ### Knowledge Graphs and NLP
-* [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation ,Oct 2021]
+* [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation, Oct 2021]
 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
@@ -336,12 +337,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > Section keywords: best practices, MLOps
 
 ### Best Practices for NLP
-* [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
-* [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
+* 🎥 [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
+* 🎥 [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * 📙 [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * 📙 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
-* [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
+* 🎥 [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
 
 ### MLOps for NLP
 MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when building and deploying NLP pipelines.
@@ -372,27 +373,27 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
 * 📙 [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
 * 📙 [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
-* [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
-* [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
+* 📙 [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
+* 📙 [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
 
 #### Learning Material
-* [MLOps cource](https://madewithml.com/#mlops) by Made With ML
-* [GitHub MLOps](https://mlops.githubapp.com) - collection of resources on how to facilitate Machine Learning Ops with GitHub
+* 🗂 [MLOps cource](https://madewithml.com/#mlops) by Made With ML
+* 🗂 [GitHub MLOps](https://mlops.githubapp.com) - collection of resources on how to facilitate Machine Learning Ops with GitHub
 
 #### MLOps Communities
 * [The MLOps Community](https://mlops.community/) - blogs, slack group, newsletter and more all about MLOps
 
 #### Data Versioning
 * ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
-* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
-* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+* 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+* 🔱 [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
 
 #### Experiment Tracking
 * ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
-* [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
-* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
-* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
-* [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
+* 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning [Paid Service]
+* 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+* 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+* 🔱 [SigOpt](https://sigopt.com/) - automate training & tuning, visualize & compare runs [Paid Service]
 * ⭐ [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 6750 stars]
 * ⭐ [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place [Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/)
 * ⭐ [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 5875 stars]
@@ -401,11 +402,11 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets [Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc)
 * ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
 * ⭐ [ModelDB](https://github.com/VertaAI/modeldb) - open-source system for Machine Learning model versioning, metadata, and experiment management [GitHub, 1481 stars]
-* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
-* [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
-* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
-* [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
-* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+* 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+* 🔱 [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
+* 🔱 [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+* 🔱 [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
+* 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
 
 #### Automated Testing and Behavioral Testing
 * ⭐ [CheckList](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models [GitHub, 1717 stars]
@@ -416,29 +417,28 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Model Deployability and Serving
 * ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle [Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/)
-* [Amazon SageMaker](https://aws.amazon.com/de/sagemaker/) [Paid Service]
-* [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
-* [NLP Cloud](https://nlpcloud.io/) - Production-ready NLP API [Paid Service]
-* [Saturn Cloud](https://saturncloud.io/) [Paid Service]
-* [SELDON](https://www.seldon.io/tech/) - machine learning deployment for enterprise [Paid Service]
-* [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
-* [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
+* 🔱 [Amazon SageMaker](https://aws.amazon.com/de/sagemaker/) [Paid Service]
+* 🔱 [Valohai](https://valohai.com/) - End-to-end ML pipelines [Paid Service]
+* 🔱 [NLP Cloud](https://nlpcloud.io/) - Production-ready NLP API [Paid Service]
+* 🔱 [Saturn Cloud](https://saturncloud.io/) [Paid Service]
+* 🔱 [SELDON](https://www.seldon.io/tech/) - machine learning deployment for enterprise [Paid Service]
+* 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models [Paid Service]
+* 🔱 [polyaxon](https://polyaxon.com/) - reproduce, automate, and scale your data science workflows with production-grade MLOps tools [Paid Service]
 * ⭐ [TorchServe](https://github.com/pytorch/serve) - flexible and easy to use tool for serving PyTorch models [GitHub, 2761 stars]
-* [Kubeflow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes [GitHub, 10600 stars]
+* 🔱 [Kubeflow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes [GitHub, 10600 stars]
 * ⭐ [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes [GitHub, 1655 stars]
-* [TFX](https://www.tensorflow.org/tfx) - 
-TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines [Paid Service]
-* [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
-* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
-* [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/#features) - end-to-end machine learning lifecycle [Paid Service]
+* 🔱 [TFX](https://www.tensorflow.org/tfx) - TensorFlow Extended - end-to-end platform for deploying production ML pipelines [Paid Service]
+* 🔱 [Pachyderm](https://www.pachyderm.com/) - version control for data with the tools to build scalable end-to-end ML/AI pipelines [Paid Service with Free Tier]
+* 🔱 [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+* 🔱 [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/#features) - end-to-end machine learning lifecycle [Paid Service]
 * ⭐ [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) [GitHub, 104 stars]
 * ⭐ [NLP-Service](https://github.com/karndeb/NLP-Service) - sample demo of NLP as a service platform built using FastAPI and Hugging Face [GitHub, 13 stars]
-* [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
-* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+* 🔱 [Dagster](https://dagster.io/) - data orchestrator for machine learning [Free and Open Source]
+* 🔱 [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
 * ⭐ [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 5875 stars]
 * ⭐ [flyte](https://github.com/flyteorg/flyte) - workflow automation platform for complex, mission-critical data and ML processes at scale [GitHub, 2557 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 776 stars]
-* [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
+* 🔱 [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 
 #### Model Debugging
 * ⭐ [imodels](https://github.com/csinva/imodels) - package for concise, transparent, and accurate predictive modeling [GitHub, 875 stars]
@@ -453,43 +453,43 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 1718 stars]
 * ⭐ [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 1219 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 776 stars]
-* [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
-* [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+* 🔱 [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
+* 🔱 [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
 
 ##### Model Centric
-* [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure [Paid Service]
-* [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale [Paid Service]
+* 🔱 [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure [Paid Service]
+* 🔱 [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale [Paid Service]
 * ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
-* [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
-* [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
-* [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
-* [Domino Model Ops](https://www.dominodatalab.com/product/model-ops/) - Deploy and Manage Models to Drive Business Impact [Paid Service]
-* [iguazio](https://www.iguazio.com/) - deployment and management of your AI applications with MLOps and end-to-end automation of machine learning pipelines [Paid Service]
+* 🔱 [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
+* 🔱 [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
+* 🔱 [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
+* 🔱 [Domino Model Ops](https://www.dominodatalab.com/product/model-ops/) - Deploy and Manage Models to Drive Business Impact [Paid Service]
+* 🔱 [iguazio](https://www.iguazio.com/) - deployment and management of your AI applications with MLOps and end-to-end automation of machine learning pipelines [Paid Service]
 
 ##### Data Centric
-* [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
-* [acceldata](https://www.acceldata.io/) - improve reliability, accelerate scale, and reduce costs across all data pipelines [Paid Service]
-* [Bigeye](https://www.bigeye.com/) - monitoring and alerting to your datasets in minutes [Paid Service]
-* [datakin](https://datakin.com/product/) - end-to-end, real-time data lineage solution [Paid Service]
-* [Monte Carlo](https://www.montecarlodata.com/) - data integrity, drifts, schema, lineage [Paid Service]
-* [SODA](https://www.soda.io/) - data monitoring, testing and validation [Paid Service]
-* [whatify](https://whatify.ai/) - data quality and action recommendation on it [Paid Service]
+* 🔱 [Datafold](https://www.datafold.com/) - data quality through diffs, profiling, and anomaly detection [Paid Service]
+* 🔱 [acceldata](https://www.acceldata.io/) - improve reliability, accelerate scale, and reduce costs across all data pipelines [Paid Service]
+* 🔱 [Bigeye](https://www.bigeye.com/) - monitoring and alerting to your datasets in minutes [Paid Service]
+* 🔱 [datakin](https://datakin.com/product/) - end-to-end, real-time data lineage solution [Paid Service]
+* 🔱 [Monte Carlo](https://www.montecarlodata.com/) - data integrity, drifts, schema, lineage [Paid Service]
+* 🔱 [SODA](https://www.soda.io/) - data monitoring, testing and validation [Paid Service]
+* 🔱 [whatify](https://whatify.ai/) - data quality and action recommendation on it [Paid Service]
 
 #### Feature Stores
-* [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
+* 🔱 [Tecton](https://www.tecton.ai/) - enterprise feature store for machine learning [Paid Service]
 * ⭐ [FEAST](https://github.com/feast-dev/feast) - open source feature store for machine learning [Website](https://feast.dev/) [GitHub, 3461 stars]
-* [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features [Paid Service]
+* 🔱 [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features [Paid Service]
 
 #### Metadata Management
 * ⭐ [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows [GitHub, 486 stars]
-* [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
+* 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams [Paid Service]
 
 #### MLOps Frameworks
 * ⭐ [Metaflow](https://github.com/Netflix/metaflow) - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects [GitHub, 5875 stars]
 * ⭐ [kedro](https://github.com/quantumblacklabs/kedro) - Python framework for creating reproducible, maintainable and modular data science code [GitHub, 7448 stars]
 * ⭐ [Seldon Core](https://github.com/SeldonIO/seldon-core) - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models [GitHub, 3306 stars]
 * ⭐ [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 2252 stars]
-* [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
+* 🔱 [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
 * ⭐ [Diffgram](https://github.com/diffgram/diffgram) - Complete training data platform for machine learning delivered as a single application [GitHub, 1432 stars]
 
 ### Transformer-based Architectures
@@ -497,8 +497,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * 📙 [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html) by Intel AI [Blog, 2020]
 * 📙 [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * ⭐ [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 174 stars]
-* [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
-* [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
+* 🎥️ [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
+* 🎥️ [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 
 ##### Multi-GPU Transformers
 * ⭐ [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 497 stars]
@@ -608,11 +608,11 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ### Ethics, Bias, and Equality in NLP
 * 📙 [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
-* [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
-* [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
-* [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
-* [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
-* [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
+* 🎥️ [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
+* 📙 [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
+* 🗂️ [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
+* 🗂️ [The Institute for Ethical AI & Machine Learning](https://ethical.institute)
+* 📙 [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
 * ⭐ [Fairness-in-AI](https://github.com/dreji18/Fairness-in-AI) - this package is used to detect and mitigate biases in NLP tasks [GitHub, 17 stars]
 * ⭐ [nlg-bias](https://github.com/ewsheng/nlg-bias) - dataset + classifier tools to study social perception biases in natural language generation [GitHub, 42 stars]
 
@@ -755,7 +755,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### Text Data Labelling
 * ⭐ [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 297 stars]
 * ⭐ [Doccano](https://github.com/doccano/doccano) - open source annotation tool for machine learning practitioners [GitHub, 6538 stars]
-* [Prodigy](https://prodi.gy/) - annotation tool powered by active learning [Paid Service]
+* 🔱 [Prodigy](https://prodi.gy/) - annotation tool powered by active learning [Paid Service]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
@@ -872,7 +872,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [TPOT](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool [GitHub, 8682 stars]
 * ⭐ [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch [GitHub, 1722 stars]
 * ⭐ [HungaBunga](https://github.com/ypeleg/HungaBunga) - Brute-Force all sklearn models with all parameters using .fit .predict [GitHub, 660 stars]
-* [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
+* 🔱 [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) - Google's paid AutoML NLP service
 * ⭐ [Optuna](https://github.com/optuna/optuna) - hyperparameter optimization framework [GitHub, 6750 stars]
 * ⭐ [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 1990 stars]
 * ⭐ [Gradsflow](https://github.com/gradsflow/gradsflow) - open-source AutoML & PyTorch Model Training Library [GitHub, 282 stars]
