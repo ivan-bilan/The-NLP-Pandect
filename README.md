@@ -86,15 +86,18 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 1006 stars]
 * ⭐ [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 447 stars]
 * ⭐ [Persian NLP Benchmark](https://github.com/Mofid-AI/persian-nlp-benchmark) - benchmark for evaluation and comparison of various NLP tasks in Persian language [GitHub, 65 stars]
+* ⭐ [nlp-greek](https://github.com/Yuliya-HV/nlp-greek) -  Greek language sources [GitHub, 3 stars]
 
 #### Pre-trained NLP models
 * ⭐ [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 162 stars]
 * 📙 [General Pretrained Language Models](https://mr-nlp.github.io/posts/2022/07/general-tptlms-list/) [Blog, July 2022]
 * ⭐ [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) [GitHub, 2399 stars]
 * ⭐ [Spanish Language Models and resources](https://github.com/PlanTL-GOB-ES/lm-spanish) [GitHub, 196 stars]
+* 🗂 [Monolingual Pretrained Language Models](https://mr-nlp.github.io/posts/2022/07/monolingual-tptlms-list/) - collection of available pre-trained models [Blog, July 2022]
 
 #### NLP History
 ##### General
+* [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview) [GitHub, 1200 stars]
 * 📙 [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
 ##### 2020 Year in Review
 * 📙 [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
@@ -589,6 +592,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences [GitHub, 5233 stars]
 * ⭐ [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) - Deep Keyphrase Extraction using BERT [GitHub, 218 stars]
 * ⭐ [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 1717 stars]
+* ⭐ [KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers) - vectorizers that extract keyphrases with part-of-speech patterns  [GitHub, 58 stars]
 
 ### Further Reading
 * 📙 [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
@@ -786,6 +790,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 356 stars]
 
 #### Courses
+* [CS25: Transformers United Stanford - Fall 2021](https://web.stanford.edu/class/cs25/) [Course, Fall 2021]
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
 * [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
 * [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
@@ -867,6 +872,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
 * ⭐ [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 501 stars]
 * ⭐ [pycorrector](https://github.com/shibing624/pycorrector) - spell correction for Chinese [GitHub, 3400 stars]
+* ⭐ [contractions](https://github.com/kootenpv/contractions) - Fixes contractions such as `you're` to you `are` [GitHub, 241 stars]
 
 #### Style Transfer for NLP
 * ⭐ [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 394 stars]
