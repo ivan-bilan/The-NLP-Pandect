@@ -24,7 +24,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 > __Note__
-> Section keywords: paper summaries, compendium, awesome list.
+> Section keywords: paper summaries, compendium, awesome list
 
 #### Compendiums and awesome lists on the topic of NLP:
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
@@ -65,6 +65,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 13885 stars]
 * 🗂️ [Big Bad NLP Database](https://datasets.quantumstat.com)
 * [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
+* ⭐ [MLDoc](https://github.com/facebookresearch/MLDoc) - Corpus for Multilingual Document Classification in Eight Language [GitHub, 141 stars]
 
 #### Word and Sentence embeddings:
 * ⭐ [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) by [Hironsan](https://github.com/Hironsan) [GitHub, 1513 stars]
@@ -123,6 +124,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
 -----
+
 * 📙 [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
 * 📙 [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
 * 📙 [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
@@ -151,8 +153,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 -----
-> __Note__
-> Section keywords: benchmark
 
 ### General NLU
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
@@ -199,6 +199,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 ### General
 * 📙 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
+* 📙 [Recent Advances in NLP via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243) [Paper, November 2021]
 
 ### Embeddings
 #### Repositories
@@ -276,7 +277,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [performer-pytorch](https://github.com/lucidrains/performer-pytorch) - An implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 849 stars]
 
 ##### Switch Transformer
-* [Switch Transformers: Scaling to Trillion Parameter Models](https://arxiv.org/abs/2101.03961) original paper by Google Research [Paper, January 2021]
+* 📙 [Switch Transformers: Scaling to Trillion Parameter Models](https://arxiv.org/abs/2101.03961) original paper by Google Research [Paper, January 2021]
 
 #### GPT-family
 ##### General
@@ -313,7 +314,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Distillation, Pruning and Quantization
 ##### Reading Material
 * 📙 [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
-* * [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) [Paper, April 2021]
+* 📙 [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) [Paper, April 2021]
 ##### Tools
 * ⭐ [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - code to reduce the size of Transformer-based models or decrease their latency at inference time [GitHub, 56 stars]
 * ⭐ [XtremeDistil ](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistilTransformers for Distilling Massive Multilingual Neural Networks [GitHub, 116 stars]
@@ -332,7 +333,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
-
 > __Note__
 > Section keywords: best practices, MLOps
 
@@ -528,6 +528,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![The-NLP-Speech](./Resources/Images/pandect_speech.png)
 -----
+> __Note__
+> Section keywords: speech recognition
+
 ### General Speech Recognition
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 6081 stars]
 * ⭐ [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub, 20002 stars]
@@ -546,6 +549,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 -----
+> __Note__
+> Section keywords: topic modeling
+
 ### Blogs
 * 📙 [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 * 📙 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
@@ -566,6 +572,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![Keyword-Extraction](./Resources/Images/pandect_papyrus2.png)
 -----
+> __Note__
+> Section keywords: keyword extraction
+
 ### Text Rank
 * ⭐ [PyTextRank](https://github.com/DerwenAI/pytextrank) - PyTextRank is a Python implementation of TextRank as a spaCy pipeline extension [GitHub, 1843 stars]
 * ⭐ [textrank](https://github.com/summanlp/textrank) - TextRank implementation for Python 3 [GitHub, 1136 stars]
@@ -587,6 +596,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
+> __Note__
+> Section keywords: ethics, responsible NLP
+
 ### NLP and ML Interpretability
 
 #### NLP-centric
@@ -615,6 +627,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models](https://arxiv.org/abs/2102.02503) [Paper, Feb 2021]
 * ⭐ [Fairness-in-AI](https://github.com/dreji18/Fairness-in-AI) - this package is used to detect and mitigate biases in NLP tasks [GitHub, 17 stars]
 * ⭐ [nlg-bias](https://github.com/ewsheng/nlg-bias) - dataset + classifier tools to study social perception biases in natural language generation [GitHub, 42 stars]
+* 🗂️ [bias-in-nlp](https://github.com/cisnlp/bias-in-nlp) - list of papers related to bias in NLP [GitHub, 8 stars]
 
 ### Adversarial Attacks for NLP
 * 📙 [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
@@ -626,6 +639,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![The-NLP-Frameworks](./Resources/Images/pandect_frameworks.png)
 -----
+> __Note__
+> Section keywords: frameworks
+
 ### General Purpose
 * ⭐ [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub, 23928 stars]
 * ⭐ [flair](https://github.com/flairNLP/flair) by Zalando [GitHub, 11910 stars]
@@ -759,6 +775,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
+> __Note__
+> Section keywords: learn NLP
+
 #### General
 * 📙 [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
 * 📙 [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
@@ -841,12 +860,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Low Resource NLP
 * ⭐ [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) - CMU Language Technologies Institute low resource NLP bootcamp 2020 [GitHub, 545 stars]
 
-#### Spell Correction
+#### Spell Correction / Error Correction
 * ⭐ [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 1160 stars]
 * ⭐ [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 477 stars]
 * ⭐ [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 585 stars]
 * 📙 [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
 * ⭐ [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 501 stars]
+* ⭐ [pycorrector](https://github.com/shibing624/pycorrector) - spell correction for Chinese [GitHub, 3400 stars]
 
 #### Style Transfer for NLP
 * ⭐ [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 394 stars]
@@ -877,6 +897,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [FLAML](https://github.com/microsoft/FLAML) - fast and lightweight AutoML library [GitHub, 1990 stars]
 * ⭐ [Gradsflow](https://github.com/gradsflow/gradsflow) - open-source AutoML & PyTorch Model Training Library [GitHub, 282 stars]
 
+#### OCR - Optical Character Recognition
+* [A framework for designing document processing solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) [Blog, June 2022]
+
 #### Text Generation
 * ⭐ [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 305 stars]
 * 📙 [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
@@ -884,6 +907,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Title / Headlines Generation
 * ⭐ [TitleStylist](https://github.com/jind11/TitleStylist) Learning to Generate Headlines with Controlled Styles [GitHub, 66 stars]
+
+#### NLP research reproducibility
+* 📙 [A Systematic Review of Reproducibility Research in Natural Language Processing](https://arxiv.org/abs/2103.07929) [Paper, March 2021]
 
 ## License [CC0](./LICENSE)
 
