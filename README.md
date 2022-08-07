@@ -7,13 +7,17 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 <p align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/>
 
 > __Note__
-> Quick legend:
+> Quick legend on available resource types:
 > 
 > ⭐ - GitHub repository with the number of stars
 > 
-> 📒 - resource you can read, usually a blog post
+> 📙 - resource you can read, usually a blog post or a paper
 > 
-> 📂 - a collection of additional resources
+> 🗂️ - a collection of additional resources
+> 
+> 🎥️ - a resource you can watch
+> 
+> 🎙️ - a resource you can listen to
 
 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
@@ -24,16 +28,16 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > Keywords: paper summaries, compendium, awesome list.
 
 #### Compendiums and awesome lists on the topic of NLP:
-* 📂 [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
-* ⭐ ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 13500 stars]
-* ⭐ ⭐ [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2101 stars]
-* ⭐ ⭐ [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 1071 stars]
-* ⭐ ⭐ [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub, 495 stars]
-* 📂 [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
-* 📂 [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
-* ⭐ ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 1079 stars]
-* 📂 [Resources on various machine learning topics](https://www.backprop.org) by Backprop
-* 📂 [NLP articles](https://devopedia.org/site-map/browse-articles/natural+language+processing) by [Devopedia](https://devopedia.org)
+* 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
+* ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 13500 stars]
+* ⭐ [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2101 stars]
+* ⭐ [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 1071 stars]
+* ⭐ [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) by [stepthom](https://github.com/stepthom) [GitHub, 495 stars]
+* 🗂️ [Made with ML List](https://madewithml.com/topics/#nlp) by [madewithml.com](https://madewithml.com)
+* 🗂️ [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
+* ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) [GitHub, 1079 stars]
+* 🗂️ [Resources on various machine learning topics](https://www.backprop.org) by Backprop
+* 🗂️ [NLP articles](https://devopedia.org/site-map/browse-articles/natural+language+processing) by [Devopedia](https://devopedia.org)
 
 #### NLP Conferences, Paper Summaries and Paper Compendiums:
 ##### Papers and Paper Summaries
@@ -44,14 +48,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub, 290 stars]
 * ⭐ [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) [GitHub, 1621 stars]
 * ⭐ [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1391 stars]
-* [Video recordings index for papers](https://papertalk.org/index)
+* 🎥 [Video recordings index for papers](https://papertalk.org/index)
 
 ##### Conference Summaries
 * ⭐ [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 428 stars]
-* [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
-* [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
+* 📙 [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
+* 📙 [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
 * [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
-* [Video Recordings from Conferences](https://crossminds.ai/explore/)
+* 🎥 [Video Recordings from Conferences](https://crossminds.ai/explore/)
 
 #### NLP Progress and NLP Tasks:
 * ⭐ [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub, 20719 stars]
@@ -60,7 +64,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### NLP Datasets:
 * ⭐ [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 5135 stars]
 * ⭐ [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 13885 stars]
-* [Big Bad NLP Database](https://datasets.quantumstat.com)
+* 🗂️ [Big Bad NLP Database](https://datasets.quantumstat.com)
 * [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
 
 #### Word and Sentence embeddings:
@@ -85,48 +89,48 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Pre-trained NLP models
 * ⭐ [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 162 stars]
-* 📒 [General Pretrained Language Models](https://mr-nlp.github.io/posts/2022/07/general-tptlms-list/) [Blog, July 2022]
+* 📙 [General Pretrained Language Models](https://mr-nlp.github.io/posts/2022/07/general-tptlms-list/) [Blog, July 2022]
 * ⭐ [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) [GitHub, 2399 stars]
 * ⭐ [Spanish Language Models and resources](https://github.com/PlanTL-GOB-ES/lm-spanish) [GitHub, 196 stars]
 
 #### NLP History
 ##### General
-* 📒 [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
+* 📙 [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
 ##### 2020 Year in Review
-* 📒 [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
-* 📒 [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/) [Blog, January 2021]
+* 📙 [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
+* 📙 [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/) [Blog, January 2021]
 
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
 
 #### NLP-only podcasts
-* [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
-* [The NLP Zone](https://de.player.fm/series/the-nlp-zone) [Episodes](https://player.captivate.fm/episode/e2f87641-1421-4729-a2b5-d64951c845c6) [Years: 2021 - now, Status: active]
+* 🎙️ [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
+* 🎙️ [The NLP Zone](https://de.player.fm/series/the-nlp-zone) [Episodes](https://player.captivate.fm/episode/e2f87641-1421-4729-a2b5-d64951c845c6) [Years: 2021 - now, Status: active]
 
 #### Many NLP episodes
-* [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
-* [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
-* [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
-* [Gradient Dissent](https://www.wandb.com/podcast) [Years: 2020 - now, Status: active]
-* [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) [Years: 2020 - now, Status: active]
-* [DataFramed](https://www.datacamp.com/community/podcast) -  latest trends and insights on how to scale the impact of data science in organizations [Years: 2019 - now, Status: active]
+* 🎙️ [TWIML AI](https://twimlai.com) [Years: 2016 - now, Status: active]
+* 🎙️ [Practical AI](https://changelog.com/practicalai) [Years: 2018 - now, Status: active]
+* 🎙️ [The Data Exchange](https://thedataexchange.media) [Years: 2019 - now, Status: active]
+* 🎙️ [Gradient Dissent](https://www.wandb.com/podcast) [Years: 2020 - now, Status: active]
+* 🎙️ [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) [Years: 2020 - now, Status: active]
+* 🎙️ [DataFramed](https://www.datacamp.com/community/podcast) -  latest trends and insights on how to scale the impact of data science in organizations [Years: 2019 - now, Status: active]
 
 #### Some NLP episodes
-* [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
-* [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
-* [AI Game Changers](https://podcasts.apple.com/de/podcast/ai-game-changers/id1512574291) [Years: 2020 - now, Status: active]
-* [The Analytics Show](https://anchor.fm/analyticsshow) [Years: 2019 - now, Status: active]
+* 🎙️ [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
+* 🎙️ [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
+* 🎙️ [AI Game Changers](https://podcasts.apple.com/de/podcast/ai-game-changers/id1512574291) [Years: 2020 - now, Status: active]
+* 🎙️ [The Analytics Show](https://anchor.fm/analyticsshow) [Years: 2019 - now, Status: active]
 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
 -----
-* [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
-* [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
-* [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
-* [Papers with Code](https://paperswithcode.com)
-* [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
-* [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
-* [NLP Cypher](https://medium.com/@quantumstat) by [QuantumStat](https://quantumstat.com)
+* 📙 [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
+* 📙 [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
+* 📙 [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
+* 📙 [Papers with Code](https://paperswithcode.com)
+* 📙 [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
+* 📙 [Paper Digest](https://www.paperdigest.org/2020/04/recent-papers-on-question-answering/) by [PaperDigest](https://www.paperdigest.org/daily-paper-digest/)
+* 📙 [NLP Cypher](https://medium.com/@quantumstat) by [QuantumStat](https://quantumstat.com)
 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
@@ -136,15 +140,15 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
-* [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
-* [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
-* [Kaggle Reading Group](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
-* [Rasa Paper Reading](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ/playlists)
-* [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [NLPxing](https://www.youtube.com/channel/UCuGC1JusVvbOGa__qMtH3QA/videos)
-* [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
-* [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)
-* [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
+* 🎥 [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+* 🎥 [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
+* 🎥 [Kaggle Reading Group](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
+* 🎥 [Rasa Paper Reading](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ/playlists)
+* 🎥 [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* 🎥 [NLPxing](https://www.youtube.com/channel/UCuGC1JusVvbOGa__qMtH3QA/videos)
+* 🎥 [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/channel/UCfk3pS8cCPxOgoleriIufyg)
+* 🎥 [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)
+* 🎥 [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ/featured)
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 -----
@@ -208,10 +212,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [fastText](https://github.com/facebookresearch/fastText) [GitHub, 23807 stars]
 
 #### Blogs
-* 📒 [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista [Blog, 2018]
-* 📒 [An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=22_may_new_article) by AnalyticsVidhya [Blog, 2020]
-* 📒 [Polyglot Word Embeddings Discover Language Clusters](http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/) [Blog, 2020]
-* 📒 [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
+* 📙 [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/) by David S. Batista [Blog, 2018]
+* 📙 [An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=22_may_new_article) by AnalyticsVidhya [Blog, 2020]
+* 📙 [Polyglot Word Embeddings Discover Language Clusters](http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/) [Blog, 2020]
+* 📙 [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/) by Jay Alammar [Blog, 2019]
 
 #### Cross-lingual Word and Sentence Embeddings
 * ⭐ [vecmap](https://github.com/artetxem/vecmap) - VecMap (cross-lingual word embedding mappings) [GitHub, 594 stars]
@@ -224,10 +228,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Transformer-based Architectures
 #### General
-* 📒 [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html) by Lilian Weng [Blog, 2020]
+* 📙 [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html) by Lilian Weng [Blog, 2020]
 * [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
-* 📒 [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
-* 📒 [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
+* 📙 [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
+* 📙 [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
 * [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
 * [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
 * [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640) [Paper, April 2021]
@@ -235,35 +239,35 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [A Survey of Transformers](https://arxiv.org/abs/2106.04554) [Paper, June 2021]
 
 #### Transformer
-* 📒 [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
-* 📒 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar [Blog, 2018]
-* 📒 [Illustrated Guide to Transformers](https://towardsdatascience.com/illustrated-guide-to-transformer-cf6969ffa067) by Hong Jing [Blog, 2020]
-* 📒 [Sequential Transformer with Adaptive Attention Span](https://github.com/facebookresearch/adaptive-span) by Facebook. [Blog](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/) [Blog, 2019]
-* 📒 [Evolution of Representations in the Transformer](https://lena-voita.github.io/posts/emnlp19_evolution.html) by Lena Voita [Blog, 2019]
-* 📒 [Reformer: The Efficient Transformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) [Blog, 2020]
-* 📒 [Longformer — The Long-Document Transformer](https://medium.com/dair-ai/longformer-what-bert-should-have-been-78f4cd595be9) by Viktor Karlsson [Blog, 2020]
-* 📒 [TRANSFORMERS FROM SCRATCH](http://www.peterbloem.nl/blog/transformers) [Blog, 2019]
-* 📒 [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
-* 📒 [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/) by George Ho [Blog, May 2020]
+* 📙 [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
+* 📙 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar [Blog, 2018]
+* 📙 [Illustrated Guide to Transformers](https://towardsdatascience.com/illustrated-guide-to-transformer-cf6969ffa067) by Hong Jing [Blog, 2020]
+* 📙 [Sequential Transformer with Adaptive Attention Span](https://github.com/facebookresearch/adaptive-span) by Facebook. [Blog](https://ai.facebook.com/blog/making-transformer-networks-simpler-and-more-efficient/) [Blog, 2019]
+* 📙 [Evolution of Representations in the Transformer](https://lena-voita.github.io/posts/emnlp19_evolution.html) by Lena Voita [Blog, 2019]
+* 📙 [Reformer: The Efficient Transformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) [Blog, 2020]
+* 📙 [Longformer — The Long-Document Transformer](https://medium.com/dair-ai/longformer-what-bert-should-have-been-78f4cd595be9) by Viktor Karlsson [Blog, 2020]
+* 📙 [TRANSFORMERS FROM SCRATCH](http://www.peterbloem.nl/blog/transformers) [Blog, 2019]
+* 📙 [Universal Transformers](https://mostafadehghani.com/2019/05/05/universal-transformers/) by Mostafa Dehghani [Blog, 2019]
+* 📙 [Transformers in Natural Language Processing — A Brief Survey](https://eigenfoo.xyz/transformers-in-nlp/) by George Ho [Blog, May 2020]
 * ⭐ [Lite Transformer](https://github.com/mit-han-lab/lite-transformer) - Lite Transformer with Long-Short Range Attention [GitHub, 541 stars]
-* 📒 [Transformers from Scratch](https://e2eml.school/transformers.html) [Blog, Oct 2021]
+* 📙 [Transformers from Scratch](https://e2eml.school/transformers.html) [Blog, Oct 2021]
 
 #### BERT
-* 📒 [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) by Jay Alammar [Blog, 2019]
-* 📒 [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/) by Anna Rogers [Blog, 2020]
-* 📒 [Understanding searches better than ever before](https://www.blog.google/products/search/search-language-understanding-bert/) [Blog, 2019]
-* 📒 [Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/) [Blog, 2019]
+* 📙 [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) by Jay Alammar [Blog, 2019]
+* 📙 [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/) by Anna Rogers [Blog, 2020]
+* 📙 [Understanding searches better than ever before](https://www.blog.google/products/search/search-language-understanding-bert/) [Blog, 2019]
+* 📙 [Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/) [Blog, 2019]
 * ⭐ [SemBERT](https://github.com/cooelf/SemBERT) - Semantics-aware BERT for Language Understanding [GitHub, 264 stars]
 * ⭐ [BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets [GitHub, 460 stars]
 * ⭐ [Optimal Subarchitecture Extraction for BERT](https://github.com/alexa/bort) [GitHub, 461 stars]
 * ⭐ [CharacterBERT: Reconciling ELMo and BERT](https://github.com/helboukkouri/character-bert) [GitHub, 151 stars]
-* 📒 [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) [Blog, Dec 2020]
+* 📙 [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) [Blog, Dec 2020]
 * ⭐ [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers) a list of BERT-related papers [GitHub, 1894 stars]
 
 #### Other Transformer Variants
 ##### T5
-* 📒 [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
-* 📒 [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
+* 📙 [T5 Understanding Transformer-Based Self-Supervised Architectures](https://medium.com/@rojagtap/t5-text-to-text-transfer-transformer-643f89e8905e) [Blog, August 2020]
+* 📙 [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
 * ⭐ [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub, 890 stars]
 ##### BigBird
 * [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
@@ -279,17 +283,17 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### GPT-family
 ##### General
-* 📒 [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
+* 📙 [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/) by Jay Alammar [Blog, 2019]
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html) by Aman Arora
-* 📒 [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
-* 📒 [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
+* 📙 [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8) by Ryan Lowe [Blog, 2019]
+* 📙 [How to generate text](https://huggingface.co/blog/how-to-generate) by Patrick von Platen [Blog, 2020]
 
 ##### GPT-3
 ###### Learning Resources
-* 📒 [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
-* 📒 [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
-* 📒 [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
-* 📒 [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
+* 📙 [Zero Shot Learning for Text Classification](https://amitness.com/2020/05/zero-shot-text-classification/) by Amit Chaudhary [Blog, 2020]
+* 📙 [GPT-3 A Brief Summary](https://leogao.dev/2020/05/29/GPT-3-A-Brief-Summary/) by Leo Gao [Blog, 2020]
+* 📙 [GPT-3, a Giant Step for Deep Learning And NLP](https://anotherdatum.com/gpt-3.html) by Yoel Zeldes [Blog, June 2020]
+* 📙 [GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/) by Chuan Li [Blog, June 2020]
 * [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 ###### Applications
 * ⭐ [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3591 stars]
@@ -299,26 +303,26 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ###### Open-source Efforts
 * [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication [HuggingFace Hub](https://huggingface.co/EleutherAI)
 * ⭐ [GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b) - A 6 billion parameter, autoregressive text generation model trained on The Pile
-* 📒 [Effectively using GPT-J with few-shot learning](https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html) [Blog, July 2021]
+* 📙 [Effectively using GPT-J with few-shot learning](https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html) [Blog, July 2021]
 
 #### Other
-* 📒 [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
-* 📒 [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/) by Amit Chaudhary [Blog, 2020]
+* 📙 [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
+* 📙 [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/) by Amit Chaudhary [Blog, 2020]
 * [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
-* 📒 [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
+* 📙 [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
 * ⭐ [ELECTRA](https://github.com/google-research/electra) [GitHub, 2052 stars]
 * ⭐ [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 849 stars]
 
 #### Distillation, Pruning and Quantization
 ##### Reading Material
-* 📒 [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
+* 📙 [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
 * * [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) [Paper, April 2021]
 ##### Tools
 * ⭐ [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - code to reduce the size of Transformer-based models or decrease their latency at inference time [GitHub, 56 stars]
 * ⭐ [XtremeDistil ](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistilTransformers for Distilling Massive Multilingual Neural Networks [GitHub, 116 stars]
 
 ### Automated Summarization
-* 📒 [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
+* 📙 [PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html) by Google AI [Blog, June 2020]
 * ⭐ [CTRLsum](https://github.com/salesforce/ctrl-sum) - CTRLsum: Towards Generic Controllable Text Summarization [GitHub, 114 stars]
 * ⭐ [XL-Sum](https://github.com/csebuetnlp/xl-sum) - XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages [GitHub, 165 stars]
 * ⭐ [SummerTime](https://github.com/Yale-LILY/SummerTime) - an open-source text summarization toolkit for non-experts [GitHub, 197 stars]
@@ -341,8 +345,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
-* 📒 [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
-* 📒 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
+* 📙 [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
+* 📙 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 * [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
 
 ### MLOps for NLP
@@ -365,15 +369,15 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) [GitHub, 11326 stars]
 
 #### Reading Material
-* 📒 [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
-* 📒 [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools)  by Neptune AI [Blog, July 2021]
-* 📒 [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
-* 📒 [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
-* 📒 [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
-* 📒 [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) by Megagon AI [Blog, July 2021]
-* 📒 [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
-* 📒 [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
-* 📒 [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
+* 📙 [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
+* 📙 [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools)  by Neptune AI [Blog, July 2021]
+* 📙 [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
+* 📙 [State of MLOps 2021](https://valohai.com/state-of-mlops/#introduction) by Valohai [Blog, August 2021]
+* 📙 [The MLOps Stack](https://valohai.com/blog/the-mlops-stack/) by Valohai [Blog, October 2020]
+* 📙 [Data Version Control for Machine Learning Applications](https://megagon.ai/blog/data-version-control-for-machine-learning-applications/) by Megagon AI [Blog, July 2021]
+* 📙 [The Rapid Evolution of the Canonical Stack for Machine Learning](https://medium.com/@ODSC/the-rapid-evolution-of-the-canonical-stack-for-machine-learning-21b37af9c3b5) [Blog, July 2021]
+* 📙 [MLOps: Comprehensive Beginner’s Guide](https://medium.com/sciforce/mlops-comprehensive-beginners-guide-c235c77f407f) [Blog, March 2021]
+* 📙 [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
 * [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
 * [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
 
@@ -496,8 +500,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ### Transformer-based Architectures
 #### General
-* 📒 [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html) by Intel AI [Blog, 2020]
-* 📒 [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
+* 📙 [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html) by Intel AI [Blog, 2020]
+* 📙 [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * ⭐ [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 174 stars]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
@@ -533,11 +537,11 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ### General Speech Recognition
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 6081 stars]
 * ⭐ [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub, 20002 stars]
-* 📒 [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
+* 📙 [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova [Blog, 2020]
 * ⭐ [kaldi](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition [GitHub, 11821 stars]
 * ⭐ [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - resources for using Kaldi [GitHub, 502 stars]
 * ⭐ [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 5339 stars]
-* 📒 [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression) - Self-supervised representation learning for speech recognition, generation, and compression [Blog, June 2021]
+* 📙 [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression) - Self-supervised representation learning for speech recognition, generation, and compression [Blog, June 2021]
 
 ### Text to Speech
 * ⭐ [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 711 stars]
@@ -549,8 +553,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ![The-NLP-Topics](./Resources/Images/pandect_topics.png)
 -----
 ### Blogs
-* [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
-* 📒 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
+* 📙 [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
+* 📙 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
 
 ### Frameworks for Topic Modeling
 * ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) - framework for topic modeling [GitHub, 13426 stars]
@@ -584,8 +588,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [keyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT [GitHub, 1717 stars]
 
 ### Further Reading
-* 📒 [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
-* 📒 [How to Extract Relevant Keywords with KeyBERT](https://towardsdatascience.com/how-to-extract-relevant-keywords-with-keybert-6e7b3cf889ae) [Blog, June 2021]
+* 📙 [Adding a custom tokenizer to spaCy and extracting keywords from Chinese texts](https://howard-haowen.github.io/blog.ai/keyword-extraction/spacy/textacy/ckip-transformers/jieba/textrank/rake/2021/02/16/Adding-a-custom-tokenizer-to-spaCy-and-extracting-keywords.html) by Haowen Jiang [Blog, Feb 2021]
+* 📙 [How to Extract Relevant Keywords with KeyBERT](https://towardsdatascience.com/how-to-extract-relevant-keywords-with-keybert-6e7b3cf889ae) [Blog, June 2021]
 
 ![Responsible-NLP](./Resources/Images/pandect_pegasus.png)
 -----
@@ -609,7 +613,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [imodels](https://github.com/csinva/imodels) - package for concise, transparent, and accurate predictive modeling [GitHub, 875 stars]
 
 ### Ethics, Bias, and Equality in NLP
-* 📒 [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
+* 📙 [Bias in Natural Language Processing @EMNLP 2020](https://gaurav-maheshwari.medium.com/bias-in-natural-language-processing-emnlp-2020-8f1cb2806fcc#cc1a) [Blog, Nov 2020]
 * [Machine Learning as a Software Engineering Enterprise](https://nips.cc/virtual/2020/public/invited_16166.html) - NeurIPS 2020 Keynote [Presentation, Dec 2020]
 * [Computational Ethics for NLP](http://demo.clab.cs.cmu.edu/ethical_nlp/) - course resources from the Carnegie Mellon University [Lecture Notes, Spring 2020]
 * [Ethics in NLP](https://aclweb.org/aclwiki/Ethics_in_NLP) - resources from ACLs Ethics in NLP track
@@ -619,7 +623,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [nlg-bias](https://github.com/ewsheng/nlg-bias) - dataset + classifier tools to study social perception biases in natural language generation [GitHub, 42 stars]
 
 ### Adversarial Attacks for NLP
-* 📒 [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
+* 📙 [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) [Blog, Dec 2020]
 * ⭐ [DeepWordBug](https://github.com/QData/deepWordBug) - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers [GitHub, 60 stars]
 * ⭐ [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) - Combating Adversarial Misspellings with Robust Word Recognition [GitHub, 55 stars]
 
@@ -762,8 +766,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
 -----
 #### General
-* 📒 [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
-* 📒 [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
+* 📙 [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
+* 📙 [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
 * [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * ⭐ [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 356 stars]
@@ -776,12 +780,12 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
 
 #### Books
-* [Natural Language Processing with Transformers](https://www.buecher.de/shop/maschinelles-lernen/natural-language-processing-with-transformers/tunstall-lewis-von-werra-leandro-wolf-thomas/products_products/detail/prod_id/64140211/) - [Book, February 2022]
-* [Applied Natural Language Processing in the Enterprise](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/) - [Book, May 2021]
-* [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) - [Book, June 2020]
-* [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
-* [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
-* 📒 [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
+* 📙 [Natural Language Processing with Transformers](https://www.buecher.de/shop/maschinelles-lernen/natural-language-processing-with-transformers/tunstall-lewis-von-werra-leandro-wolf-thomas/products_products/detail/prod_id/64140211/) - [Book, February 2022]
+* 📙 [Applied Natural Language Processing in the Enterprise](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/) - [Book, May 2021]
+* 📙 [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) - [Book, June 2020]
+* 📙 [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
+* 📙 [Natural Language Processing and Computational Linguistics](https://www.amazon.de/Natural-Language-Processing-Computational-Linguistics/dp/1848218486) - Speech, Morphology and Syntax (Cognitive Science)
+* 📙 [Top NLP Books to Read 2020](https://towardsdatascience.com/top-nlp-books-to-read-2020-12012ef41dc1) - Blog post by Raymong Cheng [Blog, Sep 2020]
 
 #### Tutorials
 * ⭐ [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) - A list of NLP(Natural Language Processing) tutorials built on PyTorch [GitHub, 1319 stars]
@@ -814,8 +818,8 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ##### Reading Material and Tutorials
 * ⭐ [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021] [GitHub Link](https://github.com/styfeng/DataAug4NLP)
-* 📒 [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
-* 📒 [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
+* 📙 [A Visual Survey of Data Augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/) [Blog, 2020]
+* 📙 [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/) [Blog, March 2019]
 
 #### Named Entity Recognition (NER)
 * ⭐ [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) [GitHub, 1195 stars]
@@ -847,7 +851,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * ⭐ [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - ramework for detecting, highlighting and correcting grammatical errors [GitHub, 1160 stars]
 * ⭐ [NeuSpell](https://github.com/neuspell/neuspell) - A Neural Spelling Correction Toolkit [GitHub, 477 stars]
 * ⭐ [SymSpellPy](https://github.com/mammothb/symspellpy) - Python port of SymSpell [GitHub, 585 stars]
-* 📒 [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
+* 📙 [Speller100](https://www.microsoft.com/en-us/research/blog/speller100-zero-shot-spelling-correction-at-scale-for-100-plus-languages/) by Microsoft [Blog, Feb 2021]
 * ⭐ [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 501 stars]
 
 #### Style Transfer for NLP
@@ -881,7 +885,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 #### Text Generation
 * ⭐ [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 305 stars]
-* 📒 [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
+* 📙 [Controllable Neural Text Generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) [Blog, Jan 2021]
 * ⭐ [BARTScore](https://github.com/neulab/BARTScore) Evaluating Generated Text as Text Generation [GitHub, 157 stars]
 
 #### Title / Headlines Generation
