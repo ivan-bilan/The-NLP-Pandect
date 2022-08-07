@@ -352,6 +352,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### MLOps Compilations & Awesome Lists
 * [awesome-mlops](https://github.com/visenger/awesome-mlops) [GitHub, 8400 stars]
+* [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) [GitHub, 11300 stars]
 
 #### Reading Material
 * [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
