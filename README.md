@@ -51,9 +51,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 5135 stars]
 * [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 13883 stars]
 * [Big Bad NLP Database](https://datasets.quantumstat.com)
-* [25 Best Parallel Text Datasets for Machine Translation Training](https://lionbridge.ai/datasets/25-best-parallel-text-datasets-for-machine-translation-training/)
 * [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
-* [20 Best German Language Datasets for Machine Learning](https://lionbridge.ai/datasets/20-best-german-language-datasets-for-machine-learning/)
 
 #### Word and Sentence embeddings:
 * [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) by [Hironsan](https://github.com/Hironsan) [GitHub, 1513 stars]
@@ -77,12 +75,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Pre-trained NLP models
 * [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 162 stars]
+* [General Pretrained Language Models](https://mr-nlp.github.io/posts/2022/07/general-tptlms-list/) [Blog, July 2022]
 * [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) [GitHub, 2398 stars]
 * [Spanish Language Models and resources](https://github.com/PlanTL-GOB-ES/lm-spanish) [GitHub, 196 stars]
 
 #### NLP History
 ##### General
-* [History of Natural Language Processing](https://www.nlphistory.com/)
 * [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
 ##### 2020 Year in Review
 * [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
@@ -107,7 +105,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Some NLP episodes
 * [The Super Data Science Podcast](https://www.superdatascience.com/podcast) [Years: 2016 - now, Status: active]
 * [Data Hack Radio](https://soundcloud.com/datahack-radio) [Years: 2018 - now, Status: active]
-* [AI Game Changers](https://www.buzzsprout.com/1064803) [Years: 2020 - now, Status: active]
+* [AI Game Changers](https://podcasts.apple.com/de/podcast/ai-game-changers/id1512574291) [Years: 2020 - now, Status: active]
 * [The Analytics Show](https://anchor.fm/analyticsshow) [Years: 2019 - now, Status: active]
 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
@@ -124,7 +122,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 * [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
-* [Online NLP Meetup](https://www.meetup.com/nlp-meetup-series)
 * [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
@@ -145,7 +142,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
 * [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
-* [RACE](http://www.qizhexie.com/data/RACE_leaderboard.html) - ReAding Comprehension dataset collected from English Examinations
 * [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue
 * [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
 
@@ -162,7 +158,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Multilingual and Non-English Benchmarks
 * [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
 * [GLUECoS](https://github.com/microsoft/GLUECoS) - A benchmark for code-switched NLP
-* [IndoNLU Benchmark](https://www.indobenchmark.com) - collection of resources for training, evaluating, and analyzing NLP for Bahasa Indonesia
 * [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
 * [LinCE](https://ritual.uh.edu/lince/) - Linguistic Code-Switching Evaluation Benchmark
 * [Russian SuperGlue](https://russiansuperglue.com) - Russian SuperGlue Benchmark
@@ -215,7 +210,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Transformer-based Architectures
 #### General
 * [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html) by Lilian Weng [Blog, 2020]
-* [Keeping up with the BERTs: a review of the main NLP benchmarks](https://creatext.ai/blog-posts/nlp-benchmarking-superglue-xtreme) by Manuel Tonneau [Blog, 2020]
 * [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
 * [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
@@ -303,8 +297,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Distillation, Pruning and Quantization
 ##### Reading Material
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/) by FloydHub [Blog, 2019]
-* [David over Goliath: towards smaller models for cheaper, faster, and greener NLP](https://creatext.ai/blog-posts/nlp-smaller-models) by Manuel Tonneau [Blog, 2020]
-* [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) ([+Overview of Approaches](https://www.humanizing-ai.com/model-compression.html)) [Paper, April 2021]
+* * [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221) [Paper, April 2021]
 ##### Tools
 * [Bert-squeeze](https://github.com/JulesBelveze/bert-squeeze) - code to reduce the size of Transformer-based models or decrease their latency at inference time [GitHub, 56 stars]
 * [XtremeDistil ](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistilTransformers for Distilling Massive Multilingual Neural Networks [GitHub, 116 stars]
@@ -325,7 +318,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 ### Best Practices for NLP
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
-* [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research [[Slides](https://t.co/o0o4SY6chR?amp=1), [Recording](https://slideslive.com/38940826), Nov. 2020]
+* [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
 * [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
@@ -478,7 +471,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 
 ### Transformer-based Architectures
 #### General
-* [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html#gs.ytox84) by Intel AI [Blog, 2020]
+* [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html) by Intel AI [Blog, 2020]
 * [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
 * [Pretrain Transformers Models in PyTorch using Hugging Face Transformers](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb) [GitHub, 174 stars]
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
@@ -756,10 +749,9 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
 * [Transformer models for NLP](https://huggingface.co/course/chapter1) by HuggingFace
 * [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
-* [Applied Language Technology](https://applied-language-technology.readthedocs.io/en/latest/index.html) - Natural Language Processing for Linguists
 
 #### Books
-* [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) - [Book, February 2022]
+* [Natural Language Processing with Transformers](https://www.buecher.de/shop/maschinelles-lernen/natural-language-processing-with-transformers/tunstall-lewis-von-werra-leandro-wolf-thomas/products_products/detail/prod_id/64140211/) - [Book, February 2022]
 * [Applied Natural Language Processing in the Enterprise](https://www.oreilly.com/library/view/applied-natural-language/9781492062561/) - [Book, May 2021]
 * [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) - [Book, June 2020]
 * [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions
