@@ -19,5 +19,6 @@ for single_website in set_of_urls:
         response = requests.get(single_website)
     except Exception as e:
         print('Error reaching the website: ', e, single_website)
-    if response and response.status_code != 200:
-        print('Web site does not exist', single_website)
+    else:
+        if response.status_code != 200:
+            print('Web site does not exist', single_website)
