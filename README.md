@@ -14,7 +14,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > Keywords: paper summaries, compendium, awesome list.
 
 #### Compendiums and awesome lists on the topic of NLP:
-* [The NLP Index](https://index.quantumstat.com) by Quantum Stat / NLP Cypher
+* [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 13496 stars]
 * [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) by [elaboshira](https://github.com/edobashira) [GitHub, 2101 stars]
 * [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) [GitHub, 1071 stars]
@@ -31,16 +31,13 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) by [dair-ai](https://github.com/dair-ai) [GitHub, 1426 stars]
 * [Curated collection of papers for the NLP practitioner](https://github.com/mihail911/nlp-library) [GitHub, 1058 stars]
 * [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) [GitHub, 1138 stars]
-* [The Most Influential NLP Research of 2019](https://opendatascience.com/best-nlp-research-of-2019/)
 * [Recent Deep Learning papers in NLU and RL](https://github.com/madrugado/deep-learning-nlp-rl-papers) by Valentin Malykh [GitHub, 290 stars]
-* [Some Notable Recent ML Papers and Future Trends](https://arankomatsuzaki.wordpress.com/2020/10/15/some-notable-recent-ml-papers-and-future-trends/) by Aran Komatsuzaki [Blog, Oct. 2020]
 * [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) [GitHub, 1621 stars]
 * [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1391 stars]
 * [Video recordings index for papers](https://papertalk.org/index)
 
 ##### Conference Summaries
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 428 stars]
-* [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
 * [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
