@@ -4,10 +4,15 @@
 This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created to help you find almost anything related to Natural Language Processing that is available online.
 </p>
 
-<p align="center"> <a href="https://how-to-help-ukraine-now.super.site" target="_blank"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/> </a>
+<p align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/>
 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
+> __Note__
+> This section includes collections of resources on various topics.
+>
+> Keywords: paper summaries, compendium, awesome list.
+
 #### Compendiums and awesome lists on the topic of NLP:
 * [The NLP Index](https://index.quantumstat.com) by Quantum Stat / NLP Cypher
 * [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 13496 stars]
@@ -33,7 +38,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) [GitHub, 1391 stars]
 * [Video recordings index for papers](https://papertalk.org/index)
 
-##### Conferences
+##### Conference Summaries
 * [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 428 stars]
 * [NLP Conferences Calendar](https://www.cs.rochester.edu/~omidb/nlpcalendar/)
 * [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
@@ -44,8 +49,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### NLP Progress and NLP Tasks:
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) by [sebastianruder](https://github.com/sebastianruder) [GitHub, 20718 stars]
 * [NLP Tasks](https://github.com/Kyubyong/nlp_tasks) by [Kyubyong](https://github.com/Kyubyong) [GitHub, 2980 stars]
-* [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis) by [declare-lab](https://github.com/declare-lab) [GitHub, 458 stars]
-* [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) by [xiamx](https://github.com/xiamx) [GitHub, 879 stars]
 
 #### NLP Datasets:
 * [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 5135 stars]
@@ -61,7 +64,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 #### Notebooks, Scripts and Repositories
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
 
-#### Non-English resources and compendiums
+#### Non-English resources and Compendiums
 * [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub, 299 stars]
 * [Indic NLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) [GitHub, 360 stars]
 * [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub, 468 stars]
@@ -138,6 +141,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 -----
+> __Note__
+> This section includes resources related to various NLP task benchmarks.
+>
+> Keywords: benchmark
+
 ### General NLU
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
@@ -316,6 +324,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 -----
+
+> __Note__
+> This section includes resources related to industry application of NLP.
+>
+> Keywords: best practices, MLOps
+
 ### Best Practices for NLP
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
@@ -338,6 +352,9 @@ In general, MLOps for NLP includes having the following processes in place:
 Additionally, there are two more components that are not as prevalent for NLP and are mostly used for Computer Vision and other sub-fields of AI:
 - **Feature Store** - centralized storage of all features developed for ML models than can be easily reused by any other ML project
 - **Metadata Management** - storage for all information related to the usage of ML models, mainly for reproducing behavior of deployed ML models, artifact tracking etc.
+
+#### MLOps Compilations & Awesome Lists
+* [awesome-mlops](https://github.com/visenger/awesome-mlops) [GitHub, 8400 stars]
 
 #### Reading Material
 * [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
@@ -477,7 +494,7 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 * [Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/) [Presentation, 2019]
 * [From Paper to Product – How we implemented BERT](https://www.youtube.com/watch?v=VnmKDPBQjJk) by Christoph Henkelmann [Talk, 2020]
 
-##### Multi-GPU Transfomers
+##### Multi-GPU Transformers
 * [Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers) [GitHub, 497 stars]
 
 ##### Training Transformers Effectively
@@ -807,6 +824,10 @@ TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML 
 #### Coreference Resolution
 * [NeuralCoref 4.0: Coreference Resolution in spaCy with Neural Networks](https://github.com/huggingface/neuralcoref) by HuggingFace [GitHub, 2575 stars]
 * [coref](https://github.com/mandarjoshi90/coref) - BERT and SpanBERT for Coreference Resolution [GitHub, 380 stars]
+
+#### Sentiment Analysis
+* [Reading list for Awesome Sentiment Analysis papers](https://github.com/declare-lab/awesome-sentiment-analysis) by [declare-lab](https://github.com/declare-lab) [GitHub, 458 stars]
+* [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis) by [xiamx](https://github.com/xiamx) [GitHub, 879 stars]
 
 #### Domain Adaptation
 * [Neural Adaptation in Natural Language Processing - curated list](https://github.com/bplank/awesome-neural-adaptation-in-NLP) [GitHub, 230 stars]
