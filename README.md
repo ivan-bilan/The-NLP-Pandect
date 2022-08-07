@@ -23,9 +23,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 > __Note__
-> This section includes collections of resources on various topics.
->
-> Keywords: paper summaries, compendium, awesome list.
+> Section keywords: paper summaries, compendium, awesome list.
 
 #### Compendiums and awesome lists on the topic of NLP:
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
@@ -153,9 +151,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 -----
 > __Note__
-> This section includes resources related to various NLP task benchmarks.
->
-> Keywords: benchmark
+> Section keywords: benchmark
 
 ### General NLU
 * [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
@@ -229,14 +225,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Transformer-based Architectures
 #### General
 * 📙 [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html) by Lilian Weng [Blog, 2020]
-* [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
+* 📙 [Playing the lottery with rewards and multiple languages](https://arxiv.org/abs/1906.02768) - about the effect of random initialization [ICLR 2020 Paper]
 * 📙 [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
 * 📙 [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
-* [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
-* [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
-* [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640) [Paper, April 2021]
-* [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139) [Paper, June 2021]
-* [A Survey of Transformers](https://arxiv.org/abs/2106.04554) [Paper, June 2021]
+* 🎥️ [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
+* 🎥️ [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
+* 📙 [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640) [Paper, April 2021]
+* 📙 [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139) [Paper, June 2021]
+* 📙 [A Survey of Transformers](https://arxiv.org/abs/2106.04554) [Paper, June 2021]
 
 #### Transformer
 * 📙 [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) by Harvard NLP [Blog, 2018]
@@ -337,9 +333,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 
 > __Note__
-> This section includes resources related to industry application of NLP.
->
-> Keywords: best practices, MLOps
+> Section keywords: best practices, MLOps
 
 ### Best Practices for NLP
 * [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
