@@ -9,7 +9,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > __Note__
 > Quick legend on available resource types:
 > 
-> ⭐ - GitHub repository with the number of stars
+> ⭐ - open source project, usually a GitHub repository with its number of stars
 > 
 > 📙 - resource you can read, usually a blog post or a paper
 > 
@@ -81,7 +81,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) [GitHub, 468 stars]
 * ⭐ [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) [GitHub, 766 stars]
 * ⭐ [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) [GitHub, 430 stars]
-* [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
+* ⭐ [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
 * ⭐ [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 267 stars]
 * ⭐ [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 1006 stars]
 * ⭐ [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 447 stars]
@@ -139,8 +139,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
 * 🎥 [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
-* [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
 * 🎥 [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
+* * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -158,31 +158,31 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 
 ### General NLU
-* [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
-* [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
-* [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
+* ⭐ [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
+* ⭐ [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
+* ⭐ [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
 * ⭐ [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue
-* [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
+* ⭐ [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
 
 ### Summarization
 * ⭐ [WikiAsp](https://github.com/neulab/wikiasp) - WikiAsp: Multi-document aspect-based summarization Dataset
 * ⭐ [WikiLingua](https://github.com/esdurmus/Wikilingua) - A Multilingual Abstractive Summarization Dataset
 
 ### Question Answering
-* [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
+* ⭐ [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
 * ⭐ [XQuad](https://github.com/deepmind/xquad) - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
-* [GrailQA](https://dki-lab.github.io/GrailQA/) - Strongly Generalizable Question Answering (GrailQA)
-* [CSQA](https://amritasaha1812.github.io/CSQA/) - Complex Sequential Question Answering
+* ⭐ [GrailQA](https://dki-lab.github.io/GrailQA/) - Strongly Generalizable Question Answering (GrailQA)
+* ⭐ [CSQA](https://amritasaha1812.github.io/CSQA/) - Complex Sequential Question Answering
 
 ### Multilingual and Non-English Benchmarks
-* [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
+* 📙 [XTREME](https://arxiv.org/abs/2003.11080) -  Massively Multilingual Multi-task Benchmark
 * ⭐ [GLUECoS](https://github.com/microsoft/GLUECoS) - A benchmark for code-switched NLP
-* [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
-* [LinCE](https://ritual.uh.edu/lince/) - Linguistic Code-Switching Evaluation Benchmark
-* [Russian SuperGlue](https://russiansuperglue.com) - Russian SuperGlue Benchmark
+* ⭐ [IndicGLUE](https://indicnlp.ai4bharat.org/indic-glue/) - Natural Language Understanding Benchmark for Indic Languages
+* ⭐ [LinCE](https://ritual.uh.edu/lince/) - Linguistic Code-Switching Evaluation Benchmark
+* ⭐ [Russian SuperGlue](https://russiansuperglue.com) - Russian SuperGlue Benchmark
 
 ### Bio, Law, and other scientific domains
-* [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
+* ⭐ [BLURB](https://microsoft.github.io/BLURB/) - Biomedical Language Understanding and Reasoning Benchmark
 * ⭐ [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark) - Biomedical Language Understanding Evaluation benchmark
 * ⭐ [LexGLUE](https://github.com/coastalcph/lex-glue) - A Benchmark Dataset for Legal Language Understanding in English
 
@@ -190,12 +190,12 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Long-Range Arena](https://github.com/google-research/long-range-arena) - Long Range Arena for Benchmarking Efficient Transformers ([Pre-print](https://arxiv.org/abs/2011.04006)) [GitHub, 448 stars]
 
 ### Speech Processing
-* [SUPERB](http://superbbenchmark.org/) - Speech processing Universal PERformance Benchmark
+* ⭐ [SUPERB](http://superbbenchmark.org/) - Speech processing Universal PERformance Benchmark
 
 ### Other
-* [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
+* ⭐ [CodeXGLUE](https://www.microsoft.com/en-us/research/blog/codexglue-a-benchmark-dataset-and-open-challenge-for-code-intelligence/) - A benchmark dataset for code intelligence
 * ⭐ [CrossNER](https://github.com/zliucr/CrossNER) - CrossNER: Evaluating Cross-Domain Named Entity Recognition
-* [MultiNLI](cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
+* ⭐ [MultiNLI](cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
 * ⭐ [iSarcasm: A Dataset of Intended Sarcasm](https://github.com/silviu-oprea/iSarcasm) - iSarcasm is a dataset of tweets, each labelled as either sarcastic or non_sarcastic
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
@@ -298,18 +298,18 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [Is it possible for language models to achieve language understanding?](https://medium.com/@ChrisGPotts/is-it-possible-for-language-models-to-achieve-language-understanding-81df45082ee2) by Christopher Potts
 ###### Applications
 * ⭐ [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 3591 stars]
-* [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
-* [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
-* [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
+* 🗂️ [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
+* 🗂️ [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
+* 🔱 [OpenAI API](https://beta.openai.com) - API Demo to use GPT-3 for commercial applications
 ###### Open-source Efforts
-* [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication [HuggingFace Hub](https://huggingface.co/EleutherAI)
+* 📙 [GPT-Neo](https://eleuther.ai/projects/gpt-neo/) - in-progress GPT-3 open source replication [HuggingFace Hub](https://huggingface.co/EleutherAI)
 * ⭐ [GPT-J](https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b) - A 6 billion parameter, autoregressive text generation model trained on The Pile
 * 📙 [Effectively using GPT-J with few-shot learning](https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html) [Blog, July 2021]
 
 #### Other
 * 📙 [What is Two-Stream Self-Attention in XLNet](https://towardsdatascience.com/what-is-two-stream-self-attention-in-xlnet-ebfe013a0cf3) by Xu LIANG [Blog, 2019]
 * 📙 [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/) by Amit Chaudhary [Blog, 2020]
-* [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
+* 📙 [Turing NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) by Microsoft
 * 📙 [Multi-Label Text Classification with XLNet](https://towardsdatascience.com/multi-label-text-classification-with-xlnet-b5f5755302df) by Josh Xin Jie Lee [Blog, 2019]
 * ⭐ [ELECTRA](https://github.com/google-research/electra) [GitHub, 2052 stars]
 * ⭐ [Performer](https://github.com/lucidrains/performer-pytorch) implementation of Performer, a linear attention-based transformer, in Pytorch [GitHub, 849 stars]
@@ -342,7 +342,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Best Practices for NLP
 * 🎥 [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * 🎥 [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
-* [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
+* 📙 [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
 * 📙 [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * 📙 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 * 🎥 [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
@@ -785,17 +785,17 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### General
 * 📙 [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
 * 📙 [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
-* [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
-* [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
+* 📙 [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
+* 📙 [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * ⭐ [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 356 stars]
 
 #### Courses
-* [CS25: Transformers United Stanford - Fall 2021](https://web.stanford.edu/class/cs25/) [Course, Fall 2021]
-* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
-* [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
-* [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
-* [Transformer models for NLP](https://huggingface.co/course/chapter1) by HuggingFace
-* [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
+* 🎥️ [CS25: Transformers United Stanford - Fall 2021](https://web.stanford.edu/class/cs25/) [Course, Fall 2021]
+* 📙 [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) - Great and interactive course on NLP
+* 📙 [OpenClass NLP](https://openclass.ai/catalog/nlp) - Natural language processing (NLP) assignments
+* 📙 [Advanced NLP with spaCy](https://course.spacy.io/en/) - how to use spaCy to build advanced natural language understanding systems
+* 📙 [Transformer models for NLP](https://huggingface.co/course/chapter1) by HuggingFace
+* 🎥️ [Stanford NLP Seminar](https://nlp.stanford.edu/seminar/) - slides from the Stanford NLP course
 
 #### Books
 * 📙 [Natural Language Processing with Transformers](https://www.buecher.de/shop/maschinelles-lernen/natural-language-processing-with-transformers/tunstall-lewis-von-werra-leandro-wolf-thomas/products_products/detail/prod_id/64140211/) - [Book, February 2022]
@@ -904,7 +904,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [Gradsflow](https://github.com/gradsflow/gradsflow) - open-source AutoML & PyTorch Model Training Library [GitHub, 282 stars]
 
 #### OCR - Optical Character Recognition
-* [A framework for designing document processing solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) [Blog, June 2022]
+* 🎥️ [A framework for designing document processing solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) [Blog, June 2022]
 
 #### Text Generation
 * ⭐ [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 305 stars]
