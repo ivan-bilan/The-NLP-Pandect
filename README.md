@@ -271,7 +271,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) [Blog, 2020]
 * ⭐ [multilingual-t5](https://github.com/google-research/multilingual-t5) - Multilingual T5 (mT5) is a massively multilingual pretrained text-to-text transformer model [GitHub, 890 stars]
 ##### BigBird
-* [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
+* 📙 [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) original paper by Google Research [Paper, July 2020]
 ##### Reformer / Linformer / Longformer / Performers
 * 🎥️ [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451) - [Paper, February 2020] [[Video](https://www.youtube.com/watch?v=xJrKIPwVwGM), October 2020]
 * 🎥️ [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150) - [Paper, April 2020] [[Video](https://www.youtube.com/watch?v=_8KNb5iqblE), April 2020]
