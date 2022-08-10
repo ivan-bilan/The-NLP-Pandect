@@ -494,6 +494,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [ZenML](https://github.com/maiot-io/zenml) - MLOps framework to create reproducible ML pipelines for production machine learning [GitHub, 2252 stars]
 * 🔱 [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform [Paid Service]
 * ⭐ [Diffgram](https://github.com/diffgram/diffgram) - Complete training data platform for machine learning delivered as a single application [GitHub, 1432 stars]
+* 🔱 [Continual.ai](https://continual.ai/) - build, deploy, and operationalize ML models easier and faster with a declarative interface on cloud data warehouses like Snowflake, BigQuery, RedShift, and Databricks. [Paid Service]
 
 ### Transformer-based Architectures
 #### General
