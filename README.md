@@ -21,7 +21,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🎙️ - a resource you can listen to
 
-<p align="center"><b>Quick Reference Table</b></p>
+### <p align="center"><b>Quick Reference Table</b></p>
 
 | Main Section  | Sub-sections Sample |
 | ------------- | ------------- |
