@@ -161,8 +161,9 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
 * ⭐ [SuperGLUE](https://super.gluebenchmark.com) - benchmark styled after GLUE with a new set of more difficult language understanding tasks
 * ⭐ [decaNLP](https://decanlp.com) - The Natural Language Decathlon (decaNLP) for studying general NLP models
-* ⭐ [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue
+* ⭐ [dialoglue](https://github.com/alexa/dialoglue) - DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue  [GitHub, 232 stars]
 * ⭐ [DynaBench](https://dynabench.org/) - Dynabench is a research platform for dynamic data collection and benchmarking
+* ⭐ [Big-Bench](https://github.com/google/BIG-bench) -  collaborative benchmark for measuring and extrapolating the capabilities of language models [GitHub, 1200 stars]
 
 ### Summarization
 * ⭐ [WikiAsp](https://github.com/neulab/wikiasp) - WikiAsp: Multi-document aspect-based summarization Dataset
@@ -789,6 +790,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * 📙 [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * ⭐ [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 542 stars]
+* 🎥️ [Rasa Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb) - Video series explaining various Data Science and NLP Algorithms
 
 #### Courses
 * 🎥️ [CS25: Transformers United Stanford - Fall 2021](https://web.stanford.edu/class/cs25/) [Course, Fall 2021]
@@ -812,6 +814,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) [GitHub, 504 stars]
 * ⭐ [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) [GitHub, 260 stars]
 * ⭐ [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - demos with the Transformers library by HuggingFace [GitHub, 3279 stars]
+* 🗂️ [CalmCode Tutorials](https://calmcode.io/#science) - Set of Python Data Science Tutorials
 
 ![The-NLP-Communities](./Resources/Images/pandect_communities.png)
 -----
