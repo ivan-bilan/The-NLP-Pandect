@@ -29,7 +29,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 | [NLP Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#-1)  | [NLP-only Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-only-podcasts), [Podcasts with many NLP Episodes](https://github.com/ivan-bilan/The-NLP-Pandect#many-nlp-episodes) |
 | [NLP Newsletters](https://github.com/ivan-bilan/The-NLP-Pandect#-2)  | -  |
 | [NLP Meetups](https://github.com/ivan-bilan/The-NLP-Pandect#-3)  | -  |
-| [NLP YouTube Channel](https://github.com/ivan-bilan/The-NLP-Pandect#-4)  | -  |
+| [NLP YouTube Channels](https://github.com/ivan-bilan/The-NLP-Pandect#-4)  | -  |
 | [NLP Benchmarks](https://github.com/ivan-bilan/The-NLP-Pandect#-5)  | [General NLU](https://github.com/ivan-bilan/The-NLP-Pandect#general-nlu), [Question Answering](https://github.com/ivan-bilan/The-NLP-Pandect#question-answering), [Multilingual](https://github.com/ivan-bilan/The-NLP-Pandect#multilingual-and-non-english-benchmarks)  |
 | [Research Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-6) | [Resource on Transformer Models](https://github.com/ivan-bilan/The-NLP-Pandect#transformer-based-architectures), [Distillation and Pruning](https://github.com/ivan-bilan/The-NLP-Pandect#distillation-pruning-and-quantization), [Automated Summarization](https://github.com/ivan-bilan/The-NLP-Pandect#automated-summarization)  |
 | [Industry Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-7)  | [Best Practices for NLP Systems](https://github.com/ivan-bilan/The-NLP-Pandect#best-practices-for-nlp), [MLOps for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#mlops-for-nlp) |
