@@ -21,6 +21,28 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🎙️ - a resource you can listen to
 
+> Quick Reference Table:
+
+| Main Section  | Sub-sections Sample |
+| ------------- | ------------- |
+| [NLP Resources](https://github.com/ivan-bilan/The-NLP-Pandect#)  | [Paper Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#papers-and-paper-summaries), [Conference Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#conference-summaries), [NLP Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-datasets) |
+| [NLP Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#-1)  | -  |
+| [NLP Newsletters](https://github.com/ivan-bilan/The-NLP-Pandect#-2)  | -  |
+| [NLP Meetups](https://github.com/ivan-bilan/The-NLP-Pandect#-3)  | -  |
+| [NLP YouTube Channel](https://github.com/ivan-bilan/The-NLP-Pandect#-4)  | -  |
+| [NLP Benchmarks](https://github.com/ivan-bilan/The-NLP-Pandect#-5)  | [General NLU](https://github.com/ivan-bilan/The-NLP-Pandect#general-nlu), [Question Answering](https://github.com/ivan-bilan/The-NLP-Pandect#question-answering), [Multilingual](https://github.com/ivan-bilan/The-NLP-Pandect#multilingual-and-non-english-benchmarks)  |
+| [Research Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-6) | [Resource on Transformer Models](https://github.com/ivan-bilan/The-NLP-Pandect#transformer-based-architectures), [Distillation and Pruning](https://github.com/ivan-bilan/The-NLP-Pandect#distillation-pruning-and-quantization), [Automated Summarization](https://github.com/ivan-bilan/The-NLP-Pandect#automated-summarization)  |
+| [Industry Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-7)  | [Best Practices for NLP Systems](https://github.com/ivan-bilan/The-NLP-Pandect#best-practices-for-nlp), [MLOps for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#mlops-for-nlp) |
+| [Speech Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#-8)  | -  |
+| [Topics Modeling](https://github.com/ivan-bilan/The-NLP-Pandect#-9)  | -  |
+| [Keyword Extraction](https://github.com/ivan-bilan/The-NLP-Pandect#-10)  | -  |
+| [Responsible NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-11)  | -  |
+| [NLP Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#-12)  | -  |
+| [Learning NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-13)  | -  |
+| [NLP Communities](https://github.com/ivan-bilan/The-NLP-Pandect#-14)  | -  |
+| [Other NLP Topics](https://github.com/ivan-bilan/The-NLP-Pandect#-15)  | -  |
+
+
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 -----
 > __Note__
@@ -340,7 +362,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > __Note__
 > Section keywords: best practices, MLOps
 
-### Best Practices for NLP
+### Best Practices for building NLP Projects
 * 🎥 [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
 * 🎥 [EMNLP 2020: High Performance Natural Language Processing](https://slideslive.com/38940826) by Google Research, [Recording](https://slideslive.com/38940826), Nov. 2020]
 * 📙 [Practical Natural Language Processing](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054) - A Comprehensive Guide to Building Real-World NLP Systems [Book, June 2020]
