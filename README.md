@@ -128,7 +128,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ![The-NLP-Newsletter](./Resources/Images/pandect_scroll.png)
 -----
 
-* 📙 [NLP News](http://newsletter.ruder.io) by [Sebastian Ruder](https://ruder.io)
+* 📙 [NLP News](https://ruder.io/nlp-news/) by [Sebastian Ruder](https://ruder.io)
 * 📙 [dair.ai Newsletter](https://dair.ai/newsletter/) by [dair.ai](dair.ai)
 * 📙 [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
 * 📙 [Papers with Code](https://paperswithcode.com)
