@@ -33,14 +33,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 | [NLP Benchmarks](https://github.com/ivan-bilan/The-NLP-Pandect#-5)  | [General NLU](https://github.com/ivan-bilan/The-NLP-Pandect#general-nlu), [Question Answering](https://github.com/ivan-bilan/The-NLP-Pandect#question-answering), [Multilingual](https://github.com/ivan-bilan/The-NLP-Pandect#multilingual-and-non-english-benchmarks)  |
 | [Research Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-6) | [Resource on Transformer Models](https://github.com/ivan-bilan/The-NLP-Pandect#transformer-based-architectures), [Distillation and Pruning](https://github.com/ivan-bilan/The-NLP-Pandect#distillation-pruning-and-quantization), [Automated Summarization](https://github.com/ivan-bilan/The-NLP-Pandect#automated-summarization)  |
 | [Industry Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-7)  | [Best Practices for NLP Systems](https://github.com/ivan-bilan/The-NLP-Pandect#best-practices-for-nlp), [MLOps for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#mlops-for-nlp) |
-| [Speech Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#-8)  | [Geenral Resources](https://github.com/ivan-bilan/The-NLP-Pandect#general-speech-recognition), [Text to Speech](https://github.com/ivan-bilan/The-NLP-Pandect#text-to-speech), [Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#datasets)  |
-| [Topic Modeling](https://github.com/ivan-bilan/The-NLP-Pandect#-9)  | []()  |
-| [Keyword Extraction](https://github.com/ivan-bilan/The-NLP-Pandect#-10)  | []()  |
-| [Responsible NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-11)  | []()  |
-| [NLP Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#-12)  | []()  |
-| [Learning NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-13)  | []()  |
-| [NLP Communities](https://github.com/ivan-bilan/The-NLP-Pandect#-14)  | []()  |
-| [Other NLP Topics](https://github.com/ivan-bilan/The-NLP-Pandect#-15)  | []() |
+| [Speech Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#-8)  | [General Resources](https://github.com/ivan-bilan/The-NLP-Pandect#general-speech-recognition), [Text to Speech](https://github.com/ivan-bilan/The-NLP-Pandect#text-to-speech), [Speech to Text](https://github.com/ivan-bilan/The-NLP-Pandect#speech-to-text), [Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#datasets)  |
+| [Topic Modeling](https://github.com/ivan-bilan/The-NLP-Pandect#-9)  | [Blogs](https://github.com/ivan-bilan/The-NLP-Pandect#blogs-1), [Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#frameworks-for-topic-modeling), [Repositories and Projects](https://github.com/ivan-bilan/The-NLP-Pandect#repositories-1)  |
+| [Keyword Extraction](https://github.com/ivan-bilan/The-NLP-Pandect#-10)  | [Text Rank](https://github.com/ivan-bilan/The-NLP-Pandect#text-rank), [Rake](https://github.com/ivan-bilan/The-NLP-Pandect#rake---rapid-automatic-keyword-extraction), [Other Approaches](https://github.com/ivan-bilan/The-NLP-Pandect#other-approaches) |
+| [Responsible NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-11)  | [NLP and ML Interpretability](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-and-ml-interpretability), [Ethics, Bias, and Equality in NLP](https://github.com/ivan-bilan/The-NLP-Pandect#ethics-bias-and-equality-in-nlp), [Adversarial Attacks for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-attacks-for-nlp) |
+| [NLP Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#-12)  | [General Purpose](https://github.com/ivan-bilan/The-NLP-Pandect#general-purpose), [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation), [Machine Translation](https://github.com/ivan-bilan/The-NLP-Pandect#machine-translation), [Adversarial Attacks](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-nlp-attacks--behavioral-testing), [Dialog Systems & Speech](https://github.com/ivan-bilan/The-NLP-Pandect#dialog-systems-and-speech), [Entity and String Matching](https://github.com/ivan-bilan/The-NLP-Pandect#entity-and-string-matching), [Non-English Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#non-english-oriented), [Text Annotation](https://github.com/ivan-bilan/The-NLP-Pandect#text-data-labelling) |
+| [Learning NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-13)  | [Courses](https://github.com/ivan-bilan/The-NLP-Pandect#courses), [Books](https://github.com/ivan-bilan/The-NLP-Pandect#books), [Tutorials](https://github.com/ivan-bilan/The-NLP-Pandect#tutorials)  |
+| [NLP Communities](https://github.com/ivan-bilan/The-NLP-Pandect#-14)  | -  |
+| [Other NLP Topics](https://github.com/ivan-bilan/The-NLP-Pandect#-15)  | [Tokenization](https://github.com/ivan-bilan/The-NLP-Pandect#tokenization), [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation-and-weak-supervision), [Named Entity Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#named-entity-recognition-ner), [Error Correction](https://github.com/ivan-bilan/The-NLP-Pandect#spell-correction--error-correction), [AutoML/AutoNLP](https://github.com/ivan-bilan/The-NLP-Pandect#automl--autonlp), [Text Generation](https://github.com/ivan-bilan/The-NLP-Pandect#text-generation) |
 
 
 ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
@@ -793,6 +793,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [RakutenMA](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript [GitHub, 446 stars]
 * ⭐ [toiro](https://github.com/taishi-i/toiro) - a comparison tool of Japanese tokenizers [GitHub, 104 stars]
 
+#### Thai
+* ⭐ [AttaCut](https://github.com/PyThaiNLP/attacut) - Fast and Reasonably Accurate Word Tokenizer for Thai [GitHub, 67 stars] 
+* ⭐ [ThaiLMCut](https://github.com/meanna/ThaiLMCUT) - Word Tokenizer for Thai Language [GitHub, 15 stars] 
+
+#### Chinese
+* ⭐ [Spacy-pkuseg](https://github.com/explosion/spacy-pkuseg) - The pkuseg toolkit for multi-domain Chinese word segmentation [GitHub, 19 stars] 
+
 #### Other
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 94 stars]
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2330 stars]
@@ -934,6 +941,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### OCR - Optical Character Recognition
 * 🎥️ [A framework for designing document processing solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) [Blog, June 2022]
+
+#### Document AI
+* 📙 [Table Transformer](https://huggingface.co/docs/transformers/main/model_doc/table-transformer) + [HuggingFace Models](https://huggingface.co/models?other=table-transformer)
 
 #### Text Generation
 * ⭐ [keytotext](https://github.com/gagan3012/keytotext) - a model which will take keywords as inputs and generate sentences as outputs [GitHub, 341 stars]
