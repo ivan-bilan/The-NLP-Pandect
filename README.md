@@ -48,8 +48,6 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > __Note__
 > Section keywords: paper summaries, compendium, awesome list
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
-
 #### Compendiums and awesome lists on the topic of NLP:
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
 * ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) by [keon](https://github.com/keon) [GitHub, 13861 stars]
@@ -77,7 +75,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [NLP top 10 conferences Compendium](https://github.com/soulbliss/NLP-conference-compendium) by [soulbliss](https://github.com/soulbliss) [GitHub, 436 stars]
 * 📙 [ICLR 2020 Trends](https://gsarti.com/post/iclr2020-transformers/)
 * 📙 [SpacyIRL 2019 Conference in Overview](https://www.linkedin.com/pulse/spacyirl-2019-conference-overview-ivan-bilan/)
-* [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
+* 📙 [Paper Digest](https://www.paperdigest.org/category/nlp/) - Conferences and Papers in Overview
 * 🎥 [Video Recordings from Conferences](https://crossminds.ai/explore/)
 
 #### NLP Progress and NLP Tasks:
@@ -88,7 +86,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [NLP Datasets](https://github.com/niderhoff/nlp-datasets) by [niderhoff](https://github.com/niderhoff) [GitHub, 5199 stars]
 * ⭐ [Datasets](https://github.com/huggingface/datasets) by Huggingface [GitHub, 14703 stars]
 * 🗂️ [Big Bad NLP Database](https://datasets.quantumstat.com)
-* [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
+* ⭐ [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
 * ⭐ [MLDoc](https://github.com/facebookresearch/MLDoc) - Corpus for Multilingual Document Classification in Eight Language [GitHub, 144 stars]
 
 #### Word and Sentence embeddings:
@@ -97,7 +95,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Awesome BERT](https://github.com/Jiakui/awesome-bert) by [Jiakui](https://github.com/Jiakui) [GitHub, 1798 stars]
 
 #### Notebooks, Scripts and Repositories
-* [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
+* ⭐ [The Super Duper NLP Repo](https://notebooks.quantumstat.com) [Website, 2020]
 
 #### Non-English resources and Compendiums
 * ⭐ [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) [GitHub, 321 stars]
@@ -121,7 +119,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### NLP History
 ##### General
-* [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview) [GitHub, 1262 stars]
+* ⭐ [Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview) [GitHub, 1262 stars]
 * 📙 [A Review of the Neural History of Natural Language Processing](https://aylien.com/blog/a-review-of-the-recent-history-of-natural-language-processing) [Blog, October 2018]
 ##### 2020 Year in Review
 * 📙 [Natural Language Processing in 2020: The Year In Review](https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/) [Blog, December 2020]
@@ -165,7 +163,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 * 🎥 [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * 🎥 [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
-* * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
+* 🎥 [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
@@ -361,7 +359,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization [GitHub, 146 stars]
 
 ### Knowledge Graphs and NLP
-* [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation, Oct 2021]
+* 📙 [Fusing Knowledge into Language Model](https://drive.google.com/file/d/1Zgijg9RPxF-tIGWU9nt9rBcryOIB4lOk/view) [Presentation, Oct 2021]
 
 
 ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
