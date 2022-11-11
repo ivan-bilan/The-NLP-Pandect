@@ -21,7 +21,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > 
 > 🎙️ - a resource you can listen to
 
-### <p align="center"><b>Quick Reference Table</b></p>
+### <p align="center"><b>Table of Contents</b></p>
 
 | Main Section  | Sub-sections Sample |
 | ------------- | ------------- |
@@ -47,6 +47,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 > __Note__
 > Section keywords: paper summaries, compendium, awesome list
+
+[🔙 Back to Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 #### Compendiums and awesome lists on the topic of NLP:
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
