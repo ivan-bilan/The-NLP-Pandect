@@ -23,7 +23,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### <p align="center"><b>Table of Contents</b></p>
 
-| Main Section  | Sub-sections Sample |
+| 📇 Main Section  | 🗃️ Sub-sections Sample |
 | ------------- | ------------- |
 | [NLP Resources](https://github.com/ivan-bilan/The-NLP-Pandect#)  | [Paper Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#papers-and-paper-summaries), [Conference Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#conference-summaries), [NLP Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-datasets) |
 | [NLP Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#-1)  | [NLP-only Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-only-podcasts), [Podcasts with many NLP Episodes](https://github.com/ivan-bilan/The-NLP-Pandect#many-nlp-episodes) |
@@ -48,7 +48,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 > __Note__
 > Section keywords: paper summaries, compendium, awesome list
 
-[🔙 Back to Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 #### Compendiums and awesome lists on the topic of NLP:
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
@@ -130,7 +130,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 -----
-
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 #### NLP-only podcasts
 * 🎙️ [NLP Highlights](https://soundcloud.com/nlp-highlights) [Years: 2017 - now, Status: active]
 * 🎙️ [The NLP Zone](https://de.player.fm/series/the-nlp-zone) [Episodes](https://player.captivate.fm/episode/e2f87641-1421-4729-a2b5-d64951c845c6) [Years: 2021 - now, Status: active]
@@ -162,12 +162,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Meetups](./Resources/Images/pandect_meetups.png)
 -----
+
 * 🎥 [NLP Zurich](https://www.linkedin.com/company/nlp-zurich/) [[YouTube Recordings](https://www.youtube.com/channel/UCLLX-5j9UNYassOwS0nveDQ)]
 * 🎥 [Hacking-Machine-Learning](https://www.meetup.com/Hacking-Machine-Learning) [[YouTube Recordings](https://www.youtube.com/channel/UCt5RvrC-_3X7FNAWhORVn7Q)]
 * * [NY-NLP (New York)](https://www.meetup.com/NY-NLP/)
 
 ![The-NLP-Youtube](./Resources/Images/pandect_youtube.png)
 -----
+
 * 🎥 [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 * 🎥 [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
 * 🎥 [Kaggle Reading Group](https://www.youtube.com/watch?v=PhTF7yJNR70&list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
@@ -180,6 +182,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 ### General NLU
 * ⭐ [GLUE](https://gluebenchmark.com) - General Language Understanding Evaluation (GLUE) benchmark
@@ -225,6 +228,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 ### General
 * 📙 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy [Keywords: research, training, 2019]
 * 📙 [Recent Advances in NLP via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243) [Paper, November 2021]
@@ -363,6 +368,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 > __Note__
 > Section keywords: best practices, MLOps
+ 
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 ### Best Practices for building NLP Projects
 * 🎥 [In Search of Best Practices for NLP Projects](https://www.youtube.com/watch?v=0S9iai4Ld4I) [[Slides](https://www.dropbox.com/s/4fymdzz4yh3mlyz/NLP_Best_Practices_Bilan.pdf?dl=0), Dec. 2020]
@@ -522,6 +529,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 🔱 [Continual.ai](https://continual.ai/) - build, deploy, and operationalize ML models easier and faster with a declarative interface on cloud data warehouses like Snowflake, BigQuery, RedShift, and Databricks. [Paid Service]
 
 ### Transformer-based Architectures
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 #### General
 * 📙 [Why BERT Fails in Commercial Environments](https://www.intel.com/content/www/us/en/artificial-intelligence/posts/bert-commercial-environments.html) by Intel AI [Blog, 2020]
 * 📙 [Fine Tuning BERT for Text Classification with FARM](https://towardsdatascience.com/fine-tuning-bert-for-text-classification-with-farm-2880665065e2) by Sebastian Guggisberg [Blog, 2020]
@@ -560,6 +569,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > __Note__
 > Section keywords: speech recognition
 
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 ### General Speech Recognition
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 6138 stars]
 * ⭐ [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Baidu's DeepSpeech architecture [GitHub, 20516 stars]
@@ -584,6 +595,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > __Note__
 > Section keywords: topic modeling
 
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 ### Blogs
 * 📙 [Topic Modelling with PySpark and Spark NLP](https://medium.com/trustyou-engineering/topic-modelling-with-pyspark-and-spark-nlp-a99d063f1a6e) by Maria Obedkova [Spark, Blog, 2020]
 * 📙 [A Unique Approach to Short Text Clustering (Algorithmic Theory)](https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1) by Brittany Bowers [Blog, 2020]
@@ -606,6 +619,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 -----
 > __Note__
 > Section keywords: keyword extraction
+
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 ### Text Rank
 * ⭐ [PyTextRank](https://github.com/DerwenAI/pytextrank) - PyTextRank is a Python implementation of TextRank as a spaCy pipeline extension [GitHub, 1918 stars]
@@ -631,6 +646,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 -----
 > __Note__
 > Section keywords: ethics, responsible NLP
+
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 ### NLP and ML Interpretability
 
@@ -674,6 +691,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 -----
 > __Note__
 > Section keywords: frameworks
+
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
 
 ### General Purpose
 * ⭐ [spaCy](https://github.com/explosion/spaCy) by Explosion AI [GitHub, 24528 stars]
@@ -818,6 +837,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > __Note__
 > Section keywords: learn NLP
 
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 #### General
 * 📙 [Learn NLP the practical way](https://towardsdatascience.com/learn-nlp-the-practical-way-b854ce1035c4) [Blog, Nov. 2019]
 * 📙 [Learn NLP the Stanford way](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760) ([+Part 2](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-2-7447f2c12b36)) [Blog, Nov 2020]
@@ -856,6 +877,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ![Other-NLP-Topics](Resources/Images/pandect_papyrus_other.png)
 -----
+
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents)
+
 #### Tokenization
 * ⭐ [tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production [GitHub, 6015 stars]
 * ⭐ [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation [GitHub, 6266 stars]
