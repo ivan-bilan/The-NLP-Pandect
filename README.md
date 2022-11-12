@@ -397,6 +397,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) [GitHub, 11865 stars]
 
 #### Reading Material
+* 📙 [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302) [Paper, May 2022]
+* 📙 [Requirements and Reference Architecture for MLOps:Insights from Industry](https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413) [Paper, Oct 2022]
 * 📙 [MLOps: What It Is, Why it Matters, and How To Implement It](https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective) by Neptune AI [Blog, July 2021]
 * 📙 [Best MLOps Tools You Need to Know as a Data Scientist](https://neptune.ai/blog/best-mlops-tools)  by Neptune AI [Blog, July 2021]
 * 📙 [Robust MLOps](https://blog.verta.ai/blog/robust-mlops-with-open-source-modeldb-docker-jenkins-and-prometheus) - Robust MLOps with Open-Source: ModelDB, Docker, Jenkins and Prometheus [Blog, May 2021]
@@ -843,7 +845,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [Choosing the right course for a Practical NLP Engineer](https://airev.us/ultimate-guide-to-natural-language-processing-courses/)
 * 📙 [12 Best Natural Language Processing Courses & Tutorials to Learn Online](https://blog.coursesity.com/best-natural-language-processing-courses/)
 * ⭐ [Treasure of Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Natural Language processing papers, videos, blogs, official repos along with colab Notebooks [GitHub, 542 stars]
-* 🎥️ [Rasa Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb) - Video series explaining various Data Science and NLP Algorithms
+* 🎥️ [Rasa Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb) - YouTube series by Rasa explaining various Data Science and NLP Algorithms
+* 🎥️ [ExplosionAI Videos](https://www.youtube.com/c/ExplosionAI/videos) - YouTube series by ExplosionAI teaching you how to use spacy and apply it for NLP
 
 #### Courses
 * 🎥️ [CS25: Transformers United Stanford - Fall 2021](https://web.stanford.edu/class/cs25/) [Course, Fall 2021]
