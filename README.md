@@ -109,6 +109,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 468 stars]
 * ⭐ [Persian NLP Benchmark](https://github.com/Mofid-AI/persian-nlp-benchmark) - benchmark for evaluation and comparison of various NLP tasks in Persian language [GitHub, 69 stars]
 * ⭐ [nlp-greek](https://github.com/Yuliya-HV/nlp-greek) -  Greek language sources [GitHub, 5 stars]
+* ⭐ [Awesome NLP Resources for Hungarian](https://github.com/oroszgy/awesome-hungarian-nlp) [GitHub, 160 stars]
 
 #### Pre-trained NLP models
 * ⭐ [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) [GitHub, 163 stars]
