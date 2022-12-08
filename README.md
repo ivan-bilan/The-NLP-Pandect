@@ -106,6 +106,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [AI4Bharat-IndicNLP Portal](https://indicnlp.ai4bharat.org)
 * ⭐ [ARBML](https://github.com/ARBML/ARBML) - Implementation of many Arabic NLP and ML projects [GitHub, 284 stars]
 * ⭐ [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish [GitHub, 1021 stars]
+* ⭐ [TDD AI](https://tdd.ai) - An open-source platform for all Turkish datasets, language models, and NLP tools.
 * ⭐ [KLUE](https://github.com/KLUE-benchmark/KLUE) - Korean Language Understanding Evaluation [GitHub, 468 stars]
 * ⭐ [Persian NLP Benchmark](https://github.com/Mofid-AI/persian-nlp-benchmark) - benchmark for evaluation and comparison of various NLP tasks in Persian language [GitHub, 69 stars]
 * ⭐ [nlp-greek](https://github.com/Yuliya-HV/nlp-greek) -  Greek language sources [GitHub, 5 stars]
