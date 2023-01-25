@@ -378,6 +378,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [How to Structure and Manage NLP Projects](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates) [Blog, May 2021]
 * 📙 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 * 🎥 [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
+* 📙 [Measuring Embedding Drift](https://arize.com/blog/embedding-drift/) - Best practices for monitoring drift of NLP models [Blog, December 2022]
 
 ### MLOps for NLP
 MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when building and deploying NLP pipelines.
@@ -413,10 +414,12 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [What I’ve learned about MLOps from speaking with 100+ ML practitioners](https://veselinastaneva.medium.com/what-ive-learned-about-mlops-from-speaking-with-100-ml-practitioners-3025e33458ad) [Blog, May 2021]
 * 📙 [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
 * 📙 [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
+* 📙 [MLOps Ecosystem Overview](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf) [Blog, 2021]
 
 #### Learning Material
 * 🗂 [MLOps cource](https://madewithml.com/#mlops) by Made With ML
 * 🗂 [GitHub MLOps](https://mlops.githubapp.com) - collection of resources on how to facilitate Machine Learning Ops with GitHub
+* 🗂 [ML Observability Fundamentals Course](https://arize.com/ml-observability-fundamentals/) Learn how to monitor and root-cause issues with production NLP models
 
 #### MLOps Communities
 * [The MLOps Community](https://mlops.community/) - blogs, slack group, newsletter and more all about MLOps
@@ -488,6 +491,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Data and Model Observability
 
 ##### General
+* ⭐ [Arize AI](https://arize.com/) - embedding drift monitoring for NLP models
 * ⭐ [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 1907 stars]
 * ⭐ [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 1450 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 856 stars]
