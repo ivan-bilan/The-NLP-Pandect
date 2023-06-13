@@ -6,7 +6,7 @@ with open("../README.md", encoding="utf8") as f:
 
 set_of_urls = set()
 
-for i, line in enumerate(lines):
+for line in lines:
     urls = re.findall('(?:(?:https?|ftp):\/\/)?[\w/\-?=%.]+\.[\w/\-&?=%.]+', line)
 
     for url in urls:
