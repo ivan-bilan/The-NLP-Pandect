@@ -492,6 +492,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### General
 * ⭐ [Arize AI](https://arize.com/) - embedding drift monitoring for NLP models
+* ⭐ [Arize-Phoenix](https://phoenix.arize.com/) - ML observability for LLMs, vision, language, and tabular models
 * ⭐ [whylogs](https://github.com/whylabs/whylogs) - open source standard for data and ML logging [GitHub, 1907 stars]
 * ⭐ [Rubrix](https://github.com/recognai/rubrix) - open-source tool for exploring and iterating on data for artificial intelligence projects [GitHub, 1450 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 856 stars]
