@@ -256,6 +256,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) by Lilian Weng [Blog, 2018]
 * 📙 [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained) [Blog, 2019]
 * 🎥️ [Attention is all you need; Attentional Neural Network Models](https://www.youtube.com/watch?v=rBCqOTEfxvg) by Łukasz Kaiser [Talk, 2017]
+* 📙 [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html?s=03) [July, 2023]
 * 🎥️ [Understanding and Applying Self-Attention for NLP](https://www.youtube.com/watch?v=OYygPG4d9H0) [Talk, 2018]
 * 📙 [The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures](https://arxiv.org/abs/2104.10640) [Paper, April 2021]
 * 📙 [Pre-Trained Models: Past, Present and Future](https://arxiv.org/abs/2106.07139) [Paper, June 2021]
@@ -576,12 +577,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [ESPnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit [GitHub, 8355 stars]
 * 📙 [HuBERT](https://ai.facebook.com/blog/hubert-self-supervised-representation-learning-for-speech-recognition-generation-and-compression) - Self-supervised representation learning for speech recognition, generation, and compression [Blog, June 2021]
 
-### Text to Speech
+### Text to Speech / Speech Generation
 * ⭐ [FastSpeech](https://github.com/xcmyz/FastSpeech) - The Implementation of FastSpeech based on pytorch [GitHub, 857 stars]
 * ⭐ [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech [GitHub, 34356 stars]
+* 🔱 [NotebookLM](https://notebooklm.google/) - Google Gemini powered personal assistant / podcast generator
 
 ### Speech to Text
 * ⭐ [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision, by OpenAI [GitHub, 68884 stars]
+* ⭐ [vibe](https://github.com/thewh1teagle/vibe) - GUI tool to work with whisper, multilingual and cuda support included [GitHub, 931 stars]
 
 ### Datasets
 * ⭐ [VoxPopuli](https://github.com/facebookresearch/voxpopuli) - large-scale multilingual speech corpus for representation learning [GitHub, 507 stars]
@@ -732,13 +735,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers [GitHub, 2543 stars]
 * ⭐ [haystack](https://github.com/deepset-ai/haystack) - Transformers at scale for question answering & neural search. [GitHub, 16997 stars]
 
-### Dialog Systems and Speech
+### Dialogue Systems and Speech
 * ⭐ [DeepPavlov](https://github.com/deepmipt/DeepPavlov) by MIPT [GitHub, 6676 stars]
 * ⭐ [ParlAI](https://github.com/facebookresearch/ParlAI) by FAIR [GitHub, 10477 stars]
 * ⭐ [rasa](https://github.com/RasaHQ/rasa) - Framework for Conversational Agents [GitHub, 18726 stars]
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) - Automatic Speech Recognition Toolkit [GitHub, 6370 stars]
-* ⭐ [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chat bots [GitHub, 14039 stars]
+* ⭐ [ChatterBot](https://github.com/gunthercox/ChatterBot) - conversational dialog engine for creating chatbots [GitHub, 14039 stars]
 * ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) - open-source and all-in-one speech toolkit based on PyTorch [GitHub, 8674 stars]
+* ⭐ [dialoguefactory](https://github.com/smartinovski/dialoguefactory/tree/main) Generate continuous dialogue data in a simulated textual world [GitHub, 5 stars]
 
 ### Word/Sentence-embeddings oriented
 * ⭐ [MUSE](https://github.com/facebookresearch/MUSE) A library for Multilingual Unsupervised or Supervised word Embeddings [GitHub, 3181 stars]
@@ -770,6 +774,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [argos-translate](https://github.com/argosopentech/argos-translate) - Open source neural machine translation in Python [GitHub, 3771 stars]
 * ⭐ [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services [GitHub, 605 stars]
 * ⭐ [dl-translate](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library built on Huggingface transformers [GitHub, 440 stars]
+* ⭐ [CTranslate2](https://github.com/OpenNMT/CTranslate2) - CTranslate2 end-to-end machine translation [GitHub, 3300 stars]
 
 ### Entity and String Matching
 * ⭐ [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation [GitHub, 736 stars]
@@ -790,9 +795,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 ### Hastag Segmentation
 * ⭐ [hashformers](https://github.com/ruanchaves/hashformers) - automatically inserting the missing spaces between the words in a hashtag [GitHub, 68 stars]
 
-### Books Analysis / Literary Analysis
+### Books Analysis / Literary Analysis / Semantic Search
 * ⭐ [booknlp](https://github.com/booknlp/booknlp) - a natural language processing pipeline that scales to books and other long documents (in English) [GitHub, 785 stars]
 * ⭐ [bookworm](https://github.com/harrisonpim/bookworm) - ingests novels, builds an implicit character network and a deeply analysable graph [GitHub, 76 stars]
+* ⭐ [SemanticFinder](https://github.com/do-me/SemanticFinder) - frontend-only live semantic search with transformers.js [GitHub, 224 stars]
 
 ### Non-English oriented
 #### Japanese
@@ -816,15 +822,20 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Chinese
 * ⭐ [Spacy-pkuseg](https://github.com/explosion/spacy-pkuseg) - The pkuseg toolkit for multi-domain Chinese word segmentation [GitHub, 53 stars] 
 
+#### Ukrainian
+* ⭐ [recruitment-dataset](https://github.com/Stereotypes-in-LLMs/recruitment-dataset) - Recruitment Dataset Preprocessing and Recommender System (Ukrainian, English)
+
 #### Other
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 103 stars]
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2389 stars]
 * ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 1383 stars]
 * ⭐ [PTT5](https://github.com/unicamp-dl/PTT5) - Pretraining and validating the T5 model on Brazilian Portuguese data [GitHub, 84 stars]
 
-### Text Data Labelling
+### Text Data Labelling & Classification
 * ⭐ [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classifcation in Python [GitHub, 549 stars]
 * ⭐ [Doccano](https://github.com/doccano/doccano) - open source annotation tool for machine learning practitioners [GitHub, 9460 stars]
+* ⭐ [Adala](https://github.com/HumanSignal/Adala) - Autonomous DAta (Labeling) Agent framework [GitHub, 927 stars]
+* ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [GitHub, 1585 stars]
 * 🔱 [Prodigy](https://prodi.gy/) - annotation tool powered by active learning [Paid Service]
 
 ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
@@ -890,6 +901,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) - Collaborative Repository of Natural Language Transformations [GitHub, 773 stars]
 * ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [GitHub, 1585 stars]
 * ⭐ [snorkel](https://github.com/snorkel-team/snorkel) Framework to generate training data [GitHub, 5791 stars]
+* ⭐ [dialoguefactory](https://github.com/smartinovski/dialoguefactory/tree/main) Generate continuous dialogue data in a simulated textual world [GitHub, 5 stars]
 
 ##### Reading Material and Tutorials
 * ⭐ [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075) [Paper, May 2021] [GitHub Link](https://github.com/styfeng/DataAug4NLP)
@@ -930,6 +942,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [JamSpell](https://github.com/bakwc/JamSpell) - spell checking library - accurate, fast, multi-language [GitHub, 608 stars]
 * ⭐ [pycorrector](https://github.com/shibing624/pycorrector) - spell correction for Chinese [GitHub, 5517 stars]
 * ⭐ [contractions](https://github.com/kootenpv/contractions) - Fixes contractions such as `you're` to you `are` [GitHub, 308 stars]
+* 📙 [Fine Tuning T5 for Grammar Correction](https://sachinruk.github.io/blog/2022-11-07-t5-for-grammar-correction.html) by Sachin Abeywardana [Blog, Nov 2022]
 
 #### Style Transfer for NLP
 * ⭐ [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer) - Neural Language Style Transfer framework [GitHub, 475 stars]
