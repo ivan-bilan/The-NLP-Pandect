@@ -7,12 +7,14 @@ GitHub profile settings.
 import re
 import requests
 
+from tqdm import tqdm
+
 from github_access_token import github_access_token
 
 with open("../README.md", encoding="utf8") as f:
     lines = f.readlines()
 
-for i, line in enumerate(lines):
+for i, line in tqdm(enumerate(lines)):
     if "github.com" in line:
         try:
             username, project_name = re.search(r".*?github.com/(.*?)/(.*?)\).*?", line).groups()
@@ -24,10 +26,12 @@ for i, line in enumerate(lines):
             }
             headers = {'Authorization': 'token {}'.format(github_access_token)}
             r = requests.get(query_url, headers=headers, params=params)
+            # print(r.json())
             number_of_stars = r.json()["stargazers_count"]
             line = re.sub(r"(?is)GitHub,? .*? ?stars", "GitHub, {} stars".format(number_of_stars), line)
             lines[i] = line
-        except AttributeError:
+        except (KeyError, AttributeError) as e:
+            print(line, e)
             pass
 
 with open('README.md', 'a', encoding="utf8") as f:
