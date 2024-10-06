@@ -4,6 +4,7 @@ regenerate the README.md with the updated star count. All you need is a GitHub A
 GitHub profile settings.
 """
 
+
 import re
 import requests
 
@@ -20,15 +21,21 @@ for i, line in tqdm(enumerate(lines)):
             username, project_name = re.search(r".*?github.com/(.*?)/(.*?)\).*?", line).groups()
             project_name = project_name.split("/")[0]
 
-            query_url = "https://api.github.com/repos/{}/{}/".format(username, project_name).strip("/")
+            query_url = f"https://api.github.com/repos/{username}/{project_name}/".strip(
+                "/"
+            )
             params = {
                 "state": "open",
             }
-            headers = {'Authorization': 'token {}'.format(github_access_token)}
+            headers = {'Authorization': f'token {github_access_token}'}
             r = requests.get(query_url, headers=headers, params=params)
             # print(r.json())
             number_of_stars = r.json()["stargazers_count"]
-            line = re.sub(r"(?is)GitHub,? .*? ?stars", "GitHub, {} stars".format(number_of_stars), line)
+            line = re.sub(
+                r"(?is)GitHub,? .*? ?stars",
+                f"GitHub, {number_of_stars} stars",
+                line,
+            )
             lines[i] = line
         except (KeyError, AttributeError) as e:
             print(line, e)
