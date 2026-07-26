@@ -216,6 +216,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [MultiNLI](https://cims.nyu.edu/~sbowman/multinli/) - Multi-Genre Natural Language Inference corpus
 * ⭐ [iSarcasm: A Dataset of Intended Sarcasm](https://github.com/silviu-oprea/iSarcasm) - iSarcasm is a dataset of tweets, each labelled as either sarcastic or non_sarcastic
 * ⭐ [SLTev](https://github.com/ELITR/SLTev) - tool for comprehensive evaluation of (simultaneous) spoken language translation [GitHub, 12 stars]
+* ⭐ [SenseBench](https://sense-bench.com) - leaderboard for English Word Sense Disambiguation, evaluating LLMs and supervised WSD systems on WordNet 3.0 senses
 
 ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 -----
