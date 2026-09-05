@@ -147,6 +147,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 -----
 
 * 📙 [NLP News](https://www.ruder.io/) by [Sebastian Ruder](https://www.ruder.io/)
+* 📙 [AI Weekly](https://aiweekly.co/) - models, agents, research, and policy ranked from what AI experts read and share
 * 📙 [This Week in NLP by Robert Dale](https://www.language-technology.com/twin)
 * 📙 [Papers with Code](https://paperswithcode.com)
 * 📙 [The Batch](https://www.deeplearning.ai/thebatch/) by [deeplearning.ai](https://www.deeplearning.ai/thebatch/)
