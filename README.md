@@ -839,6 +839,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [recruitment-dataset](https://github.com/Stereotypes-in-LLMs/recruitment-dataset) - Recruitment Dataset Preprocessing and Recommender System (Ukrainian, English)
 
 #### Other
+* ⭐ [chislo](https://github.com/rekurt/chislo) - Rust library for converting numbers, ordinals and amounts to Russian words with grammatical gender and number-based noun declension [GitHub, 1 star]
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 103 stars]
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2384 stars]
 * ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 1737 stars]
