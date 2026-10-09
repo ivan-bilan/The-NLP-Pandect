@@ -842,6 +842,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) - TextBlob: Simplified Text Processing for German [GitHub, 103 stars]
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) Transfer Learning with focus on Chinese [GitHub, 2384 stars]
 * ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit [GitHub, 1737 stars]
+* ⭐ [go-propisyu](https://github.com/rekurt/go-propisyu) - Go library for writing Russian integers, decimals, monetary amounts and ordinal numerals as words [GitHub, 5 stars]
 * ⭐ [PTT5](https://github.com/unicamp-dl/PTT5) - Pretraining and validating the T5 model on Brazilian Portuguese data [GitHub, 91 stars]
 
 ### Text Data Labelling & Classification
