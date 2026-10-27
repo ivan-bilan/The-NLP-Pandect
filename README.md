@@ -320,6 +320,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * ⭐ [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - list of all resources related to GPT-3 [GitHub, 4536 stars]
 * 🗂️ [GPT-3 Projects](https://airtable.com/shrndwzEx01al2jHM/tblYMAiGeDLXe35jC) - a map of all GPT-3 start-ups and commercial projects
 * 🗂️ [GPT-3 Demo Showcase](https://gpt3demo.com/) - GPT-3 Demo Showcase, 180+ Apps, Examples, & Resources
+* 🗂️ [RespawnStack](https://respawnstack.com/) - AI game tools directory for indie makers
 * 🔱 [OpenAI API](https://platform.openai.com/docs/overview) - API Demo to use OpenAI GPT for commercial applications
 ###### Open-source Efforts
 * 📙 [GPT-Neo](https://www.eleuther.ai/artifacts/gpt-neo) - in-progress GPT-3 open source replication [HuggingFace Hub](https://huggingface.co/EleutherAI)
